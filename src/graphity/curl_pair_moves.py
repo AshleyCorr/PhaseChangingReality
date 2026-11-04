@@ -21,8 +21,13 @@ doesn't get lost as it's spent but increase as it's spent to make more dense par
 ledger nothing; a one-way counter `gravity` grows by B + 4(lambda - 1) at every join and is never spent. A count, not an
 energy, in this build. price_from="ledger" is T103's form, kept so that T103 reproduces.
 
+HER CLOCK OF 4 NOVEMBER, AFTER T104 (clock="simultaneous", "Yes to 1"): room is judged once on the made state, for every
+pair at the same instant; the pairs with room cancel into light and the same-sign neighbours without room join into
+stores, each square used once, cancellations first. clock="sequential" is T103's and T104's sweep (cancel link after link,
+then join), kept so that they reproduce; its order was ours and is what left no square without room (the T104 reading).
+
 EXACT: ledger + light + (curl held on squares) + (held in stores) = the release, to the last digit, after every move,
-under both forms (under "gravity" the store holds only its partner's curl).
+under both forms (under "gravity" the store holds only its partner's curl) and both clocks.
 """
 from dataclasses import dataclass, field
 
@@ -58,6 +63,7 @@ class PairMoves:
     unit: float = 1.0
     ledger: float = None
     price_from: str = "ledger"
+    clock: str = "sequential"
     links: list = field(init=False)
     nb: list = field(init=False)
     store: np.ndarray = field(init=False)
@@ -71,6 +77,8 @@ class PairMoves:
         self.lam_cost = 4.0 * (self.lam - 1.0)
         if self.price_from not in ("ledger", "gravity"):
             raise ValueError(self.price_from)
+        if self.clock not in ("sequential", "simultaneous"):
+            raise ValueError(self.clock)
         self.light = 0.0
         self.held = 0.0
         self.gravity = 0.0
@@ -173,8 +181,56 @@ class PairMoves:
             done += 1
         return done
 
+    def _join_one(self, i, j, price, from_ledger):
+        c, s = self.state.c, self.store
+        s[i] = int(np.sign(c[i]))
+        c[j] = 0.0
+        if from_ledger:
+            self.ledger -= price
+            self.held += self.unit + price
+        else:
+            self.gravity += price
+            self.held += self.unit
+
+    def resolve_at_once(self):
+        """Her clock: room judged once on the made state; cancellations first, then joins; each square used once."""
+        c, s = self.state.c, self.store
+        room = np.array([self.room(i) for i in range(len(c))])
+        cancels, joins = [], []
+        for i, j in self.links:
+            if s[i] or s[j] or c[i] == 0.0:
+                continue
+            if c[i] == -c[j] and (room[i] or room[j]):
+                cancels.append((i, j))
+            elif c[i] == c[j] and not room[i] and not room[j]:
+                joins.append((i, j))
+        used, done = set(), 0
+        for k in self.rng.permutation(len(cancels)):
+            i, j = cancels[k]
+            if i in used or j in used:
+                continue
+            c[i] = c[j] = 0.0
+            used.update((i, j))
+            self.light += 2.0 * self.unit
+            self.photons += 2
+            done += 1
+        price = self.barrier + self.lam_cost
+        from_ledger = self.price_from == "ledger"
+        for k in self.rng.permutation(len(joins)):
+            i, j = joins[k]
+            if i in used or j in used or (from_ledger and self.ledger < price):
+                continue
+            self._join_one(i, j, price, from_ledger)
+            used.update((i, j))
+            self.stores_made += 1
+            done += 1
+        return done
+
     def sweep(self):
-        changes = self.make_pairs() + self.cancel_pairs() + self.join_stores()
+        if self.clock == "simultaneous":
+            changes = self.make_pairs() + self.resolve_at_once()
+        else:
+            changes = self.make_pairs() + self.cancel_pairs() + self.join_stores()
         self.sweeps += 1
         return changes
 

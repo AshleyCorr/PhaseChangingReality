@@ -270,7 +270,7 @@ twist and spin under the rules, and the simulation plays out all the options in 
   other); a cancelling pair leaves as two photons; with nowhere to go the energy joins two same-twist one-sided
   half-twist curls into one two-sided full twist in a √2 **Klein store**, which cannot move, collects photons of
   matching spin, and pays the barrier plus the λ cost; λ sets the number of pairs and the freeze sets the
-  surplus. **Not yet written as moves**; it needs a twist state on the squares in halves. Measured so far (T97):
+  surplus. **Written as moves on 4 November** (`graphity.curl_pair_moves`; her decisions that day: twist is not a second number, a store is a flag of two halves joined; the store's price comes from gravity, one-way, never spent; room is judged for every pair at the same instant). Measured (T105): on a sheet, stores form once the release packs it and their number rises with λ, her prediction. Measured so far (T97):
   under her first pair rules on a sheet a surplus grows with λ up to a full curl and then stays, and its share of
   the gross is the boundary row's, 1/R, so the Klein store needs a region with no room. Exact (T102): the toy's
   Klein relative of the tube is a strict dip behind a wall of about 21, carrying one double column's energy,

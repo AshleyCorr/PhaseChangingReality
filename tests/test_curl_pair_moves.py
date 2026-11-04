@@ -153,3 +153,37 @@ def test_t103_form_is_unchanged_by_the_gravity_switch():
     a = PairMoves(flat(12), lam=1.25, barrier=4.0, seed=11).run()
     b = PairMoves(flat(12), lam=1.25, barrier=4.0, seed=11, price_from="ledger").run()
     assert a == b and a["gravity"] == 0.0
+
+
+def test_her_clock_judges_room_once_so_a_packed_sheet_both_cancels_and_joins():
+    s = flat(8)
+    s.c[:] = 1.0
+    s.c[s.sq.index(s.sq[0])] = -1.0                                    # one anti-curl in a packed sheet of curl: no room anywhere
+    m = PairMoves(s, lam=1.25, barrier=0.0, seed=2, price_from="gravity", clock="simultaneous", ledger=0.0)
+    done = m.resolve_at_once()
+    assert m.photons == 0                                              # the odd pair had no room, so nothing cancelled
+    assert m.stores_made == done and 20 <= m.stores_made <= 31         # a maximal matching of the 63 same-sign squares, each used once
+    assert m.books() == pytest.approx(m.release + 64.0)
+    assert int(np.sum(m.store == 1)) == m.stores_made
+
+
+def test_her_clock_cancels_first_and_uses_each_square_once():
+    s = flat(8)
+    m = PairMoves(s, lam=1.25, barrier=0.0, seed=2, price_from="gravity", clock="simultaneous", ledger=2.0)
+    m.make_pairs()                                                     # one pair, with room all round
+    assert m.resolve_at_once() == 1 and m.photons == 2 and not s.c.any() and m.stores_made == 0
+
+
+def test_her_clock_books_balance_through_a_run_and_same_seed_reproduces():
+    a = PairMoves(flat(16), lam=2.0, barrier=4.0, seed=7, price_from="gravity", clock="simultaneous")
+    ra = a.run()
+    rb = PairMoves(flat(16), lam=2.0, barrier=4.0, seed=7, price_from="gravity", clock="simultaneous").run()
+    assert ra == rb and ra["frozen"] and ra["books"] == pytest.approx(ra["release"])
+    assert np.all((a.store == 0) | (np.sign(a.state.c) == a.store))
+    assert ra["stores"] == ra["stores_plus"] + ra["stores_minus"]
+
+
+def test_the_sequential_clock_is_unchanged():
+    a = PairMoves(flat(12), lam=1.25, barrier=4.0, seed=11).run()
+    b = PairMoves(flat(12), lam=1.25, barrier=4.0, seed=11, clock="sequential").run()
+    assert a == b

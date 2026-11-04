@@ -52,3 +52,10 @@ of klein bottles in the network." Built as `graphity.curl_pair_moves`, tests `te
 T103: no store forms under this form (the reading is under T103 in `PREREGISTRATION.md`). Her question of the same
 day, "can each klein be a store and the set together is a knot?", is a definition (free) with a reader built for it
 (the largest connected set of stores), zero in every cell of T103 since no stores formed.
+
+## After T103, T104 and T105 (4 November 2026)
+
+Her two further decisions the same day: the store's price comes from gravity, one-directional, never lost as it is
+spent (built as a one-way counter, a count not an energy, ours as the stand-in); and room is judged once on the made
+state for every pair at the same instant (her clock; "Yes to 1"). The sequential sweep of choice 6, ours, was what left
+no square without room (T103, T104 readings). Under her clock the stores rise with λ (T105, her prediction held).

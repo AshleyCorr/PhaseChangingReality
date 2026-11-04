@@ -3,6 +3,7 @@
     python scripts/run_curl_pair_moves.py configs/t103_curl_pair_moves.json
 
 Optional config key "price_from": "ledger" (default, T103) or "gravity" (her rule of 4 November after T103, T104).
+Optional config key "clock": "sequential" (default, T103 and T104) or "simultaneous" (her clock of 4 November, T105).
 One row per (side, lambda, barrier, replica): the census at the freeze (graphity/curl_pair_moves.py). Writes
 results/<name>.csv and .meta.json and refuses to overwrite either. Seeds: seed + 1000003 * replica + 1009 * side
 + 101 * (index of lambda) + (index of barrier), every cell its own.
@@ -33,7 +34,7 @@ def main(path):
                         seed = cfg["seed"] + 1000003 * rep + 1009 * side + 101 * li + bi
                         adj, part = torus(side, side, NO_CAP)
                         m = PairMoves(CurlState(adj, part), lam=lam, barrier=float(B), seed=seed,
-                                      price_from=cfg.get("price_from", "ledger"))
+                                      price_from=cfg.get("price_from", "ledger"), clock=cfg.get("clock", "sequential"))
                         row = m.run(max_sweeps=cfg.get("max_sweeps", 10_000))
                         out.write(dict(side=side, n_points=side * side, lam=lam, barrier=B, replica=rep, seed=seed,
                                        **row))

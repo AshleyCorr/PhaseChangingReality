@@ -1,0 +1,13 @@
+{
+  "name": "t105_curl_pair_moves_her_clock",
+  "_purpose": "T105 (PREREGISTRATION.md): T104's design under her clock of 4 November 2026 (room judged once on the made state, all pairs at the same instant; price from gravity). Registered; her prediction in her words. B enters only the gravity counter.",
+  "price_from": "gravity",
+  "clock": "simultaneous",
+  "sides": [8, 12, 16, 24],
+  "held_out_side": 24,
+  "lambdas": [1.05, 1.1, 1.25, 1.5, 2.0],
+  "barriers": [0, 4, 12, 21],
+  "replicas": 3,
+  "max_sweeps": 10000,
+  "seed": 20261106
+}

@@ -80,3 +80,39 @@ neighbours and the pass chains through. Rule 11: *stores rise with λ* → faile
 before it joins (a convention of ours, choice 6 of the design document) → replacement: room judged once on the made
 state, all pairs at the same instant (hers to accept) → the test that tells: a sandbox look (`sandbox/LOG.md`, 4
 November) shows stores forming and rising with λ under that clock; T105 is to be registered on her word.
+
+## T105. Her clock: do the Klein stores rise with λ? (registered 4 November 2026, before the run)
+
+**Question.** T104's question under her clock, decided 4 November after T104's reading ("Yes to 1"): room is judged
+once on the made state, for every pair at the same instant; the pairs with room cancel into light and the same-sign
+neighbours without room join into stores, each square used once, cancellations first. The store's price from gravity
+(T104's form). Rule 11: T104's claim → failed because the sequential sweep cancelled link after link before joining,
+ours → her clock → this test.
+
+**Design.** `configs/t105_curl_pair_moves_her_clock.json` through the same runner and module (`clock =
+"simultaneous"`). Sides 8, 12, 16, **24 held out**; the λ list, the B list (entering only the gravity counter), the
+replica count as T104; fresh seeds. The sandbox look of 4 November (`sandbox/LOG.md`) ran this clock at B = 0 on sides
+8, 16, 24 with other seeds; T105 is the registered run and the look does not score it.
+
+**Her prediction (hers, the same words):** "as lambda rises, we have more net dark matter in the new spacetime. lambda
+is related to the number of klein bottles in the network." Scored on the store count with T103's words: **RISES** /
+**FLAT** / **NONE** / **FALLS** / **MIXED**; one verdict, since B cannot change the count.
+
+**Ours, said so they can fail.** Stores form; none at λ = 1.05 and 1.10 and a count rising from 1.25 on, since the
+ledger at the low λ cannot pack the sheet (the sandbox look); stores of the two signs equal within the replicas'
+spread; net twist zero. **Held-out size 24**, written before the run: stores per square at 24 within ±30 % of the
+mean at 16 at the same λ, from the look's 0.108 → 0.107 at 1.25, 0.260 → 0.232 at 1.50, 0.488 → 0.417 at 2.00 (ours;
+the look's seeds differ). The largest connected set of stores is reported for her knot question, no verdict.
+
+**Reading** (4 November 2026, `results/t105_curl_pair_moves_her_clock.csv`, 240 rows, every run frozen within 13
+sweeps). Verdict: **RISES. Her prediction held.** At every side the mean store count never falls from one λ to the
+next and is higher at 2.00 than at 1.05: none at 1.05 and 1.10, then per square about 0.10 at 1.25, 0.18 to 0.23 at
+1.50, 0.42 to 0.48 at 2.00 (sides 8, 12, 16, 24). Stores of the two signs equal within the spread (side 24, λ = 2:
+124.9 against 123.8); net twist exactly zero in every cell; the books balance to the digit. B does not change the
+count (the cells at different B differ only by their seeds). **Held out, side 24:** stores per square at 24 against
+16 are 0.88, 0.96 and 1.03 of the value at 1.25, 1.50 and 2.00, inside the ±30 % written before the run: the size
+claim held. The largest connected set of stores (her knot question, a look): 2.5 to 4 stores at 1.25, 5 to 9 at
+1.50, 21 to 38 at 2.00, so stores sit together more as λ rises; whether that is her knot is hers to read. What this
+shows: under her rules and her clock, on a sheet, Klein stores form only once the release packs the sheet, and their
+number rises with λ. What it does not show: the billionth, the dark particle's mass, the store-to-dark-particle
+ratio, or anything about the sky (λ units only).
