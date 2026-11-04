@@ -1,0 +1,24 @@
+{
+  "_purpose": "PREREGISTRATION.md T67 (written 2026-10-16, after one sandbox look and before any registered run; VISION Updates 58 and 59; rule 11's fifth use on piece 5): does the owner's untied slab (4 x L x L, one direction curled) open from a feed, energy arriving at a fixed rate into store 0 of a shared bath of N stores? lambda 1.25; rates [0.0625, 0.25, 1.0, 4.0] units a sweep. Not exploratory. Every six-link result carries VISION Update 24's caveat.",
+  "name": "t67_shared_cn_l8",
+  "section": "T67",
+  "dims": [
+    4,
+    8,
+    8
+  ],
+  "lambda": 1.25,
+  "mode": "shared",
+  "capacity": "N",
+  "rates": [
+    0.0625,
+    0.25,
+    1.0,
+    4.0
+  ],
+  "replicas": 8,
+  "n_sweeps": 20000,
+  "record_every": 50,
+  "seed": 20266701,
+  "save_adjacency": true
+}

@@ -1,0 +1,12 @@
+{
+  "_purpose": "PREREGISTRATION.md T72, Amendment 2 (2026-10-19): the observer-moment variant the registration said to report beside the scored count and that the first script omitted. Each civilization is weighted by the length of its own remaining window (planet-years after the delay) instead of counted once. Reported, not scored. Same classes, inputs and sensitivities as t72_observer_window; standard cosmology, not the toy; not exploratory.",
+  "name": "t72_observer_moments",
+  "section": "T72",
+  "written": "2026-10-19",
+  "tails_Gyr": [50, 20, "none"],
+  "classes": [
+    {"name": "A", "m_min": 0.8, "m_max": 1.2, "kernel": "fixed_moments", "delay_Gyr": 4.5},
+    {"name": "B", "m_min": 0.5, "m_max": 1.4, "kernel": "fixed_moments", "delay_Gyr": 3.0, "window_fixed_Gyr": 10.0},
+    {"name": "C", "m_min": 0.08, "m_max": 3.0, "kernel": "fixed_moments", "delay_Gyr": 4.5}
+  ]
+}

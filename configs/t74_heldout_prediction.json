@@ -1,0 +1,350 @@
+{
+  "amendment": "PREREGISTRATION.md T74, Amendment 6",
+  "written": "2026-10-26",
+  "replicas": 16,
+  "source": "written 2026-10-23 from the 108 stage-1 files alone by sandbox/heldout_2026-10-23/t74_heldout_twolevel_2026-10-23.py and t74_heldout_cells_2026-10-23.py (numpy seed 20261023); rerun 2026-10-26 with identical output; the must-repeat words are the stage-1 words, the same at L = 8 and 12",
+  "periods": [
+    {
+      "lam": "1.10",
+      "cap": "c2R",
+      "feed": "steady",
+      "fit": 6.43,
+      "low": 6.415,
+      "high": 6.445
+    },
+    {
+      "lam": "1.10",
+      "cap": "c2R",
+      "feed": "meals16",
+      "fit": 6.451,
+      "low": 6.405,
+      "high": 6.512
+    },
+    {
+      "lam": "1.10",
+      "cap": "c2R",
+      "feed": "meals256",
+      "fit": 6.496,
+      "low": 6.311,
+      "high": 6.749
+    },
+    {
+      "lam": "1.10",
+      "cap": "cRhalf",
+      "feed": "steady",
+      "fit": 12.785,
+      "low": 12.778,
+      "high": 12.792
+    },
+    {
+      "lam": "1.10",
+      "cap": "cRhalf",
+      "feed": "meals16",
+      "fit": 12.786,
+      "low": 12.779,
+      "high": 12.793
+    },
+    {
+      "lam": "1.10",
+      "cap": "cRhalf",
+      "feed": "meals256",
+      "fit": 12.786,
+      "low": 12.777,
+      "high": 12.794
+    },
+    {
+      "lam": "1.25",
+      "cap": "c2R",
+      "feed": "steady",
+      "fit": 15.954,
+      "low": 15.94,
+      "high": 15.968
+    },
+    {
+      "lam": "1.25",
+      "cap": "c2R",
+      "feed": "meals16",
+      "fit": 15.967,
+      "low": 15.954,
+      "high": 15.98
+    },
+    {
+      "lam": "1.25",
+      "cap": "c2R",
+      "feed": "meals256",
+      "fit": 15.655,
+      "low": 15.637,
+      "high": 15.674
+    },
+    {
+      "lam": "1.25",
+      "cap": "cRhalf",
+      "feed": "steady",
+      "fit": 31.875,
+      "low": 31.845,
+      "high": 31.905
+    },
+    {
+      "lam": "1.25",
+      "cap": "cRhalf",
+      "feed": "meals16",
+      "fit": 31.901,
+      "low": 31.87,
+      "high": 31.931
+    },
+    {
+      "lam": "1.25",
+      "cap": "cRhalf",
+      "feed": "meals256",
+      "fit": 31.882,
+      "low": 31.847,
+      "high": 31.915
+    },
+    {
+      "lam": "1.40",
+      "cap": "c2R",
+      "feed": "steady",
+      "fit": 25.46,
+      "low": 25.422,
+      "high": 25.498
+    },
+    {
+      "lam": "1.40",
+      "cap": "c2R",
+      "feed": "meals16",
+      "fit": 25.434,
+      "low": 25.407,
+      "high": 25.463
+    },
+    {
+      "lam": "1.40",
+      "cap": "c2R",
+      "feed": "meals256",
+      "fit": 25.132,
+      "low": 25.103,
+      "high": 25.162
+    },
+    {
+      "lam": "1.40",
+      "cap": "cRhalf",
+      "feed": "steady",
+      "fit": 50.892,
+      "low": 50.816,
+      "high": 50.969
+    },
+    {
+      "lam": "1.40",
+      "cap": "cRhalf",
+      "feed": "meals16",
+      "fit": 50.898,
+      "low": 50.832,
+      "high": 50.967
+    },
+    {
+      "lam": "1.40",
+      "cap": "cRhalf",
+      "feed": "meals256",
+      "fit": 50.915,
+      "low": 50.839,
+      "high": 50.988
+    }
+  ],
+  "timing": [
+    [
+      "1.10",
+      "meals16",
+      "c2R",
+      "SAME TIMING"
+    ],
+    [
+      "1.10",
+      "meals256",
+      "c2R",
+      "SAME TIMING"
+    ],
+    [
+      "1.10",
+      "meals16",
+      "cRhalf",
+      "SAME TIMING"
+    ],
+    [
+      "1.10",
+      "meals256",
+      "cRhalf",
+      "SAME TIMING"
+    ],
+    [
+      "1.25",
+      "meals16",
+      "c2R",
+      "SAME TIMING"
+    ],
+    [
+      "1.25",
+      "meals256",
+      "c2R",
+      "SPREAD ONLY"
+    ],
+    [
+      "1.25",
+      "meals16",
+      "cRhalf",
+      "SAME TIMING"
+    ],
+    [
+      "1.25",
+      "meals256",
+      "cRhalf",
+      "SAME TIMING"
+    ],
+    [
+      "1.40",
+      "meals16",
+      "c2R",
+      "SAME TIMING"
+    ],
+    [
+      "1.40",
+      "meals256",
+      "c2R",
+      "SPREAD ONLY"
+    ],
+    [
+      "1.40",
+      "meals16",
+      "cRhalf",
+      "SAME TIMING"
+    ],
+    [
+      "1.40",
+      "meals256",
+      "cRhalf",
+      "SAME TIMING"
+    ]
+  ],
+  "fed": {
+    "must_burps": [
+      "t74_lam110_L16_steady_c2R_cold",
+      "t74_lam110_L16_steady_c2R_equal",
+      "t74_lam110_L16_steady_c2R_warm",
+      "t74_lam110_L16_steady_cRhalf_cold",
+      "t74_lam110_L16_steady_cRhalf_equal",
+      "t74_lam110_L16_steady_cRhalf_warm",
+      "t74_lam110_L16_meals16_cRhalf_cold",
+      "t74_lam110_L16_meals16_cRhalf_equal",
+      "t74_lam110_L16_meals16_cRhalf_warm",
+      "t74_lam110_L16_meals256_cRhalf_cold",
+      "t74_lam110_L16_meals256_cRhalf_equal",
+      "t74_lam110_L16_meals256_cRhalf_warm",
+      "t74_lam125_L16_steady_c2R_cold",
+      "t74_lam125_L16_steady_c2R_equal",
+      "t74_lam125_L16_steady_c2R_warm",
+      "t74_lam125_L16_steady_cRhalf_cold",
+      "t74_lam125_L16_steady_cRhalf_equal",
+      "t74_lam125_L16_steady_cRhalf_warm",
+      "t74_lam125_L16_meals16_c2R_cold",
+      "t74_lam125_L16_meals16_c2R_equal",
+      "t74_lam125_L16_meals16_c2R_warm",
+      "t74_lam125_L16_meals16_cRhalf_cold",
+      "t74_lam125_L16_meals16_cRhalf_equal",
+      "t74_lam125_L16_meals16_cRhalf_warm",
+      "t74_lam125_L16_meals256_c2R_cold",
+      "t74_lam125_L16_meals256_c2R_equal",
+      "t74_lam125_L16_meals256_c2R_warm",
+      "t74_lam125_L16_meals256_cRhalf_cold",
+      "t74_lam125_L16_meals256_cRhalf_equal",
+      "t74_lam125_L16_meals256_cRhalf_warm",
+      "t74_lam140_L16_steady_c2R_cold",
+      "t74_lam140_L16_steady_c2R_equal",
+      "t74_lam140_L16_steady_c2R_warm",
+      "t74_lam140_L16_steady_cRhalf_cold",
+      "t74_lam140_L16_steady_cRhalf_equal",
+      "t74_lam140_L16_steady_cRhalf_warm",
+      "t74_lam140_L16_meals16_c2R_cold",
+      "t74_lam140_L16_meals16_c2R_equal",
+      "t74_lam140_L16_meals16_c2R_warm",
+      "t74_lam140_L16_meals16_cRhalf_cold",
+      "t74_lam140_L16_meals16_cRhalf_equal",
+      "t74_lam140_L16_meals16_cRhalf_warm",
+      "t74_lam140_L16_meals256_c2R_cold",
+      "t74_lam140_L16_meals256_c2R_equal",
+      "t74_lam140_L16_meals256_c2R_warm",
+      "t74_lam140_L16_meals256_cRhalf_cold",
+      "t74_lam140_L16_meals256_cRhalf_equal",
+      "t74_lam140_L16_meals256_cRhalf_warm"
+    ],
+    "six": [
+      "t74_lam110_L16_meals16_c2R_cold",
+      "t74_lam110_L16_meals16_c2R_equal",
+      "t74_lam110_L16_meals16_c2R_warm",
+      "t74_lam110_L16_meals256_c2R_cold",
+      "t74_lam110_L16_meals256_c2R_equal",
+      "t74_lam110_L16_meals256_c2R_warm"
+    ]
+  },
+  "unfed": {
+    "must_repeat": {
+      "t74_lam110_L16_meals16_cRhalf_cold": "DISSOLVES",
+      "t74_lam110_L16_meals16_cRhalf_equal": "MIXED",
+      "t74_lam110_L16_meals16_cRhalf_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam110_L16_meals256_c2R_cold": "DISSOLVES",
+      "t74_lam110_L16_meals256_c2R_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam110_L16_meals256_cRhalf_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam110_L16_steady_cRhalf_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam125_L16_meals16_c2R_cold": "DISSOLVES",
+      "t74_lam125_L16_meals16_c2R_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam125_L16_meals16_cRhalf_cold": "DISSOLVES",
+      "t74_lam125_L16_meals16_cRhalf_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam125_L16_meals256_c2R_cold": "DISSOLVES",
+      "t74_lam125_L16_meals256_c2R_equal": "WAITS",
+      "t74_lam125_L16_meals256_c2R_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam125_L16_meals256_cRhalf_cold": "DISSOLVES",
+      "t74_lam125_L16_meals256_cRhalf_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam125_L16_steady_c2R_cold": "DISSOLVES",
+      "t74_lam125_L16_steady_c2R_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam125_L16_steady_cRhalf_cold": "DISSOLVES",
+      "t74_lam125_L16_steady_cRhalf_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam140_L16_meals16_c2R_cold": "DISSOLVES",
+      "t74_lam140_L16_meals16_c2R_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam140_L16_meals16_cRhalf_cold": "DISSOLVES",
+      "t74_lam140_L16_meals16_cRhalf_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam140_L16_meals256_c2R_cold": "DISSOLVES",
+      "t74_lam140_L16_meals256_c2R_equal": "WAITS",
+      "t74_lam140_L16_meals256_c2R_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam140_L16_meals256_cRhalf_cold": "DISSOLVES",
+      "t74_lam140_L16_meals256_cRhalf_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam140_L16_steady_c2R_cold": "DISSOLVES",
+      "t74_lam140_L16_steady_c2R_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam140_L16_steady_cRhalf_cold": "DISSOLVES",
+      "t74_lam140_L16_steady_cRhalf_warm": "FED BY ITS SURROUNDINGS"
+    },
+    "others": {
+      "t74_lam110_L16_meals16_c2R_cold": "MIXED",
+      "t74_lam110_L16_meals16_c2R_equal": "FED BY ITS SURROUNDINGS",
+      "t74_lam110_L16_meals16_c2R_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam110_L16_meals256_c2R_equal": "MIXED",
+      "t74_lam110_L16_meals256_cRhalf_cold": "DISSOLVES",
+      "t74_lam110_L16_meals256_cRhalf_equal": "MIXED",
+      "t74_lam110_L16_steady_c2R_cold": "MIXED",
+      "t74_lam110_L16_steady_c2R_equal": "FED BY ITS SURROUNDINGS",
+      "t74_lam110_L16_steady_c2R_warm": "FED BY ITS SURROUNDINGS",
+      "t74_lam110_L16_steady_cRhalf_cold": "DISSOLVES",
+      "t74_lam110_L16_steady_cRhalf_equal": "MIXED",
+      "t74_lam125_L16_meals16_c2R_equal": "MIXED",
+      "t74_lam125_L16_meals16_cRhalf_equal": "MIXED",
+      "t74_lam125_L16_meals256_cRhalf_equal": "MIXED",
+      "t74_lam125_L16_steady_c2R_equal": "MIXED",
+      "t74_lam125_L16_steady_cRhalf_equal": "MIXED",
+      "t74_lam140_L16_meals16_c2R_equal": "WAITS",
+      "t74_lam140_L16_meals16_cRhalf_equal": "MIXED",
+      "t74_lam140_L16_meals256_cRhalf_equal": "MIXED",
+      "t74_lam140_L16_steady_c2R_equal": "MIXED",
+      "t74_lam140_L16_steady_cRhalf_equal": "MIXED"
+    },
+    "others_range": [
+      14,
+      21
+    ]
+  }
+}

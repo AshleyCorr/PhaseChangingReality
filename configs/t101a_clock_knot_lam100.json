@@ -1,0 +1,12 @@
+{
+  "_purpose": "PREREGISTRATION.md T101, Amendment 1 (written 2026-11-04, before any run): the toy's own clock, each point's count of accepted moves, near one planted knot in a flat 32 x 32 sheet at lambda = 1 (the published model), held at a fixed coupling. The owner's question of 3 November: is 1.25 the right setting when her picture puts open space at lambda <= 1. Not exploratory.",
+  "name": "t101a_clock_knot_lam100",
+  "section": "T101 Amendment 1",
+  "side": 32,
+  "lambda": 1.0,
+  "g": [1.0, 1.5, 2.0],
+  "sweeps": 20000,
+  "replica_ids": [0, 1, 2],
+  "seed": 20261104,
+  "save_adjacency": true
+}

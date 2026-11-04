@@ -1,0 +1,15 @@
+{
+  "_purpose": "EXPLORATORY, not a gate run. The same zero-temperature quench with the full Hamiltonian (lambda = 1, no cap), for [KTB19] Fig. 7, 'phi for quenched dynamics under the exact action in D = 2'. Published: phi = 1 acts as an approximate upper barrier, with minor breaches expected at finite N. Same caveats about the undefined sweep and temperature as for Fig. 6.",
+  "name": "cqg_quench_lam1_vs_ktb19fig7",
+  "sides": [[10, 10], [12, 10], [14, 10], [16, 10], [18, 10], [20, 10]],
+  "g": 0,
+  "cap": null,
+  "lambda": 1.0,
+  "acceptance": "metropolis",
+  "seed_scheme": "independent",
+  "n_melt": 1000,
+  "n_sweeps": 1000,
+  "record_every": 10,
+  "replicas": 4,
+  "seed": 20260923
+}

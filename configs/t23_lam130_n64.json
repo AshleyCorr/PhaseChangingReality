@@ -1,0 +1,21 @@
+{
+  "_purpose": "PREREGISTRATION.md T23 (written 2026-09-24, before any run): T8's protocol at lambda = 1.30, N = 64, with 120 decays and fresh seeds, read under the memoryless check sized to the sample. Not exploratory.",
+  "name": "t23_lam130_n64",
+  "sides": [
+    [
+      16,
+      4
+    ]
+  ],
+  "g": 1.5,
+  "replicas": 120,
+  "n_sweeps": 100000,
+  "block": 5,
+  "stop_at": 0.98,
+  "settle": 600,
+  "settle_max": 100000,
+  "seed": 20262430,
+  "lambda": 1.3,
+  "save_adjacency": true,
+  "record_f_200": true
+}

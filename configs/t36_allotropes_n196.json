@@ -1,0 +1,26 @@
+{
+  "_purpose": "PREREGISTRATION.md T36 (written 2026-09-25, evening, before any run): allotropes at lambda = 1 (the published model), the model's author's suggested search: equilibrate where points touch about three squares, look for points or groups touching two, and ask whether they persist. Scored. Not exploratory.",
+  "name": "t36_allotropes_n196",
+  "section": "T36",
+  "side": [
+    14,
+    14
+  ],
+  "lambda": 1.0,
+  "couplings": [
+    3.433,
+    3.697
+  ],
+  "starts": [
+    "melt",
+    "lattice"
+  ],
+  "replicas": 8,
+  "n_melt": 200,
+  "n_equil": 20000,
+  "n_snap": 400,
+  "snap_every": 50,
+  "seed": 20263601,
+  "save_adjacency": true,
+  "save_every_snap": 100
+}

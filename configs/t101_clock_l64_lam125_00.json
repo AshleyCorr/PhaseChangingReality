@@ -1,0 +1,35 @@
+{
+  "_purpose": "PREREGISTRATION.md T101 (written 2026-11-03, before any run): each point's own clock, the count of accepted moves it takes part in, near the leftover knots against far from them. T99's lambda 1.25 cell rerun with the same seeds through scripts/run_clock_count.py, so every tube opens and cools exactly as in T99 (paired; the final energy must match row for row). Not exploratory.",
+  "name": "t101_clock_l64_lam125_00",
+  "section": "T101",
+  "side": [
+    64,
+    4
+  ],
+  "lambda": 1.25,
+  "g_hot": 1.25,
+  "g_cold": 0.25,
+  "t_cool": [
+    10000
+  ],
+  "hold": 5000,
+  "block": 250,
+  "n_ref": 96,
+  "open_check_every": 100,
+  "open_stop_flat": 0.9,
+  "open_max_d1_piece": 8,
+  "open_cap": 600000,
+  "replica_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "replicas": 8,
+  "seed": 20261103,
+  "save_adjacency": true
+}

@@ -1,0 +1,21 @@
+{
+  "_purpose": "PREREGISTRATION.md T15 rung 1 (written 2026-09-24 before the run): class time-fractions against the exact interchangeable probabilities, two routes and a control. Validation; not exploratory.",
+  "name": "t15_rung1_n16",
+  "n_half": [
+    8
+  ],
+  "settings": [
+    [
+      1.0,
+      10.0
+    ],
+    [
+      0.0,
+      10.0
+    ]
+  ],
+  "replicas": 6,
+  "burn_in": 500,
+  "sweeps": 20000,
+  "seed": 20261601
+}

@@ -1,0 +1,17 @@
+{
+  "_purpose": "PREREGISTRATION.md T76, Amendment 4 (the owner's option 2 of 20 October): a first look at one coupling, g = 3.2, the one at which the settled flat 16 x 16 sheet holds a small patchy density without melting (Amendment 3, O141), since no coupling meets the registered rule. As space grows by the owner's row rule, each clear offer taken with chance q = 1/256, does the density of missing squares per point stay constant? L = 16. Not exploratory; labelled a first look. At lambda != 1 this is our family, not combinatorial quantum gravity.",
+  "name": "t76_l16_g3p2_q256",
+  "section": "T76",
+  "L": 16,
+  "lambda": 1.25,
+  "g": 3.2,
+  "rho_target": null,
+  "q": 0.00390625,
+  "replicas": 16,
+  "n_settle": 2000,
+  "n_growth": 4000,
+  "cap_factor": 8,
+  "n_ref": 96,
+  "reach": 3,
+  "seed": 20267603
+}

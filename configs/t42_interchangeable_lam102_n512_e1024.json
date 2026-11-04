@@ -1,0 +1,24 @@
+{
+  "_purpose": "PREREGISTRATION.md T42 (written 2026-09-25, before any run): does concentrated energy fold flat six-link space near lambda = 1.02, where counting could pay for the fold (O55)? Flat 8 x 8 x 8, the whole energy 1024 in one store of a shared bath of 2N (T34's spread protocol), points interchangeable. Not exploratory. Every six-link result carries VISION Update 24's caveat: the reproduction gate is open.",
+  "name": "t42_interchangeable_lam102_n512_e1024",
+  "section": "T42",
+  "dims": [
+    8,
+    8,
+    8
+  ],
+  "lambda": 1.02,
+  "capacities": [
+    "2*N"
+  ],
+  "sparks": [
+    1024.0
+  ],
+  "replicas": 8,
+  "n_sweeps": 50000,
+  "record_every": 250,
+  "seed": 20265224,
+  "save_adjacency": true,
+  "interchangeable": true,
+  "weighted": true
+}

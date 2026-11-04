@@ -1,0 +1,20 @@
+{
+  "_purpose": "PREREGISTRATION.md T25 (written 2026-09-24, before any run): does the scrap freeze in before it heals? T19's sheet with one leftover (24 x 4 tube, lambda 1.25, one planted seed, cold sealed box, 30,000 sweeps), then cooled from g = 1.25 to 0.25 over 10000 sweeps by equal factors per block and held 20,000 sweeps at 0.25. Not exploratory.",
+  "name": "t25_race_tc10000",
+  "section": "T25",
+  "side": [
+    24,
+    4
+  ],
+  "lambda": 1.25,
+  "replicas": 20,
+  "make_sweeps": 30000,
+  "g_hot": 1.25,
+  "g_cold": 0.25,
+  "t_cool": [
+    10000
+  ],
+  "hold": 20000,
+  "block": 500,
+  "seed": 20262553
+}

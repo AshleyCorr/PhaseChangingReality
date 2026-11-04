@@ -1,0 +1,14 @@
+{
+  "name": "refold_quench",
+  "_purpose": "EXPLORATORY (design track). A hot patch cooling: melt a sheet, then hold it cold. This is the model's cheapest stand-in for the author's black hole, where gravity concentrates energy and space refolds. The published alternative ([T25]) is that a black hole is a melted bubble that stays melted.",
+  "_prediction_written_before_the_run": "It cools into closed pieces rather than back into a sheet: triangles and pentagons present at the end, more than one piece, H per vertex near 0 but the arrangement knotted. The basis is Q10's lesson that rewarding any small loop curls the network into closed pieces. If it instead returns to one connected sheet-like piece, that is evidence against refolding being what concentrated energy leaves behind.",
+  "start": "quench",
+  "sides": [10, 6],
+  "melt_g": 40.0,
+  "melt_sweeps": 150,
+  "couplings": [1, 2],
+  "replicas": 3,
+  "n_sweeps": 800,
+  "every": 10,
+  "seed": 20260922
+}

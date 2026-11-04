@@ -1,0 +1,27 @@
+{
+  "section": "T26",
+  "lambda": 1.25,
+  "leak": 0.0,
+  "save_adjacency": true,
+  "_purpose": "PREREGISTRATION.md T26 (written 2026-09-24, before any run): energy packed into one place in a cold flat sheet, sealed. Protocol stores: the whole energy in the store of vertex 0 (radius 0), per-vertex bath. Not exploratory.",
+  "name": "t26_stores_n144",
+  "side": [
+    12,
+    12
+  ],
+  "protocol": "stores",
+  "points": "named",
+  "radius": 0,
+  "energies": [
+    32,
+    48,
+    64,
+    96,
+    128,
+    192
+  ],
+  "replicas": 20,
+  "block": 500,
+  "n_blocks": 100,
+  "seed": 20262601
+}

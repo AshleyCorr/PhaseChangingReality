@@ -1,0 +1,22 @@
+{
+  "_purpose": "PREREGISTRATION.md T60 (written 2026-10-10, before any run): the lambda map a fourth time, stage 2, the held-out size, run after its numbers were written from stage 1: T24's protocol at lambda = 1.05, N = 288, 120 decays, fresh seeds, with the first look at which each decay no longer read as the perfect tube recorded, so that the wait is timed with no detector. Named points. Not exploratory.",
+  "name": "t60_lam105_n288",
+  "sides": [
+    [
+      72,
+      4
+    ]
+  ],
+  "g": 1.5,
+  "replicas": 120,
+  "n_sweeps": 200000,
+  "block": 5,
+  "stop_at": 0.98,
+  "settle": 600,
+  "settle_max": 200000,
+  "seed": 20266105,
+  "lambda": 1.05,
+  "save_adjacency": true,
+  "record_f_200": true,
+  "record_detector": true
+}

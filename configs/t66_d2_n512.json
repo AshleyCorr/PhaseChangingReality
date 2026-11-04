@@ -1,0 +1,19 @@
+{
+  "_purpose": "PREREGISTRATION.md T66 (written 2026-10-16, before any registered run; the owner's prediction of the same day): does flat three-direction space heal damage in fewer sweeps than flat two-direction space? Flat 16x32 torus (2 directions, N = 512), untied, sealed, E = rho N packed into one store of a bath of 4N empty stores, rho = 1 and 2. Not exploratory. Every six-link result carries VISION Update 24's caveat.",
+  "name": "t66_d2_n512",
+  "section": "T66",
+  "dims": [
+    16,
+    32
+  ],
+  "lambda": 1.25,
+  "rho_per_point": [
+    1.0,
+    2.0
+  ],
+  "capacity": "4*N",
+  "replicas": 16,
+  "n_sweeps": 8000,
+  "record_every": 10,
+  "seed": 20266603
+}

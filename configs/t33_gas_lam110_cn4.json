@@ -1,0 +1,26 @@
+{
+  "_purpose": "PREREGISTRATION.md T33 (written 2026-09-25, before any run): eight links, in what pattern do curled directions open? A gas of nine 8-cubes (all four directions curled) at lambda 1.10, spark 20.0 (the wall is 19.2), C = N/4. Not exploratory. Every eight-link result carries VISION Update 24's caveat: no published eight-link curve exists and the kernel is validated at four and six links.",
+  "name": "t33_gas_lam110_cn4",
+  "section": "T33",
+  "gas": {
+    "dims": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "copies": 9
+  },
+  "lambda": 1.1,
+  "capacities": [
+    "N/4"
+  ],
+  "sparks": [
+    20.0
+  ],
+  "replicas": 6,
+  "n_sweeps": 50000,
+  "record_every": 250,
+  "seed": 20263306,
+  "save_adjacency": true
+}

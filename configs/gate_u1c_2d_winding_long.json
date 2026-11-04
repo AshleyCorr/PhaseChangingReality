@@ -1,0 +1,33 @@
+{
+  "_purpose": "Gate U1'' (TASKS), a reproduction check of graphity.u1's sampler with the winding move, not a test of the hypothesis: Gate U1' failed by one point (10 x 10, beta = 8, 3.65 errors); a sandbox diagnostic on fresh seeds found the winding mixing (tau about 50 sweeps) and the block errors equal to autocorrelation errors. This run keeps the acceptance and makes the test stricter: four times the measured sweeps (errors about half as large), fresh seeds. Acceptance written in TASKS before the run; every gate run kept.",
+  "name": "gate_u1c_2d_winding_long",
+  "tori": [
+    [
+      6,
+      6
+    ],
+    [
+      10,
+      10
+    ]
+  ],
+  "betas": [
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "steps": [
+    3.14159,
+    2.5,
+    1.8,
+    1.25,
+    0.88
+  ],
+  "n_equil": 2000,
+  "n_meas": 160000,
+  "n_blocks": 40,
+  "seed": 20261026,
+  "winding_move": true
+}

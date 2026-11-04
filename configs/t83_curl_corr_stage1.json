@@ -1,0 +1,27 @@
+{
+  "_purpose": "PREREGISTRATION T83, stage 1: is curl on a warm two-dimensional sheet felt at a distance? Flat tori of 16 x 16 and 32 x 32 points at lambda = 1.02 and 1.25, warmed at fixed couplings from cold to past the melting edge, the per-edge correlation by graph distance read from snapshots as T16 did. The owner's prediction, SHORT, was given before this config was written. The held-out size 64 x 64 is a separate config written after this one is read (rule 14). Couplings set after a scratch smoke test (8 x 8, 150 sweeps, g = 1 and 3) accepted no move at all: the flat sheet's cheapest move costs 32, so the warm range is g = 2 to 8, bracketing the crossover near g = 5.",
+  "name": "t83_curl_corr_stage1",
+  "lambdas": [
+    1.02,
+    1.25
+  ],
+  "sides": [
+    16,
+    32
+  ],
+  "couplings": [
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    6.0,
+    8.0
+  ],
+  "cap": null,
+  "acceptance": "metropolis",
+  "n_equil": 2000,
+  "n_meas": 2000,
+  "snapshot_every": 100,
+  "replicas": 2,
+  "seed": 20268301
+}

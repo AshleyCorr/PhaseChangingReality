@@ -1,0 +1,23 @@
+{
+  "_purpose": "EXPLORATORY, a classical population model, no quantum content. Stage E of docs/theory/observer_relative_histories_research_handoff.md: the observer-moment rate W(t) over cosmic time in one fixed Planck-2018 background, built from Loeb, Batista and Sloan 2016 Eqs. (2.1) to (2.4) with the Madau-Dickinson 2014 Eq. (15) star-formation history, plus the declared synthetic knobs of src/orh/cosmic.py (evolutionary delay, observer lifetime, reference class, interaction factor, exotic late observers). The scenario grid and the analysis choices below were written on 2026-10-12 before the script was run (docs/theory/orh_implementation_plan.md, Stage E). F(13.8 Gyr) is reported, never used as evidence for a measure (Hartle and Srednicki 2007, Eq. 4.2).",
+  "name": "orh_stage_e",
+  "grid": {"t_min_gyr": 0.001, "t_max_gyr": 100000, "n_t": 6000, "n_m": 400, "m_max": 3.0, "t_first_gyr": 0.03},
+  "t_today_gyr": 13.797,
+  "scenarios": [
+    {"name": "loeb_baseline",            "m_min": 0.08, "tau_evo": 0.0, "L_obs": null, "cutoff_gyr": 50,  "note": "Loeb et al. 2016 as published: habitable-planet-years, no delay, observers for the star's life"},
+    {"name": "friendly_delay4.5",        "m_min": 0.08, "tau_evo": 4.5, "L_obs": null, "cutoff_gyr": 50,  "note": "red-dwarf-friendly, Earth's delay, observers for the star's life"},
+    {"name": "friendly_delay4.5_L1",     "m_min": 0.08, "tau_evo": 4.5, "L_obs": 1.0,  "cutoff_gyr": 50,  "note": "red-dwarf-friendly, Earth's delay, observers for 1 Gyr per planet"},
+    {"name": "friendly_delay4.5_L0.01",  "m_min": 0.08, "tau_evo": 4.5, "L_obs": 0.01, "cutoff_gyr": 50,  "note": "red-dwarf-friendly, Earth's delay, observers for 10 Myr per planet"},
+    {"name": "suppressed_delay4.5",      "m_min": 0.5,  "tau_evo": 4.5, "L_obs": null, "cutoff_gyr": 50,  "note": "red-dwarf-suppressed (0.5 solar masses), Earth's delay"},
+    {"name": "suppressed_delay4.5_L1",   "m_min": 0.5,  "tau_evo": 4.5, "L_obs": 1.0,  "cutoff_gyr": 50,  "note": "red-dwarf-suppressed, Earth's delay, 1 Gyr per planet"},
+    {"name": "sunlike_delay4.5",         "m_min": 0.9,  "tau_evo": 4.5, "L_obs": null, "cutoff_gyr": 50,  "note": "Sun-like stars only (0.9 to 3 solar masses), Earth's delay"},
+    {"name": "friendly_delay1",          "m_min": 0.08, "tau_evo": 1.0, "L_obs": null, "cutoff_gyr": 50,  "note": "friendly, a short delay"},
+    {"name": "friendly_delay8",          "m_min": 0.08, "tau_evo": 8.0, "L_obs": null, "cutoff_gyr": 50,  "note": "friendly, a long delay"},
+    {"name": "suppressed_delay4.5_cut20","m_min": 0.5,  "tau_evo": 4.5, "L_obs": null, "cutoff_gyr": 20,  "note": "suppressed, the sharper star-formation cutoff Loeb et al. also tried"},
+    {"name": "suppressed_delay4.5_nocut","m_min": 0.5,  "tau_evo": 4.5, "L_obs": null, "cutoff_gyr": null,"note": "suppressed, the bare Madau-Dickinson extrapolation with no cutoff"}
+  ],
+  "reference_classes": ["moments", "origins", "late"],
+  "interaction_gammas": [0.0, 0.5, -0.5],
+  "exotic_eps": [0.0, 1e-12],
+  "two_history_demo": {"p": [0.5, 0.5], "histories": ["friendly_delay4.5", "suppressed_delay4.5"]}
+}

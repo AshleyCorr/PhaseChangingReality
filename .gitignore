@@ -1,0 +1,33 @@
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+*.nbi
+*.nbc
+requirements.lock.tmp
+*.partial
+.DS_Store
+
+# Terraform. The provider lock file (.terraform.lock.hcl) is committed on purpose, as in
+# SideNerdApps: it is what pins the provider version for everyone.
+terraform/.terraform/
+*.tfplan
+*.tfstate
+*.tfstate.*
+
+# Papers downloaded for reading. Third-party copyright: kept locally, never committed.
+# What we take from them lives in REFERENCES.bib notes and ASSUMPTIONS.md, in our own words.
+docs/reading/*.pdf
+
+# Correspondence with physicists: private emails, letters and drafts. Kept locally, never committed
+# (removed from the public tree on 2026-09-24; earlier commits still hold copies in git history).
+docs/outreach/
+
+# Local secrets (AWS keys etc.). Never commit: this repository is public.
+.env
+.env.*
+*.partial.resumed
+
+# Sandbox output is scratch (CLAUDE.md rule 16); the log and the notebook are tracked.
+sandbox/out/
+sandbox/out/

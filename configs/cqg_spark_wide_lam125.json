@@ -1,0 +1,14 @@
+{
+  "_purpose": "EXPLORATORY, and a stringent version of a test we first ran weakly. VISION claim 5, narrowed: a sealed run conserves its total energy exactly, so if the leftover disorder is DETERMINED by the energy released rather than free, the final phi must equal the equilibrium phi at that energy. The first comparison used sparks of 12, 13 and 16, whose predicted phi differ by only 0.003, so it confirmed the level but could not test the trend. These sparks span total energies from 1.19 to 3.50 per vertex. PREDICTION, from the tempering run cqg_n64_lam125_tempering and written before this run: phi should fall from about 0.95 at spark 12 to about 0.82 at spark 160, roughly 0.95, 0.94, 0.92, 0.88, 0.82. If the measured phi does not follow that curve, the leftover is not simply thermal and claim 5 cannot be narrowed this way.",
+  "name": "cqg_spark_wide_lam125",
+  "sides": [[16, 4]],
+  "sparks": [12, 24, 48, 96, 160],
+  "start": "torus",
+  "cap": null,
+  "lambda": 1.25,
+  "acceptance": "metropolis",
+  "seed_scheme": "independent",
+  "n_sweeps": 25000,
+  "replicas": 10,
+  "seed": 20260934
+}

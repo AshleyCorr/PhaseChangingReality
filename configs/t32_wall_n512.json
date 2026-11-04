@@ -1,0 +1,27 @@
+{
+  "_purpose": "PREREGISTRATION.md T32 (written 2026-09-25, before any run): six links, is the activation fixed with size? 4 x 4 x 32 at lambda 1.25 with a single store holding the spark. Not exploratory. Every six-link result carries VISION Update 24's caveat: the reproduction gate is open.",
+  "name": "t32_wall_n512",
+  "section": "T32",
+  "dims": [
+    4,
+    4,
+    32
+  ],
+  "lambda": 1.25,
+  "capacities": [
+    "1"
+  ],
+  "sparks": [
+    12.0,
+    14.0,
+    15.0,
+    16.0,
+    17.0,
+    18.0,
+    20.0
+  ],
+  "replicas": 10,
+  "n_sweeps": 20000,
+  "record_every": 500,
+  "seed": 20263014
+}

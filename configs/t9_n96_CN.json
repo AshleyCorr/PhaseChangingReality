@@ -1,0 +1,17 @@
+{
+  "_purpose": "PREREGISTRATION.md T9: the 24x4 tube at lambda = 1.25 in a sealed box with a bath of C = N demons. One demon starts with the 12-unit spark, the rest empty. Twenty replicas, the full 30,000 sweeps each, nothing stopped early. C is the declared knob and is scanned across configs, not tuned within one.",
+  "name": "t9_n96_CN",
+  "side": [
+    24,
+    4
+  ],
+  "capacities": [
+    "N"
+  ],
+  "spark": 12.0,
+  "replicas": 20,
+  "n_sweeps": 30000,
+  "record_every": 100,
+  "seed": 20260974,
+  "lambda": 1.25
+}

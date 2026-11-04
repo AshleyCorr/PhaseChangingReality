@@ -1,0 +1,28 @@
+{
+  "_purpose": "PREREGISTRATION.md T49 (written 2026-09-27, before any run): does one fully curled piece, a single eight-link hypercube (256 points), open all its directions, and in what order? lambda 1.15, a push of 12.81 (the exact wall plus 0.01) in one store of a shared bath of 2N; interchangeable points. Not exploratory. Every six- and eight-link result carries VISION Update 24's caveat: the reproduction gate is open.",
+  "name": "t49_cube_eight_lam115_interchangeable",
+  "section": "T49",
+  "gas": {
+    "dims": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "copies": 1
+  },
+  "lambda": 1.15,
+  "capacities": [
+    "2*N"
+  ],
+  "sparks": [
+    12.81
+  ],
+  "replicas": 32,
+  "n_sweeps": 20000,
+  "record_every": 10,
+  "seed": 20264910,
+  "save_adjacency": true,
+  "interchangeable": true,
+  "weighted": true
+}

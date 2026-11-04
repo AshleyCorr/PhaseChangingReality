@@ -1,0 +1,14 @@
+{
+  "_purpose": "EXPLORATORY. Design brief: how high is the wall round the tube, in absolute energy, and does it grow with the system? Sealed runs at lambda = 1.25 from a perfect tube (lx x 4), demon starting with a fixed spark and nothing else anywhere. PREDICTION, ours, written before the run and already suggested by a scratch scan: the threshold is the same at every size, because the cheapest way out of the tube is a local rearrangement. If instead it grows with N, the wall is collective and the whole reading in VISION Update 8 changes. The sparks bracket the scratch scan's answer.",
+  "name": "cqg_spark_threshold_lam125",
+  "sides": [[12, 4], [16, 4], [24, 4], [36, 4], [48, 4]],
+  "sparks": [4, 8, 10, 11, 11.5, 12, 13, 16],
+  "start": "torus",
+  "cap": null,
+  "lambda": 1.25,
+  "acceptance": "metropolis",
+  "seed_scheme": "independent",
+  "n_sweeps": 12000,
+  "replicas": 8,
+  "seed": 20260931
+}

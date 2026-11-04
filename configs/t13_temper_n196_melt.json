@@ -1,0 +1,42 @@
+{
+  "_purpose": "PREREGISTRATION T13, protocol E (equilibrium): parallel tempering with a ladder bracketing the crossover, every copy starting from its own melted torus. The two starts are compared; agreement is the equilibrium check. Written before the runs; predictions, gates and definitions in PREREGISTRATION.md T13. Not exploratory.",
+  "name": "t13_temper_n196_melt",
+  "sides": [
+    [
+      14,
+      14
+    ]
+  ],
+  "couplings": [
+    9.0,
+    8.357,
+    7.76,
+    7.205,
+    6.69,
+    6.212,
+    5.768,
+    5.356,
+    4.973,
+    4.618,
+    4.288,
+    3.981,
+    3.697,
+    3.433,
+    3.187,
+    2.96,
+    2.748,
+    2.552,
+    2.369,
+    2.2
+  ],
+  "cap": null,
+  "lambda": 1.0,
+  "acceptance": "metropolis",
+  "start": "melt",
+  "n_melt": 1000,
+  "sweeps_per_round": 4,
+  "rounds_equil": 5000,
+  "rounds_meas": 25000,
+  "replicas": 4,
+  "seed": 20260954
+}

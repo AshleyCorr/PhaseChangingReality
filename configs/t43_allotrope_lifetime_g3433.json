@@ -1,0 +1,17 @@
+{
+  "_purpose": "PREREGISTRATION.md T43, written 2026-09-25 before any run: how long does a planted allotrope last at lambda = 1 (the published model, no cap, Metropolis, named points)? The test of docs/design/planted_allotrope.md section 6: the fold (scored), the handle, the Fig. 7 background (control), the flat handle and the flat 14 x 14 torus (control), each started exactly as built, no warm-up. Scored. Not exploratory. This job runs coupling g = 3.433 of the seven; the per-replica seeds carry the coupling, so the seven jobs together are the one registered run.",
+  "name": "t43_allotrope_lifetime_g3433",
+  "objects": [
+    "hyperbolic_fold",
+    "hyperbolic_handle",
+    "hyperbolic_background",
+    "flat_handle",
+    "flat_torus"
+  ],
+  "couplings": [
+    3.433
+  ],
+  "replicas": 16,
+  "n_sweeps": 20000,
+  "seed": 20264343
+}

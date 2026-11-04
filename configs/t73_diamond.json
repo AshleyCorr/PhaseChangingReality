@@ -1,0 +1,14 @@
+{
+  "_purpose": "PREREGISTRATION.md T73 (drafted 2026-10-19, after T72 was read; NOT TO BE RUN before the owner's prediction is recorded in T73): T72's four classes weighted by the comoving volume of the causal diamond ([BHKP07] Eqs. 18 and 19, in the flat Planck 2018 cosmology), the one difference from t72_observer_window. Standard cosmology, not the toy; not exploratory.",
+  "name": "t73_diamond",
+  "section": "T73",
+  "written": "2026-10-19",
+  "tails_Gyr": [50, 20, "none"],
+  "classes": [
+    {"name": "gate", "m_min": 0.08, "m_max": 3.0, "kernel": "gate", "diamond": true},
+    {"name": "A", "m_min": 0.8, "m_max": 1.2, "kernel": "fixed", "delay_Gyr": 4.5, "diamond": true},
+    {"name": "B", "m_min": 0.5, "m_max": 1.4, "kernel": "fixed", "delay_Gyr": 3.0, "window_fixed_Gyr": 10.0, "diamond": true},
+    {"name": "C", "m_min": 0.08, "m_max": 3.0, "kernel": "fixed", "delay_Gyr": 4.5, "diamond": true},
+    {"name": "D", "m_min": 0.8, "m_max": 1.2, "kernel": "hardsteps", "n_steps": [3, 5, 7], "cap_Gyr": 100.0, "diamond": true}
+  ]
+}

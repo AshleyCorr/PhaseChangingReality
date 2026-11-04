@@ -1,0 +1,18 @@
+{
+  "_purpose": "PREREGISTRATION.md T56 (written 2026-10-09, before any run; VISION Update 47; ASSUMPTIONS O106): the slab, one direction curled and two open, the owner's shape for X in a warm bath under no tie (the untied control). The exact 4 x 12 x 12 torus, six links, lambda 1.2, the thermal chain (Metropolis in H + T_f) at the fixed coupling g = 2.5; named points, no push. Not exploratory. Every six-link result carries VISION Update 24's caveat: the reproduction gate is open.",
+  "name": "t56_slab_l12_lam120_g25_untied",
+  "section": "T56",
+  "dims": [
+    4,
+    12,
+    12
+  ],
+  "lambda": 1.2,
+  "g": 2.5,
+  "tie": "none",
+  "replicas": 8,
+  "n_sweeps": 200000,
+  "record_every": 1000,
+  "seed": 20265668,
+  "save_adjacency": true
+}

@@ -1,0 +1,33 @@
+{
+  "_purpose": "PREREGISTRATION.md T57 (written 2026-10-09, before any run; VISION Update 51): does too much concentrated energy curl flat six-link space under the owner's tie 'all at the last'? T34's protocol: flat 8 x 8 x 8, sealed, the energy given at the start and conserved; spread: a shared bath of 2N stores with the whole energy in one of them; lambda 1.1; the tie f = (0, a, 2a, 0), a = 4(lambda - 1). Not exploratory. Every six-link result carries VISION Update 24's caveat.",
+  "name": "t57_tied_spread_lam110_n512",
+  "section": "T57",
+  "dims": [
+    8,
+    8,
+    8
+  ],
+  "lambda": 1.1,
+  "capacities": [
+    "2*N"
+  ],
+  "ftable_per_a": [
+    0,
+    1.0,
+    2.0,
+    0
+  ],
+  "tie_label": "all at the last",
+  "sparks": [
+    256.0,
+    560.0,
+    1060.0,
+    1600.0,
+    3200.0
+  ],
+  "replicas": 8,
+  "n_sweeps": 50000,
+  "record_every": 250,
+  "seed": 20265704,
+  "save_adjacency": true
+}

@@ -1,0 +1,24 @@
+{
+  "_purpose": "PREREGISTRATION.md T68 (written 2026-10-17 on the owner's 'proceed with these', before any registered run; rule 11's sixth use on piece 5; VISION Updates 58 and 59): does the owner's untied slab (4 x L x L, one direction curled) open from a feed whose rate rises linearly from zero to twice the mean over the run, arriving at every point's own store? lambda 1.6; mean rates [0.0625, 0.25, 1.0] units a sweep. Not exploratory. Every six-link result carries VISION Update 24's caveat.",
+  "name": "t68_ramp_all_lam160_l16",
+  "section": "T68",
+  "written": "2026-10-17",
+  "sizes": [
+    16
+  ],
+  "lambda": 1.6,
+  "mode": "all",
+  "schedule": "ramp",
+  "k": 16,
+  "capacity": "N",
+  "rates": [
+    0.0625,
+    0.25,
+    1.0
+  ],
+  "replicas": 8,
+  "n_sweeps": 20000,
+  "record_every": 50,
+  "seed": 20267032,
+  "save_adjacency": true
+}

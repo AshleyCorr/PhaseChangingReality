@@ -1,0 +1,24 @@
+{
+  "section": "T26",
+  "lambda": 1.25,
+  "leak": 0.0,
+  "save_adjacency": true,
+  "_purpose": "PREREGISTRATION.md T26 (written 2026-09-24, before any run): energy packed into one place in a cold flat sheet, sealed. Protocol patch at N = 256: disorder within radius 3 of vertex 0, cold shared bath of 2N stores. Not exploratory.",
+  "name": "t26_patch_n256",
+  "side": [
+    16,
+    16
+  ],
+  "protocol": "patch",
+  "points": "named",
+  "radius": 3,
+  "energies": [
+    32,
+    64,
+    128
+  ],
+  "replicas": 20,
+  "block": 500,
+  "n_blocks": 100,
+  "seed": 20262605
+}

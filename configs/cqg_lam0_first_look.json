@@ -1,0 +1,16 @@
+{
+  "_purpose": "EXPLORATORY, not a gate run. First look at lambda = 0 (global term only, no cap), the case published as first order with the graph breaking into baby universes ([T25] Cycle condensation; [KTB19] Sec. 3.3.1 and Fig. 5). Questions: where is the transition, do cooling and heating disagree (hysteresis), and does the cold phase shatter (columns pieces, largest_frac, baby_frac, cube_frac; ASSUMPTIONS Q8). Sizes are multiples of 16 so that a perfect tiling by 4-cubes exists. The heating leg continues from the cold end of the cooling leg. Coupling grid and run lengths chosen by eye from a short probe; nothing here is pre-registered.",
+  "name": "cqg_lam0_first_look",
+  "sides": [[8, 8], [12, 8], [16, 10]],
+  "couplings": [100, 30, 20, 15, 12, 10, 9, 8, 7.5, 7, 6.5, 6, 5.5, 5, 4.5, 4, 3.5, 3],
+  "cap": null,
+  "lambda": 0.0,
+  "acceptance": "metropolis",
+  "heat_start": "continue",
+  "seed_scheme": "independent",
+  "n_melt": 1000,
+  "n_equil": 2000,
+  "n_meas": 4000,
+  "replicas": 4,
+  "seed": 20260920
+}

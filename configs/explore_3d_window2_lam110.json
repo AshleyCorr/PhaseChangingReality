@@ -1,0 +1,32 @@
+{
+  "_purpose": "EXPLORATORY (series paper 5, T28 design): at which couplings does a flat 6 x 6 x 6 torus at lambda 1.10 rearrange without melting? Heating from the flat torus and back, 2,000 + 2,000 sweeps per coupling. Second version: the first (explore_3d_window_lam110) was contaminated by one infinite-temperature sweep the runner took before the first coupling when n_melt was 0, fixed 2026-09-25; its result is kept on disk as the record of that. Not a gate, not pre-registered; the six-link reproduction gate is open (VISION Update 24).",
+  "name": "explore_3d_window2_lam110",
+  "start": {
+    "torus": [
+      6,
+      6,
+      6
+    ]
+  },
+  "lambda": 1.1,
+  "acceptance": "metropolis",
+  "couplings": [
+    0.5,
+    0.75,
+    1.0,
+    1.25,
+    1.5,
+    1.75,
+    2.0,
+    2.5,
+    3.0,
+    4.0,
+    5.0,
+    6.0
+  ],
+  "n_melt": 0,
+  "replicas": 1,
+  "n_equil": 2000,
+  "n_meas": 2000,
+  "seed": 20263112
+}

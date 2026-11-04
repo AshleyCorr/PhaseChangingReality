@@ -1,0 +1,23 @@
+{
+  "_purpose": "PREREGISTRATION.md T40 (written 2026-09-25, before any run): the push that starts the change in four directions; 4 x 4 x 4 x 12 (three curled), lambda 1.25, spark 20 (the cheapest first move is 20), C = N/2. Not exploratory. Every eight-link result carries VISION Update 24's caveat: no published eight-link curve exists and the kernel is validated at four and six links.",
+  "name": "t40_three_lam125_n768_e20",
+  "section": "T40",
+  "dims": [
+    4,
+    4,
+    4,
+    12
+  ],
+  "lambda": 1.25,
+  "capacities": [
+    "N/2"
+  ],
+  "sparks": [
+    20.0
+  ],
+  "replicas": 6,
+  "n_sweeps": 50000,
+  "record_every": 250,
+  "seed": 20264020,
+  "save_adjacency": true
+}

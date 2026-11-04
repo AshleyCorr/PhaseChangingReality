@@ -1,0 +1,17 @@
+{
+  "_purpose": "PREREGISTRATION.md T17 (written 2026-09-23 before the runs): k = 4 seeds planted as move A at evenly spaced columns of a 96 x 4 tube, lambda = 1.25, cold sealed box with C = 2N empty demons; counts the leftovers. Not exploratory.",
+  "name": "t17_seeds_k4",
+  "side": [
+    96,
+    4
+  ],
+  "capacity": "2*N",
+  "seeds": [
+    4
+  ],
+  "replicas": 20,
+  "n_sweeps": 30000,
+  "record_every": 100,
+  "seed": 20261303,
+  "lambda": 1.25
+}

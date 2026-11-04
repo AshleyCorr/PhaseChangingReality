@@ -1,0 +1,16 @@
+{
+  "_purpose": "PREREGISTRATION.md T11: as t11_seam_n64 for the 24x4 tube (half-length 12 columns). Thirty replicas, fresh seeds.",
+  "name": "t11_seam_n96",
+  "side": [
+    24,
+    4
+  ],
+  "capacity": "2*N",
+  "spark": 12.0,
+  "replicas": 30,
+  "block": 5,
+  "n_sweeps": 30000,
+  "settle_after": 2000,
+  "seed": 20261112,
+  "lambda": 1.25
+}

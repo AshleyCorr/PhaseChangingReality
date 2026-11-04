@@ -1,0 +1,24 @@
+{
+  "_purpose": "PREREGISTRATION.md T61 (written 2026-10-11, before any run): a sealed tube whose released energy can only go into its stores, then drained and cooled; the end state read from its wiring. Stage 1. Not exploratory.",
+  "name": "t61_lam125_n96",
+  "section": "T61",
+  "lambda": 1.25,
+  "lengths": [
+    24
+  ],
+  "stores_per_point": [
+    2,
+    1,
+    0.5,
+    0.333333,
+    0.25
+  ],
+  "replicas": 24,
+  "hold_sweeps_at_192": 20000,
+  "leak": 0.02,
+  "drain_stop": 0.5,
+  "cold_sweeps": 2000,
+  "cold_g": 0.05,
+  "save_adjacency": true,
+  "seed": 20266100
+}

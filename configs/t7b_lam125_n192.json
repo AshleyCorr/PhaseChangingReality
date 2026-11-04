@@ -1,0 +1,19 @@
+{
+  "_purpose": "PREREGISTRATION.md T7 under its amendment 1: as t7_lam125_n192, but the settling stretch runs until the released energy has stopped changing (windows of 600 sweeps, two consecutive agreeing to 0.5% of 4(lambda-1), cap 30,000) instead of a fixed 300 sweeps. The first runs caught half the decays on a ledge at 0.78 of the expected release, which is recorded here as released_first_window and ledge_sweeps rather than lost.",
+  "name": "t7b_lam125_n192",
+  "sides": [
+    [
+      48,
+      4
+    ]
+  ],
+  "g": 1.5,
+  "replicas": 30,
+  "n_sweeps": 30000,
+  "block": 5,
+  "stop_at": 0.98,
+  "settle": 600,
+  "seed": 20261089,
+  "lambda": 1.25,
+  "settle_max": 30000
+}

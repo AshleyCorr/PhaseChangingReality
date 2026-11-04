@@ -1,0 +1,16 @@
+{
+  "_purpose": "PREREGISTRATION.md T22 (written 2026-09-24 before the runs): every exit and fall-back of the curled torus at lambda = 1.05, N = 96. Not exploratory.",
+  "name": "t22_exits_n96_lam105",
+  "side": [
+    24,
+    4
+  ],
+  "g": 1.5,
+  "lambdas": [
+    1.05
+  ],
+  "replicas": 40,
+  "max_sweeps": 100000,
+  "stop_fraction": 0.25,
+  "seed": 20261802
+}

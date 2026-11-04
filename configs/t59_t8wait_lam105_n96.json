@@ -1,0 +1,31 @@
+{
+  "_purpose": "PREREGISTRATION.md T59, stage A1 (written 2026-10-10, before any run): T8's decay 11 at lambda 1.05, N = 96, which waited 78,205 sweeps, and the two decays before it, replayed from T8's seed and written block by block with the detector's numbers. Named points, as in the original. Not exploratory.",
+  "name": "t59_t8wait_lam105_n96",
+  "sides": [
+    [
+      24,
+      4
+    ]
+  ],
+  "g": 1.5,
+  "replicas": 30,
+  "n_sweeps": 100000,
+  "block": 5,
+  "stop_at": 0.98,
+  "settle": 600,
+  "settle_max": 100000,
+  "seed": 20261201,
+  "lambda": 1.05,
+  "record_f_200": true,
+  "replica_ids": [
+    9,
+    10,
+    11
+  ],
+  "record_detector": true,
+  "trace_replicas": [
+    9,
+    10,
+    11
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "move_census_chain",
+  "_purpose": "EXACT, exploratory. The move census of configs/move_census.json rerun with the corrected script, which enumerates only the switches the chain can propose (two points of side 0 swap one partner each). The first run also counted switches between opposite sides, which the chain never makes and is_valid does not refuse. Same arrangements, same melt, same seed, so the two files compare row by row (ASSUMPTIONS O20, correction to the addendum).",
+  "lambda": 1.25,
+  "sheets": [[10, 10], [12, 12]],
+  "tubes": [24, 36],
+  "melted_from": [[10, 10]],
+  "melt_g": 200.0,
+  "melt_sweeps": 300,
+  "seed": 20260922
+}

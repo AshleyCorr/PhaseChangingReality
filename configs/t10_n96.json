@@ -1,0 +1,17 @@
+{
+  "_purpose": "PREREGISTRATION.md T10: the 24x4 tube at lambda = 1.25 in a cold sealed box, C = 2*N demons, one holding the 12-unit spark. Twenty replicas, the full 30,000 sweeps, nothing stopped early. Asks whether the number of leftover rings grows with N; fresh seed, not T9's.",
+  "name": "t10_n96",
+  "side": [
+    24,
+    4
+  ],
+  "capacities": [
+    "2*N"
+  ],
+  "spark": 12.0,
+  "replicas": 20,
+  "n_sweeps": 30000,
+  "record_every": 100,
+  "seed": 20261102,
+  "lambda": 1.25
+}

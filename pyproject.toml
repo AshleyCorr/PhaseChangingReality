@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=77"]   # first version that reads `license = "MIT"`
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "geometrogenesis"
+version = "0.1.0"
+description = "Monte Carlo experiments on the order of the geometry-forming transition in graph models of emergent space"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "numba>=0.59", "networkx>=3.2"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "igraph>=0.11", "scipy>=1.11", "pandas>=2.1"]   # scipy: tests/test_paper_stats.py checks against scipy.stats; pandas: the analysers in scripts/ and their tests (T66 on)
+symmetry = ["igraph>=0.11"]
+plots = ["matplotlib>=3.8"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "."]   # "." so tests can import the analysers in scripts/

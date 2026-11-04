@@ -1,0 +1,24 @@
+{
+  "_purpose": "PREREGISTRATION.md T27 (written 2026-09-24, before any run): energy spread through a sealed flat sheet (T21's bath, the whole energy in one store of a shared bath of 2N) and drained at a leak of 0.1 per block of 100 sweeps: does the melt fold before it flattens? Not exploratory.",
+  "name": "t27_leak_n144_l01",
+  "section": "T27",
+  "side": [
+    12,
+    12
+  ],
+  "lambda": 1.25,
+  "protocol": "bath",
+  "points": "named",
+  "radius": null,
+  "energies": [
+    288,
+    576,
+    1152
+  ],
+  "leak": 0.1,
+  "replicas": 12,
+  "block": 100,
+  "n_blocks": 300,
+  "seed": 20262704,
+  "save_adjacency": true
+}

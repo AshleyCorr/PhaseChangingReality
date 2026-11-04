@@ -1,0 +1,27 @@
+{
+  "_purpose": "PREREGISTRATION.md T71 (drafted 2026-10-18; the owner's gate g1 = a N_slab decided 2026-10-19, VISION Update 69, and her prediction recorded in Amendment 2 before this launch; VISION Updates 62 to 66): the owner's untied slab 4 x L x L under the layer form, fed r per point per sweep at every point; the lump leaves one way into a daughter ledger and the slab reforms. Not exploratory. Every six-link result carries VISION Update 24's caveat. Arm B, the reference: layer moves alone. Held-out size L = 16 (CLAUDE.md rule 14): PREREGISTRATION.md T71, Amendment 4 (the numbers written 2026-10-23 from L = 8 and 12 alone, committed 2026-10-25 with the owner's word of 2026-10-25, VISION Update 114: her stage-1 prediction stands for L = 16, and the jobs go ahead). Identical to the stage-1 config except name, sizes, seed (stage-1 seed + 12), _purpose and written. Scored against configs/t71_heldout_prediction.csv.",
+  "name": "t71_layer_lam110_l16",
+  "section": "T71",
+  "written": "2026-10-25",
+  "lambdas": [
+    1.1
+  ],
+  "sizes": [
+    16
+  ],
+  "rates": [
+    0.015625,
+    0.0625
+  ],
+  "gate": "a * N_slab",
+  "leak": 0.0,
+  "n_sweeps": "max(2000, 40 * a / r)",
+  "replicas": 16,
+  "seed": 20267114,
+  "move_set": "layer",
+  "release_to": "daughter",
+  "feed_stops_at_split": false,
+  "max_width": 8,
+  "log_every": 50,
+  "log_events": true
+}

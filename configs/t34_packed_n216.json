@@ -1,0 +1,27 @@
+{
+  "_purpose": "PREREGISTRATION.md T34 (written 2026-09-25, midday, before any run): does concentrated energy fold flat six-link space, one direction and then the rest? Packed: the whole energy in the store of one vertex under the per-vertex bath (local_heat), flat 6x6x6. Not exploratory. Every six-link result carries VISION Update 24's caveat.",
+  "name": "t34_packed_n216",
+  "section": "T34",
+  "dims": [
+    6,
+    6,
+    6
+  ],
+  "lambda": 1.25,
+  "capacities": [
+    "2*N"
+  ],
+  "local_heat": true,
+  "sparks": [
+    64.0,
+    128.0,
+    256.0,
+    260.0,
+    500.0
+  ],
+  "replicas": 8,
+  "n_sweeps": 50000,
+  "record_every": 250,
+  "seed": 20263402,
+  "save_adjacency": true
+}

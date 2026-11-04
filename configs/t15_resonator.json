@@ -1,0 +1,15 @@
+{
+  "_purpose": "PREREGISTRATION.md T15 rung 0b, written 2026-09-23 before this ran: is the closed loop of four a resonator inside the sheet? The Laplacian of each saved T7 amendment 4 state that holds a loop of four, its eigenspaces, and how much weight a mode can carry on the loop points. Exact; the only random numbers choose the control point sets.",
+  "name": "t15_resonator",
+  "states": "results/t7d_lam125_n*_adj/*.npz",
+  "localised_at_least": 0.5,
+  "window": 0.25,
+  "isolated_eigenvalues": [2.0, 4.0],
+  "group_tolerance": 1e-9,
+  "controls": {
+    "sheet": [12, 12],
+    "sheet_points": "two disjoint squares: (0,0),(0,1),(1,0),(1,1) and (6,6),(6,7),(7,6),(7,7)",
+    "random_sets": 20,
+    "random_seed": 20260923
+  }
+}

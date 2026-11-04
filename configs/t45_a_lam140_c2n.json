@@ -1,0 +1,33 @@
+{
+  "_purpose": "PREREGISTRATION.md T45 (written 2026-09-26, before any run): the budget-fitted triad, run. Tie A (order DE>ord>DM), fitted so that the openings release dark matter : ordinary = 5.36 and dark energy ~0 at birth (scripts/exact_budget_fit.py; ASSUMPTIONS O74). lambda 1.40; sparks: the first wall alone, and the sum of the walls; C = 2*N. Not exploratory. Every six-link result carries VISION Update 24's caveat.",
+  "name": "t45_a_lam140_c2n",
+  "section": "T45",
+  "gas": {
+    "dims": [
+      4,
+      4,
+      4
+    ],
+    "copies": 8
+  },
+  "lambda": 1.4,
+  "tie_label": "A DE>ord>DM",
+  "ftable_per_a": [
+    0,
+    1.0,
+    1.528,
+    0
+  ],
+  "capacities": [
+    "2*N"
+  ],
+  "sparks": [
+    3.21,
+    13.35
+  ],
+  "replicas": 6,
+  "n_sweeps": 60000,
+  "record_every": 200,
+  "seed": 20264640,
+  "save_adjacency": true
+}

@@ -1,0 +1,16 @@
+{
+  "_purpose": "EXPLORATORY. The same rehearsal as cqg_sheet_decay_lam050 at lambda = 0.25, where the exact levels are 0 for the flat sheet, -3 per vertex for a tube and -6 for 4-cubes, and the cheapest way out of the sheet costs 16 lambda = 4. Couplings chosen from a scratch pilot; not pre-registered.",
+  "name": "cqg_sheet_decay_lam025",
+  "sides": [[8, 8], [12, 12]],
+  "g": [2.5, 3.0, 4.0, 5.0],
+  "start": "torus",
+  "cap": null,
+  "lambda": 0.25,
+  "acceptance": "metropolis",
+  "seed_scheme": "independent",
+  "n_melt": 0,
+  "n_sweeps": 20000,
+  "record_every": 50,
+  "replicas": 4,
+  "seed": 20260927
+}

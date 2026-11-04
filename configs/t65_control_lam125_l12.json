@@ -1,0 +1,24 @@
+{
+  "_purpose": "PREREGISTRATION.md T65 (drafted 2026-10-15, revised 2026-10-16, before any run; VISION Updates 47 and 57): does the owner's slab (4 x L x L, one direction curled) open into one flat space when given a push? Sealed, the spark in one store of a shared bath and conserved; the untied control; lambda 1.25; untied. Not exploratory. Every six-link result carries VISION Update 24's caveat.",
+  "name": "t65_control_lam125_l12",
+  "section": "T65",
+  "dims": [
+    4,
+    12,
+    12
+  ],
+  "lambda": 1.25,
+  "local_heat": false,
+  "capacities": [
+    "N",
+    "4*N"
+  ],
+  "sparks": [
+    128.0
+  ],
+  "replicas": 8,
+  "n_sweeps": 30000,
+  "record_every": 500,
+  "seed": 20266508,
+  "save_adjacency": true
+}

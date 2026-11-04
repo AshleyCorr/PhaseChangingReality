@@ -1,0 +1,28 @@
+{
+  "_purpose": "PREREGISTRATION.md T82 (written 2026-10-25, the owner's predictions recorded before this launch): the twin gate, VISION Update 120 (one gate, double the bill): the slab 4 x L x L under the layer form, fed r per point per sweep at every point; a release leaves into two twins at once, the second drawn from the pool, once the pool holds 2 a N_slab. Not exploratory. Every six-link result carries VISION Update 24's caveat. Stage 1 (L = 8, 12); held-out L = 16 waits for its dated amendment. Arm A, the model: layer moves plus the clean two-switch move.",
+  "name": "t82_model_lam110",
+  "section": "T82",
+  "written": "2026-10-25",
+  "lambdas": [
+    1.1
+  ],
+  "sizes": [
+    8,
+    12
+  ],
+  "rates": [
+    0.015625,
+    0.0625
+  ],
+  "gate": "2 * a * N_slab",
+  "leak": 0.0,
+  "n_sweeps": "max(2000, 80 * a / r)",
+  "replicas": 16,
+  "seed": 20268201,
+  "move_set": "model",
+  "release_to": "twins",
+  "feed_stops_at_split": false,
+  "max_width": 8,
+  "log_every": 50,
+  "log_events": true
+}

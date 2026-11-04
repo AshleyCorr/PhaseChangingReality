@@ -1,0 +1,22 @@
+{
+  "_purpose": "PREREGISTRATION.md T79 (written 2026-10-22, after the owner's prediction and before any count): the same chains as T78 replayed from the same seeds (the kernel reproduces a run from its seed), counting on every snapshot the curled ring, its uncurled twin (a square whose four links carry exactly two squares), and a family of flat grids of several sizes, to tell a penalty on curl from the cost of a denser object. Scored. Not exploratory.",
+  "name": "t79_curl_family_n196_g3550",
+  "section": "T79",
+  "side": [
+    14,
+    14
+  ],
+  "lambda": 1.0,
+  "couplings": [
+    3.55
+  ],
+  "replicas": 16,
+  "n_melt": 200,
+  "n_equil": 20000,
+  "n_snap": 800,
+  "snap_every": 50,
+  "seed": 20267801,
+  "save_adjacency": false,
+  "save_every_snap": 100,
+  "replays": "t78_curl_vs_flat_n196_g3550"
+}

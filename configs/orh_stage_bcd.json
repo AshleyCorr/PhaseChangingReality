@@ -1,0 +1,20 @@
+{
+  "_purpose": "EXACT. Stages B, C and D of docs/theory/observer_relative_histories_research_handoff.md on the unitary toy of src/orh: visibility against environment overlap, the partial-information plot and redundancy, the decoherence functional of the two-slit family with and without a record, the nested compatible sets of a record sequence, and the joint distribution of two observers' records. No random number is drawn; every row is a closed-form or exact state-vector computation checked by tests/test_orh_*.py. Written 2026-10-12 before the script was run.",
+  "name": "orh_stage_bcd",
+  "stage_b": {
+    "p_one": 0.5,
+    "record_angles_deg": [0, 10, 20, 30, 40, 50, 60, 70, 80, 90],
+    "n_env_for_visibility_curve": 1,
+    "partial_information": {"p_one": 0.3, "n_env": 10, "angles_deg": [90, 60, 40, 25]},
+    "redundancy": {"p_one": 0.3, "n_env": 20, "delta": 0.1, "angles_deg": [90, 75, 60, 45, 30, 15]}
+  },
+  "stage_c": {
+    "two_slit_record_angles_deg": [0, 30, 60, 90],
+    "nested_records": {"p_ones": [0.3, 0.8, 0.5, 0.9], "n_steps": 4}
+  },
+  "stage_d": {
+    "p_one": 0.3,
+    "fragment_angles_deg": [[90, 90], [90, 60], [60, 60], [30, 30]],
+    "told_record": true
+  }
+}

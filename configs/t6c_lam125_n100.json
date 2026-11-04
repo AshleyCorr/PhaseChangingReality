@@ -1,0 +1,33 @@
+{
+  "_purpose": "T6 at lambda = 1.25, N = 100, to meet gate 4 where t6b did not. The t6b ladder mixed well at N = 36 (26 to 102 round trips) but gave 11 to 15 at N = 64 and 0 to 3 at N = 100. Not a severed ladder: swap acceptance was 0.20 to 0.74 at every link and phi moved smoothly through every rung. It was diffusion across eighteen rungs with a hot end coarse in 1/g and a frozen cold tail (move acceptance 0.001, phi saturated) that added length and nothing else. Here: fourteen rungs, hot end refined, nothing below g = 2.35, and three times the measured rounds. Sampling-efficiency changes only -- the same distributions are sampled. Replica agreement on phi in the transition region was already 0.001 to 0.01 in t6b (ASSUMPTIONS O12); this run exists so that the pre-registered gate is met as written rather than argued around.",
+  "name": "t6c_lam125_n100",
+  "sides": [
+    10
+  ],
+  "couplings": [
+    8.0,
+    7.0,
+    6.2,
+    5.5,
+    4.9,
+    4.4,
+    4.0,
+    3.65,
+    3.35,
+    3.1,
+    2.9,
+    2.7,
+    2.5,
+    2.35
+  ],
+  "cap": null,
+  "lambda": 1.25,
+  "acceptance": "metropolis",
+  "start": "melt",
+  "n_melt": 1000,
+  "sweeps_per_round": 5,
+  "rounds_equil": 8000,
+  "rounds_meas": 36000,
+  "replicas": 4,
+  "seed": 20260942
+}

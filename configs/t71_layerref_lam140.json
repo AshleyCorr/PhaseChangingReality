@@ -1,0 +1,28 @@
+{
+  "_purpose": "PREREGISTRATION.md T71 (drafted 2026-10-18; the owner's gate g1 = a N_slab decided 2026-10-19, VISION Update 69, and her prediction recorded in Amendment 2 before this launch; VISION Updates 62 to 66): the owner's untied slab 4 x L x L under the layer form, fed r per point per sweep at every point; the lump leaves one way into a daughter ledger and the slab reforms. Not exploratory. Every six-link result carries VISION Update 24's caveat. Arm B with the release credited to the parent's stores (f1), kept as the reference for the daughter rule.",
+  "name": "t71_layerref_lam140",
+  "section": "T71",
+  "written": "2026-10-19",
+  "lambdas": [
+    1.4
+  ],
+  "sizes": [
+    8,
+    12
+  ],
+  "rates": [
+    0.015625,
+    0.0625
+  ],
+  "gate": "a * N_slab",
+  "leak": 0.0,
+  "n_sweeps": "max(2000, 40 * a / r)",
+  "replicas": 16,
+  "seed": 20267111,
+  "move_set": "layer",
+  "release_to": "stores",
+  "feed_stops_at_split": false,
+  "max_width": 8,
+  "log_every": 50,
+  "log_events": true
+}

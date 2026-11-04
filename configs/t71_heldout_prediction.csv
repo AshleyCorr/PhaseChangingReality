@@ -1,0 +1,182 @@
+cell,statistic,rule,predicted,low,high,scored,units,note
+t71_layer_lam110_l16 r=1/64,majority word,word,CYCLES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_layer_lam110_l16 r=1/64,"first split, median",B,52.5,52,54,yes,sweeps,t_gate 52 plus a coin-flip wait
+t71_layer_lam110_l16 r=1/64,"first split, earliest replica",B,52,52,52,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_layer_lam110_l16 r=1/64,"first split, latest replica",B,,52,65,yes,sweeps,an upper bound only
+t71_layer_lam110_l16 r=1/64,"release at the first split, median",C,1,1,1,yes,a N_slab (409.6 at L = 16),exact
+t71_layer_lam110_l16 r=1/64,"end energy above flat, median",A,1,1,1,yes,a N_slab (409.6 at L = 16),"stage 1: 1.0000, 1.0000"
+t71_layer_lam110_l16 r=1/64,"daughters, median",A,83,82,84,yes,daughters,"stage 1: 83.0000, 83.0000"
+t71_layer_lam110_l16 r=1/64,"energy per daughter, median",C,1,1,1,yes,a N_slab (409.6 at L = 16),"exact, to 1e-9, wherever no clean move fires"
+t71_layer_lam110_l16 r=1/64,"period, median",A,23.5,22.25,25,yes,sweeps,"stage 1: 23.5000, 23.5000"
+t71_layer_lam110_l16 r=1/64,"slab share, median",A,0.861104,0.84387,0.881762,yes,share of logged sweeps,"stage 1: 0.8617, 0.8596"
+t71_layer_lam110_l16 r=1/16,majority word,word,CYCLES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_layer_lam110_l16 r=1/16,"first split, median",B,13.5,13,15,yes,sweeps,t_gate 13 plus a coin-flip wait
+t71_layer_lam110_l16 r=1/16,"first split, earliest replica",B,13,13,13,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_layer_lam110_l16 r=1/16,"first split, latest replica",B,,13,26,yes,sweeps,an upper bound only
+t71_layer_lam110_l16 r=1/16,"release at the first split, median",C,1,1,1,yes,a N_slab (409.6 at L = 16),exact
+t71_layer_lam110_l16 r=1/16,"end energy above flat, median",A,0,0,1,no,a N_slab (409.6 at L = 16),"stage 1: 0.0000, 0.0000; reported, cannot fail"
+t71_layer_lam110_l16 r=1/16,"daughters, median",A,339.5,322.5,354.5,yes,daughters,"stage 1: 340.5000, 339.0000"
+t71_layer_lam110_l16 r=1/16,"energy per daughter, median",C,1,1,1,yes,a N_slab (409.6 at L = 16),"exact, to 1e-9, wherever no clean move fires"
+t71_layer_lam110_l16 r=1/16,"period, median",A,5,4,6,yes,sweeps,"stage 1: 4.7500, 5.0000"
+t71_layer_lam110_l16 r=1/16,"slab share, median",A,0.371572,0.350949,0.397729,yes,share of logged sweeps,"stage 1: 0.3716, 0.3716"
+t71_layer_lam125_l16 r=1/64,majority word,word,CYCLES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_layer_lam125_l16 r=1/64,"first split, median",B,128.5,128,130,yes,sweeps,t_gate 128 plus a coin-flip wait
+t71_layer_lam125_l16 r=1/64,"first split, earliest replica",B,128,128,128,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_layer_lam125_l16 r=1/64,"first split, latest replica",B,,128,141,yes,sweeps,an upper bound only
+t71_layer_lam125_l16 r=1/64,"release at the first split, median",C,1,1,1,yes,a N_slab (1024.0 at L = 16),exact
+t71_layer_lam125_l16 r=1/64,"end energy above flat, median",A,1,1,1,yes,a N_slab (1024.0 at L = 16),"stage 1: 1.0000, 1.0000"
+t71_layer_lam125_l16 r=1/64,"daughters, median",A,40,40,41,yes,daughters,"stage 1: 40.0000, 40.0000"
+t71_layer_lam125_l16 r=1/64,"energy per daughter, median",C,1,1,1,yes,a N_slab (1024.0 at L = 16),"exact, to 1e-9, wherever no clean move fires"
+t71_layer_lam125_l16 r=1/64,"period, median",A,62,58.75,65.25,yes,sweeps,"stage 1: 62.0000, 61.0000"
+t71_layer_lam125_l16 r=1/64,"slab share, median",A,0.939992,0.929305,0.953086,yes,share of logged sweeps,"stage 1: 0.9393, 0.9400"
+t71_layer_lam125_l16 r=1/16,majority word,word,CYCLES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_layer_lam125_l16 r=1/16,"first split, median",B,32.5,32,34,yes,sweeps,t_gate 32 plus a coin-flip wait
+t71_layer_lam125_l16 r=1/16,"first split, earliest replica",B,32,32,32,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_layer_lam125_l16 r=1/16,"first split, latest replica",B,,32,45,yes,sweeps,an upper bound only
+t71_layer_lam125_l16 r=1/16,"release at the first split, median",C,1,1,1,yes,a N_slab (1024.0 at L = 16),exact
+t71_layer_lam125_l16 r=1/16,"end energy above flat, median",A,1,0,1,no,a N_slab (1024.0 at L = 16),"stage 1: 1.0000, 1.0000; reported, cannot fail"
+t71_layer_lam125_l16 r=1/16,"daughters, median",A,141,139,143,yes,daughters,"stage 1: 141.0000, 140.5000"
+t71_layer_lam125_l16 r=1/16,"energy per daughter, median",C,1,1,1,yes,a N_slab (1024.0 at L = 16),"exact, to 1e-9, wherever no clean move fires"
+t71_layer_lam125_l16 r=1/16,"period, median",A,13,12,14,yes,sweeps,"stage 1: 13.0000, 13.0000"
+t71_layer_lam125_l16 r=1/16,"slab share, median",A,0.771712,0.745665,0.790665,yes,share of logged sweeps,"stage 1: 0.7709, 0.7738"
+t71_layer_lam140_l16 r=1/64,majority word,word,CYCLES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_layer_lam140_l16 r=1/64,"first split, median",B,205.5,205,207,yes,sweeps,t_gate 205 plus a coin-flip wait
+t71_layer_lam140_l16 r=1/64,"first split, earliest replica",B,205,205,205,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_layer_lam140_l16 r=1/64,"first split, latest replica",B,,205,218,yes,sweeps,an upper bound only
+t71_layer_lam140_l16 r=1/64,"release at the first split, median",C,1,1,1,yes,a N_slab (1638.4 at L = 16),exact
+t71_layer_lam140_l16 r=1/64,"end energy above flat, median",A,1,1,1,yes,a N_slab (1638.4 at L = 16),"stage 1: 1.0000, 1.0000"
+t71_layer_lam140_l16 r=1/64,"daughters, median",A,40,39,40,yes,daughters,"stage 1: 40.0000, 40.0000"
+t71_layer_lam140_l16 r=1/64,"energy per daughter, median",C,1,1,1,yes,a N_slab (1638.4 at L = 16),"exact, to 1e-9, wherever no clean move fires"
+t71_layer_lam140_l16 r=1/64,"period, median",A,101,97.5,104,yes,sweeps,"stage 1: 101.0000, 101.5000"
+t71_layer_lam140_l16 r=1/64,"slab share, median",A,0.962225,0.95191,0.970839,yes,share of logged sweeps,"stage 1: 0.9586, 0.9639"
+t71_layer_lam140_l16 r=1/16,majority word,word,CYCLES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_layer_lam140_l16 r=1/16,"first split, median",B,52.5,52,54,yes,sweeps,t_gate 52 plus a coin-flip wait
+t71_layer_lam140_l16 r=1/16,"first split, earliest replica",B,52,52,52,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_layer_lam140_l16 r=1/16,"first split, latest replica",B,,52,65,yes,sweeps,an upper bound only
+t71_layer_lam140_l16 r=1/16,"release at the first split, median",C,1,1,1,yes,a N_slab (1638.4 at L = 16),exact
+t71_layer_lam140_l16 r=1/16,"end energy above flat, median",A,1,1,1,yes,a N_slab (1638.4 at L = 16),"stage 1: 1.0000, 1.0000"
+t71_layer_lam140_l16 r=1/16,"daughters, median",A,83,82,84,yes,daughters,"stage 1: 83.0000, 83.0000"
+t71_layer_lam140_l16 r=1/16,"energy per daughter, median",C,1,1,1,yes,a N_slab (1638.4 at L = 16),"exact, to 1e-9, wherever no clean move fires"
+t71_layer_lam140_l16 r=1/16,"period, median",A,23,22,24,yes,sweeps,"stage 1: 23.0000, 23.0000"
+t71_layer_lam140_l16 r=1/16,"slab share, median",A,0.863998,0.842735,0.882372,yes,share of logged sweeps,"stage 1: 0.8673, 0.8592"
+t71_layerref_lam110_l16 r=1/64,majority word,word,OSCILLATES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_layerref_lam110_l16 r=1/64,"first split, median",B,52.5,52,54,yes,sweeps,t_gate 52 plus a coin-flip wait
+t71_layerref_lam110_l16 r=1/64,"first split, earliest replica",B,52,52,52,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_layerref_lam110_l16 r=1/64,"first split, latest replica",B,,52,65,yes,sweeps,an upper bound only
+t71_layerref_lam110_l16 r=1/64,"release at the first split, median",C,1,1,1,yes,a N_slab (409.6 at L = 16),exact
+t71_layerref_lam110_l16 r=1/64,"end energy above flat, median",A,0,0,1,no,a N_slab (409.6 at L = 16),"stage 1: 1.0000, 0.0000; reported, cannot fail"
+t71_layerref_lam110_l16 r=1/64,"open share, median",A,0.618289,0.597755,0.64115,no,share of logged sweeps,"stage 1: 0.6183, 0.6187; reported, not scored"
+t71_layerref_lam110_l16 r=1/64,"refolds, median",A,565.5,549.5,584,no,refolds,"stage 1: 566.0000, 563.5000; reported, not scored"
+t71_layerref_lam110_l16 r=1/16,majority word,word,OSCILLATES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_layerref_lam110_l16 r=1/16,"first split, median",B,13.5,13,15,yes,sweeps,t_gate 13 plus a coin-flip wait
+t71_layerref_lam110_l16 r=1/16,"first split, earliest replica",B,13,13,13,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_layerref_lam110_l16 r=1/16,"first split, latest replica",B,,13,26,yes,sweeps,an upper bound only
+t71_layerref_lam110_l16 r=1/16,"release at the first split, median",C,1,1,1,yes,a N_slab (409.6 at L = 16),exact
+t71_layerref_lam110_l16 r=1/16,"end energy above flat, median",A,0,0,1,no,a N_slab (409.6 at L = 16),"stage 1: 0.0000, 0.0000; reported, cannot fail"
+t71_layerref_lam110_l16 r=1/16,"open share, median",A,0.643597,0.621033,0.662933,no,share of logged sweeps,"stage 1: 0.6486, 0.6305; reported, not scored"
+t71_layerref_lam110_l16 r=1/16,"refolds, median",A,609,593,622.5,no,refolds,"stage 1: 611.0000, 603.5000; reported, not scored"
+t71_layerref_lam125_l16 r=1/64,majority word,word,OSCILLATES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_layerref_lam125_l16 r=1/64,"first split, median",B,128.5,128,130,yes,sweeps,t_gate 128 plus a coin-flip wait
+t71_layerref_lam125_l16 r=1/64,"first split, earliest replica",B,128,128,128,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_layerref_lam125_l16 r=1/64,"first split, latest replica",B,,128,141,yes,sweeps,an upper bound only
+t71_layerref_lam125_l16 r=1/64,"release at the first split, median",C,1,1,1,yes,a N_slab (1024.0 at L = 16),exact
+t71_layerref_lam125_l16 r=1/64,"end energy above flat, median",A,0,0,1,no,a N_slab (1024.0 at L = 16),"stage 1: 0.0000, 0.0000; reported, cannot fail"
+t71_layerref_lam125_l16 r=1/64,"open share, median",A,0.627209,0.61197,0.643348,no,share of logged sweeps,"stage 1: 0.6286, 0.6249; reported, not scored"
+t71_layerref_lam125_l16 r=1/64,"refolds, median",A,698.5,681,717,no,refolds,"stage 1: 697.5000, 698.5000; reported, not scored"
+t71_layerref_lam125_l16 r=1/16,majority word,word,OSCILLATES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_layerref_lam125_l16 r=1/16,"first split, median",B,32.5,32,34,yes,sweeps,t_gate 32 plus a coin-flip wait
+t71_layerref_lam125_l16 r=1/16,"first split, earliest replica",B,32,32,32,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_layerref_lam125_l16 r=1/16,"first split, latest replica",B,,32,45,yes,sweeps,an upper bound only
+t71_layerref_lam125_l16 r=1/16,"release at the first split, median",C,1,1,1,yes,a N_slab (1024.0 at L = 16),exact
+t71_layerref_lam125_l16 r=1/16,"end energy above flat, median",A,0,0,1,no,a N_slab (1024.0 at L = 16),"stage 1: 0.0000, 0.0000; reported, cannot fail"
+t71_layerref_lam125_l16 r=1/16,"open share, median",A,0.624333,0.603413,0.645725,no,share of logged sweeps,"stage 1: 0.6253, 0.6243; reported, not scored"
+t71_layerref_lam125_l16 r=1/16,"refolds, median",A,585,569,603,no,refolds,"stage 1: 580.0000, 588.5000; reported, not scored"
+t71_layerref_lam140_l16 r=1/64,majority word,word,OSCILLATES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_layerref_lam140_l16 r=1/64,"first split, median",B,205.5,205,207,yes,sweeps,t_gate 205 plus a coin-flip wait
+t71_layerref_lam140_l16 r=1/64,"first split, earliest replica",B,205,205,205,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_layerref_lam140_l16 r=1/64,"first split, latest replica",B,,205,218,yes,sweeps,an upper bound only
+t71_layerref_lam140_l16 r=1/64,"release at the first split, median",C,1,1,1,yes,a N_slab (1638.4 at L = 16),exact
+t71_layerref_lam140_l16 r=1/64,"end energy above flat, median",A,0,0,1,no,a N_slab (1638.4 at L = 16),"stage 1: 0.0000, 0.0000; reported, cannot fail"
+t71_layerref_lam140_l16 r=1/64,"open share, median",A,0.618607,0.602668,0.634831,no,share of logged sweeps,"stage 1: 0.6188, 0.6160; reported, not scored"
+t71_layerref_lam140_l16 r=1/64,"refolds, median",A,1117,1095.5,1137,no,refolds,"stage 1: 1115.5000, 1119.5000; reported, not scored"
+t71_layerref_lam140_l16 r=1/16,majority word,word,OSCILLATES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_layerref_lam140_l16 r=1/16,"first split, median",B,52.5,52,54,yes,sweeps,t_gate 52 plus a coin-flip wait
+t71_layerref_lam140_l16 r=1/16,"first split, earliest replica",B,52,52,52,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_layerref_lam140_l16 r=1/16,"first split, latest replica",B,,52,65,yes,sweeps,an upper bound only
+t71_layerref_lam140_l16 r=1/16,"release at the first split, median",C,1,1,1,yes,a N_slab (1638.4 at L = 16),exact
+t71_layerref_lam140_l16 r=1/16,"end energy above flat, median",A,0,0,1,no,a N_slab (1638.4 at L = 16),"stage 1: 0.0000, 0.0000; reported, cannot fail"
+t71_layerref_lam140_l16 r=1/16,"open share, median",A,0.624583,0.60373,0.650134,no,share of logged sweeps,"stage 1: 0.6261, 0.6231; reported, not scored"
+t71_layerref_lam140_l16 r=1/16,"refolds, median",A,572.5,556.5,588.5,no,refolds,"stage 1: 575.0000, 570.0000; reported, not scored"
+t71_model_lam110_l16 r=1/64,majority word,word,CYCLES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_model_lam110_l16 r=1/64,"first split, median",B,52.5,52,54,yes,sweeps,t_gate 52 plus a coin-flip wait
+t71_model_lam110_l16 r=1/64,"first split, earliest replica",B,52,52,52,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_model_lam110_l16 r=1/64,"first split, latest replica",B,,52,65,yes,sweeps,an upper bound only
+t71_model_lam110_l16 r=1/64,"release at the first split, median",C,1,1,1,yes,a N_slab (409.6 at L = 16),exact
+t71_model_lam110_l16 r=1/64,SPENT FIRST count,C,0,0,0,yes,replicas of 16,exact: no clean move can be paid before the first split
+t71_model_lam110_l16 r=1/64,"end energy above flat, median",A,1,0.5,1,yes,a N_slab (409.6 at L = 16),"stage 1: 1.0000, 1.0000"
+t71_model_lam110_l16 r=1/64,"daughters, median",A,83,82,84,yes,daughters,"stage 1: 83.0000, 83.0000"
+t71_model_lam110_l16 r=1/64,"energy per daughter, median",C,1,1,1,yes,a N_slab (409.6 at L = 16),"exact, to 1e-9, wherever no clean move fires"
+t71_model_lam110_l16 r=1/64,"period, median",A,23.75,22.25,24.75,yes,sweeps,"stage 1: 23.0000, 24.0000"
+t71_model_lam110_l16 r=1/64,"slab share, median",A,0.867847,0.847067,0.885001,yes,share of logged sweeps,"stage 1: 0.8627, 0.8688"
+t71_model_lam110_l16 r=1/64,clean moves in all,A,0,0,0,no,moves in 16 replicas,"stage 1: 0.0000, 0.0000; reported, not scored"
+t71_model_lam110_l16 r=1/16,majority word,word,CYCLES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_model_lam110_l16 r=1/16,"first split, median",B,13.5,13,15,yes,sweeps,t_gate 13 plus a coin-flip wait
+t71_model_lam110_l16 r=1/16,"first split, earliest replica",B,13,13,13,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_model_lam110_l16 r=1/16,"first split, latest replica",B,,13,26,yes,sweeps,an upper bound only
+t71_model_lam110_l16 r=1/16,"release at the first split, median",C,1,1,1,yes,a N_slab (409.6 at L = 16),exact
+t71_model_lam110_l16 r=1/16,SPENT FIRST count,C,0,0,0,yes,replicas of 16,exact: no clean move can be paid before the first split
+t71_model_lam110_l16 r=1/16,"period, median",A,5,4,6,yes,sweeps,"stage 1: 5.0000, 5.0000"
+t71_model_lam110_l16 r=1/16,"energy per daughter, median",D,0.80251,0.286576,1,yes,a N_slab (409.6 at L = 16),"stage 1: 0.9870, 0.8948; line in L; range from L = 12's value to the farthest of the line in N_slab and the power law, widened by L = 12's predictive half-widths"
+t71_model_lam110_l16 r=1/16,"daughters, median",D,293.5,206.367138,386.5,yes,daughters,"stage 1: 329.5000, 311.5000; line in L; range from L = 12's value to the farthest of the line in N_slab and the power law, widened by L = 12's predictive half-widths"
+t71_model_lam110_l16 r=1/16,"slab share, median",D,0.273551,0.051632,0.472349,yes,share of logged sweeps,"stage 1: 0.3597, 0.3166; line in L; range from L = 12's value to the farthest of the line in N_slab and the power law, widened by L = 12's predictive half-widths"
+t71_model_lam110_l16 r=1/16,clean moves in all,reported,29,4,50.4,no,moves in 16 replicas,"stage 1: 17.0000, 23.0000; line in L; range from L = 12's value to the farthest of the line in N_slab and the power law, widened by L = 12's predictive half-widths"
+t71_model_lam110_l16 r=1/16,replicas with a clean move,reported,a majority,,,no,replicas of 16,"stage 1: 12, 13 of 16"
+t71_model_lam110_l16 r=1/16,"end energy above flat, median",reported,"open (0, or patches of 128 or more), not the slab (409.6)",,,no,energy,"reported by class, not scored: its classes change with L"
+t71_model_lam125_l16 r=1/64,majority word,word,CYCLES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_model_lam125_l16 r=1/64,"first split, median",B,128.5,128,130,yes,sweeps,t_gate 128 plus a coin-flip wait
+t71_model_lam125_l16 r=1/64,"first split, earliest replica",B,128,128,128,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_model_lam125_l16 r=1/64,"first split, latest replica",B,,128,141,yes,sweeps,an upper bound only
+t71_model_lam125_l16 r=1/64,"release at the first split, median",C,1,1,1,yes,a N_slab (1024.0 at L = 16),exact
+t71_model_lam125_l16 r=1/64,SPENT FIRST count,C,0,0,0,yes,replicas of 16,exact: no clean move can be paid before the first split
+t71_model_lam125_l16 r=1/64,"end energy above flat, median",A,1,1,1,yes,a N_slab (1024.0 at L = 16),"stage 1: 1.0000, 1.0000"
+t71_model_lam125_l16 r=1/64,"daughters, median",A,40,40,41,yes,daughters,"stage 1: 40.0000, 40.0000"
+t71_model_lam125_l16 r=1/64,"energy per daughter, median",C,1,1,1,yes,a N_slab (1024.0 at L = 16),"exact, to 1e-9, wherever no clean move fires"
+t71_model_lam125_l16 r=1/64,"period, median",A,61.5,58,65,yes,sweeps,"stage 1: 61.0000, 62.0000"
+t71_model_lam125_l16 r=1/64,"slab share, median",A,0.934827,0.925617,0.943014,yes,share of logged sweeps,"stage 1: 0.9321, 0.9367"
+t71_model_lam125_l16 r=1/64,clean moves in all,A,0,0,0,no,moves in 16 replicas,"stage 1: 0.0000, 0.0000; reported, not scored"
+t71_model_lam125_l16 r=1/16,majority word,word,CYCLES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_model_lam125_l16 r=1/16,"first split, median",B,32.5,32,34,yes,sweeps,t_gate 32 plus a coin-flip wait
+t71_model_lam125_l16 r=1/16,"first split, earliest replica",B,32,32,32,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_model_lam125_l16 r=1/16,"first split, latest replica",B,,32,45,yes,sweeps,an upper bound only
+t71_model_lam125_l16 r=1/16,"release at the first split, median",C,1,1,1,yes,a N_slab (1024.0 at L = 16),exact
+t71_model_lam125_l16 r=1/16,SPENT FIRST count,C,0,0,0,yes,replicas of 16,exact: no clean move can be paid before the first split
+t71_model_lam125_l16 r=1/16,"end energy above flat, median",A,1,0,1,no,a N_slab (1024.0 at L = 16),"stage 1: 1.0000, 1.0000; reported, cannot fail"
+t71_model_lam125_l16 r=1/16,"daughters, median",A,140,137,143.5,yes,daughters,"stage 1: 140.0000, 140.0000"
+t71_model_lam125_l16 r=1/16,"energy per daughter, median",C,1,1,1,yes,a N_slab (1024.0 at L = 16),"exact, to 1e-9, wherever no clean move fires"
+t71_model_lam125_l16 r=1/16,"period, median",A,13.75,12.75,14.75,yes,sweeps,"stage 1: 13.5000, 13.7500"
+t71_model_lam125_l16 r=1/16,"slab share, median",A,0.776931,0.745147,0.81038,yes,share of logged sweeps,"stage 1: 0.7784, 0.7750"
+t71_model_lam125_l16 r=1/16,clean moves in all,A,0,0,0,no,moves in 16 replicas,"stage 1: 0.0000, 0.0000; reported, not scored"
+t71_model_lam140_l16 r=1/64,majority word,word,CYCLES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_model_lam140_l16 r=1/64,"first split, median",B,205.5,205,207,yes,sweeps,t_gate 205 plus a coin-flip wait
+t71_model_lam140_l16 r=1/64,"first split, earliest replica",B,205,205,205,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_model_lam140_l16 r=1/64,"first split, latest replica",B,,205,218,yes,sweeps,an upper bound only
+t71_model_lam140_l16 r=1/64,"release at the first split, median",C,1,1,1,yes,a N_slab (1638.4 at L = 16),exact
+t71_model_lam140_l16 r=1/64,SPENT FIRST count,C,0,0,0,yes,replicas of 16,exact: no clean move can be paid before the first split
+t71_model_lam140_l16 r=1/64,"end energy above flat, median",A,1,1,1,yes,a N_slab (1638.4 at L = 16),"stage 1: 1.0000, 1.0000"
+t71_model_lam140_l16 r=1/64,"daughters, median",A,40,39,41,yes,daughters,"stage 1: 40.0000, 40.0000"
+t71_model_lam140_l16 r=1/64,"energy per daughter, median",C,1,1,1,yes,a N_slab (1638.4 at L = 16),"exact, to 1e-9, wherever no clean move fires"
+t71_model_lam140_l16 r=1/64,"period, median",A,101,98,104,yes,sweeps,"stage 1: 101.0000, 101.2500"
+t71_model_lam140_l16 r=1/64,"slab share, median",A,0.958601,0.951921,0.967093,yes,share of logged sweeps,"stage 1: 0.9597, 0.9581"
+t71_model_lam140_l16 r=1/64,clean moves in all,A,0,0,0,no,moves in 16 replicas,"stage 1: 0.0000, 0.0000; reported, not scored"
+t71_model_lam140_l16 r=1/16,majority word,word,CYCLES,,,yes,word,"16 of 16 expected, as at L = 8 and 12; scored on the majority word"
+t71_model_lam140_l16 r=1/16,"first split, median",B,52.5,52,54,yes,sweeps,t_gate 52 plus a coin-flip wait
+t71_model_lam140_l16 r=1/16,"first split, earliest replica",B,52,52,52,yes,sweeps,no split before t_gate is possible; a miss (no replica at t_gate) has P 1.5e-05
+t71_model_lam140_l16 r=1/16,"first split, latest replica",B,,52,65,yes,sweeps,an upper bound only
+t71_model_lam140_l16 r=1/16,"release at the first split, median",C,1,1,1,yes,a N_slab (1638.4 at L = 16),exact
+t71_model_lam140_l16 r=1/16,SPENT FIRST count,C,0,0,0,yes,replicas of 16,exact: no clean move can be paid before the first split
+t71_model_lam140_l16 r=1/16,"end energy above flat, median",A,1,1,1,yes,a N_slab (1638.4 at L = 16),"stage 1: 1.0000, 1.0000"
+t71_model_lam140_l16 r=1/16,"daughters, median",A,83,81.5,84.5,yes,daughters,"stage 1: 83.0000, 83.0000"
+t71_model_lam140_l16 r=1/16,"energy per daughter, median",C,1,1,1,yes,a N_slab (1638.4 at L = 16),"exact, to 1e-9, wherever no clean move fires"
+t71_model_lam140_l16 r=1/16,"period, median",A,23,22,24,yes,sweeps,"stage 1: 23.0000, 23.0000"
+t71_model_lam140_l16 r=1/16,"slab share, median",A,0.855823,0.836966,0.875444,yes,share of logged sweeps,"stage 1: 0.8558, 0.8549"
+t71_model_lam140_l16 r=1/16,clean moves in all,A,0,0,0,no,moves in 16 replicas,"stage 1: 0.0000, 0.0000; reported, not scored"

@@ -1,0 +1,18 @@
+{
+  "_purpose": "PREREGISTRATION.md T75 with its Amendments 1 to 7: does a single flaw beside a knot (nearest point 1 or 2 steps from a knot point) in the product of a burp (T51's end states, N = 512) heal, stay, travel or spread, and at what speed? A flaw is the cheapest valid switch at a point costing more than zero, priced at lambda = 1.25 (beside a knot, the cheapest touching no knot point). Coupling g = 1.5, fixed by amendment before launch. Not exploratory. At lambda != 1 this is our family, not combinatorial quantum gravity.",
+  "name": "t75_n512_beside_g1p5",
+  "section": "T75",
+  "states_dir": "results",
+  "states": "t51_l128_10k",
+  "N": 512,
+  "lambda": 1.25,
+  "g": 1.5,
+  "placement": "beside",
+  "replicas": 32,
+  "fair_sweeps": 2000,
+  "record_every": 1,
+  "n_ref": 96,
+  "step": 2,
+  "flaw_reach": 3,
+  "seed": 20267504
+}

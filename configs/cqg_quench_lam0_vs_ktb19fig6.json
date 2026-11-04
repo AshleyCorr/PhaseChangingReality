@@ -1,0 +1,15 @@
+{
+  "_purpose": "EXPLORATORY, not a gate run. Zero-temperature quench at lambda = 0 (global term only, no cap) at the six sizes of [KTB19] Fig. 6, 'phi for quenched mean field dynamics in D = 2'. Published: phi passes 1 within a few hundred sweeps and reaches about 1.17 to 1.36 by sweep 1000, the graph breaking into baby universes (its Fig. 5). The paper defines neither its sweep nor its quench temperature, so compare shapes and heights, not the clock. Ours: zero temperature, one sweep = 2N attempted switches.",
+  "name": "cqg_quench_lam0_vs_ktb19fig6",
+  "sides": [[10, 10], [12, 10], [14, 10], [16, 10], [18, 10], [20, 10]],
+  "g": 0,
+  "cap": null,
+  "lambda": 0.0,
+  "acceptance": "metropolis",
+  "seed_scheme": "independent",
+  "n_melt": 1000,
+  "n_sweeps": 1000,
+  "record_every": 10,
+  "replicas": 4,
+  "seed": 20260922
+}

@@ -1,0 +1,30 @@
+{
+  "_purpose": "PREREGISTRATION.md T69 (written 2026-10-17 on the owner's 'I think yes, can we check?', before any computation): the lowest path out of the untied slab 4 x L x L. A best-first search on the saddle over local switches (both points within `near` of a point already changed), budgeted by states popped and capped in energy; reports, per milestone m, the lowest saddle at which a state with at least m points open and none broken is reached. Exact within the move set and the budget. Stage 1: L = 8. Not exploratory. Every six-link result carries VISION Update 24's caveat.",
+  "name": "t69_lowest_path_l8",
+  "section": "T69",
+  "lengths": [
+    8
+  ],
+  "lambdas": [
+    1.1,
+    1.25,
+    1.4
+  ],
+  "near": [
+    1
+  ],
+  "budget": 5000,
+  "cap": 128.0,
+  "milestones": [
+    2,
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64
+  ],
+  "record_states": false
+}

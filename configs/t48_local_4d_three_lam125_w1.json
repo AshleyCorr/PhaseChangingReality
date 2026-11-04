@@ -1,0 +1,24 @@
+{
+  "_purpose": "PREREGISTRATION.md T48 (written 2026-09-27, before any run): does a connected curled space open into one space when the energy it releases stays where it is released? 4 x 4 x 4 x 12, eight links, three directions curled, lambda 1.25, one store per point, a push of 20.01 (1 x the exact wall 20.0, plus 0.01) in the first side-0 point's store; named points, no tie. Not exploratory. Every six- and eight-link result carries VISION Update 24's caveat: the reproduction gate is open.",
+  "name": "t48_local_4d_three_lam125_w1",
+  "section": "T48",
+  "dims": [
+    4,
+    4,
+    4,
+    12
+  ],
+  "lambda": 1.25,
+  "local_heat": true,
+  "capacities": [
+    "N"
+  ],
+  "sparks": [
+    20.01
+  ],
+  "replicas": 6,
+  "n_sweeps": 50000,
+  "record_every": 250,
+  "seed": 20264813,
+  "save_adjacency": true
+}

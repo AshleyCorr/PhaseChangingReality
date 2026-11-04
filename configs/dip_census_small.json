@@ -1,0 +1,6 @@
+{
+  "_purpose": "EXPLORATORY but exact: no sampling. Which arrangements are dips of the energy (every valid single switch raises H) at N = 14, 16, 18 without the cap, across the lambda knob of VISION. Asked because VISION claim 4 needs a state that is stable for now yet not the most stable one: is there a dip ABOVE the lowest state anywhere on the knob, and on which side of lambda = 1? Uses the complete class lists of task T4.",
+  "name": "dip_census_small",
+  "sizes": [7, 8, 9],
+  "lambdas": [0.0, 0.25, 0.5, 0.75, 1.0, 1.25, 1.5, 2.0, 3.0]
+}

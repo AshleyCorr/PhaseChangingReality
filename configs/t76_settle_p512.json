@@ -1,0 +1,23 @@
+{
+  "_purpose": "PREREGISTRATION T76 Amendment 4, option 1 (the owner's, 20 October): settling runs alone (growth off) on the burp's product, T51's saved end states t51_l128_10k (N = 512, the states T75 used), to see whether the space a burp actually makes, whose cheapest flaw costs 20 rather than 32, holds a steady thin density of missing squares at any coupling. Calibration, not a growth run or a registered verdict; every coupling tried is kept. At lambda != 1 this is our family, not combinatorial quantum gravity.",
+  "name": "t76_settle_p512",
+  "section": "T76-settle",
+  "states_dir": "results",
+  "states": "t51_l128_10k",
+  "lambda": 1.25,
+  "couplings": [
+    1.5,
+    2.0,
+    2.4,
+    2.6,
+    2.8,
+    3.0,
+    3.2,
+    3.4
+  ],
+  "replicas": 16,
+  "n_settle": 2000,
+  "window": 1000,
+  "n_ref": 96,
+  "seed": 20267694
+}

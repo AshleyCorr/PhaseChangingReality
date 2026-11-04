@@ -1,0 +1,5 @@
+{
+  "_purpose": "EXACT, exploratory (written 2026-09-25, 13:40 ET, after exact_tree_count_pull and before this calculation): the same two candidate terms in three directions on tori large enough to read a shape, 12 x 12 x 12 and 16 x 16 x 16. The 8 x 8 x 8 torus of the first config is too small (its farthest placement is four steps away). Expectation, ours: the source term's cross product falls as 1/r (Newton's shape in three directions), the spanning-tree term much faster (roughly r^-6).",
+  "name": "exact_tree_count_pull_3d",
+  "tori": [[12, 12, 12], [16, 16, 16]]
+}

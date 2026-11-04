@@ -1,0 +1,18 @@
+{
+  "_purpose": "PREREGISTRATION.md T7: a tube (36x4 torus, one side curled) at lambda = 1.5, g = 1.5, followed while it uncurls into the sheet. Thirty independent decays. At 25/50/75% conversion the per-vertex local dimension is read and the connected pieces of the sheet-like vertices counted. Waiting time by the pre-registered definition; released energy checked against 4(lambda-1) after a settling stretch.",
+  "name": "t7_lam15_n144",
+  "sides": [
+    [
+      36,
+      4
+    ]
+  ],
+  "g": 1.5,
+  "replicas": 30,
+  "n_sweeps": 30000,
+  "block": 5,
+  "stop_at": 0.98,
+  "settle": 300,
+  "seed": 20260978,
+  "lambda": 1.5
+}

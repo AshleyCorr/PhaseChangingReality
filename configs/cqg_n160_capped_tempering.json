@@ -1,0 +1,13 @@
+{
+  "_purpose": "EXPLORATORY, and the acceptance run of task T5. Parallel tempering of the capped model at the published size N = 160, every copy started from its own melted torus. Questions: are swap rates in a useful range, do graphs make round trips, does the cold end order (phi > 0.95) from a random start, and do the three hottest couplings, which are couplings of cqg_n160_capped_vs_t25fig3 where a single chain equilibrates, agree with that run. Coupling ladder tuned by eye on short scratch runs; not pre-registered.",
+  "name": "cqg_n160_capped_tempering",
+  "sides": [[16, 10]],
+  "couplings": [6.31, 5.62, 5.01, 4.5, 4.1, 3.75, 3.45, 3.2, 3.0, 2.85, 2.7, 2.5, 2.25, 2.0],
+  "start": "melt",
+  "n_melt": 1000,
+  "sweeps_per_round": 5,
+  "rounds_equil": 6000,
+  "rounds_meas": 12000,
+  "replicas": 4,
+  "seed": 20260924
+}

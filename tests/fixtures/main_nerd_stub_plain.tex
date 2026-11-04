@@ -1,0 +1,163 @@
+% A fixture for tests/test_main_nerd_pages.py: a stand-in for the plain-language edition of a paper, in the macro
+% vocabulary of docs/papers/curled_torus/paper_plain_language.tex. It is not a paper and nothing in it is a result.
+% The blog's build (scripts/build_main_nerd_pages.py) is pointed at it as a post with the plain-language edition
+% only, so that the path every such post takes is tested without depending on a paper that is still being written.
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=0.87in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{arrows.meta,calc,positioning,patterns,decorations.pathmorphing,shapes.misc}
+\usepackage{booktabs,tabularx,array}
+\usepackage{float}
+\usepackage{needspace}
+\usepackage[font=small,labelfont=bf,labelsep=period,skip=4pt]{caption}
+\usepackage{fancyhdr}
+\usepackage[colorlinks=true,linkcolor=teal!65!black,urlcolor=teal!65!black,citecolor=teal!65!black]{hyperref}
+
+% Palette
+\definecolor{ink}{HTML}{17324D}
+\definecolor{accent}{HTML}{176B70}
+\definecolor{pale}{HTML}{EDF5F4}
+\definecolor{curl}{HTML}{C8742B}
+\definecolor{curlpale}{HTML}{F6E3D3}
+\definecolor{flat}{HTML}{2E7D8C}
+\definecolor{flatpale}{HTML}{D6ECF0}
+\definecolor{melt}{HTML}{8E6C8A}
+\definecolor{meltpale}{HTML}{E9DEE8}
+\definecolor{sun}{HTML}{E0A526}
+\definecolor{no}{HTML}{B03A2E}
+\definecolor{kExact}{HTML}{176B70}
+\definecolor{kMeas}{HTML}{2F5F9E}
+\definecolor{kPub}{HTML}{5A5A5A}
+\definecolor{kOurs}{HTML}{9A5B00}
+\definecolor{kClaim}{HTML}{8A2D5A}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.62em}
+\renewcommand{\baselinestretch}{1.08}
+\setlength{\headheight}{14pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{ink}A stub post}
+\fancyhead[R]{\small Plain-language edition}
+\fancyfoot[C]{\small\thepage}
+\renewcommand{\headrulewidth}{0.3pt}
+\hypersetup{pdftitle={A stub post: a fixture for the tests},pdfauthor={A fixture}}
+
+% Chapter opener, sub-heading, take-away box
+\newcommand{\chapterpage}[2]{\par\Needspace{16\baselineskip}\vspace{1.4em}{\color{accent}\small\textbf{#1}}\par\vspace{0.2em}{\color{ink}\LARGE\bfseries #2}\par\vspace{0.5em}}
+\newcommand{\takeaway}[1]{\par\medskip\noindent\colorbox{pale}{\parbox{\dimexpr\linewidth-2\fboxsep\relax}{\vspace{0.35em}\textbf{The point to keep:} #1\vspace{0.35em}}}\par\medskip}
+\newcommand{\whyhere}[1]{\par\medskip\noindent{\color{accent}\small\textbf{Why we went here.}} {\small #1}\par\medskip}
+\newcommand{\sub}[1]{\par\medskip{\color{ink}\large\bfseries #1}\par}
+
+% Kinds of statement, as small tags
+\newcommand{\tagbox}[2]{{\sffamily\scriptsize\colorbox{#1}{\textcolor{white}{\strut #2}}}}
+\newcommand{\Exact}{\tagbox{kExact}{EXACT}}
+\newcommand{\Meas}{\tagbox{kMeas}{MEASURED}}
+\newcommand{\MeasX}{\tagbox{kMeas}{MEASURED, EXPLORATORY}}
+\newcommand{\Pub}{\tagbox{kPub}{PUBLISHED}}
+\newcommand{\Ours}{\tagbox{kOurs}{OUR READING, UNVERIFIED}}
+\newcommand{\Claim}{\tagbox{kClaim}{THE AUTHOR'S CLAIM}}
+\newcommand{\Sketch}{\tagbox{kPub}{SKETCH, NOT DATA}}
+
+\begin{document}
+\thispagestyle{empty}
+{\color{accent}\small\textbf{A FIXTURE FOR THE TESTS}}\par
+\vspace{1em}
+{\color{ink}\fontsize{29}{33}\selectfont\bfseries A stub post}\par
+\vspace{0.5em}
+{\raggedright\Large Two short chapters,\\and nothing to learn from them\par}
+\vspace{0.7em}
+\textbf{A fixture}\quad Not a paper\par
+Stands in for the plain-language edition of a technical paper~\cite{tech}
+\vspace{0.9em}
+
+This file is a fixture for the tests of the blog's build. It is not a paper, and nothing in it is a
+result. It holds one or two of each construct the build converts.
+
+It cites one source~\cite{first} and the technical paper it stands beside~\cite{tech}.
+
+\chapterpage{1 \enspace THE FIRST PART}{A chapter with a figure}
+
+\Exact\ A tagged sentence. Figure~\ref{fig:stub} shows two dots and a link, and Chapter~2 has a
+table. A mention of Section~II of a technical paper stays plain text on a post that has no technical
+page to link to.
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[x=1cm,y=1cm,font=\small]
+\draw[flat,thick] (0,0) -- (2,0);
+\fill[curl] (0,0) circle (0.08);
+\fill[curl] (2,0) circle (0.08);
+\node[text=ink] at (1,-0.4) {a link};
+\end{tikzpicture}
+\caption{Two dots and a link. \Sketch\ Drawn only so that the build has a figure to render.}
+\label{fig:stub}
+\end{figure}
+
+\sub{A sub-heading}
+A paragraph under it, with a number, $N=4$, and \emph{emphasis}.
+
+\takeaway{The first box. The page keeps it as an aside.}
+
+\chapterpage{2 \enspace THE SECOND PART}{A chapter with a table and a list}
+
+\whyhere{A fixture needs one of each block.}
+
+\sub{A sub-heading}
+\Meas\ A table, centered:
+
+\begin{center}
+\renewcommand{\arraystretch}{1.2}
+\begin{tabular}{lc}
+\toprule
+Thing & Count\\
+\midrule
+Dots & 2\\
+Links & 1\\
+\bottomrule
+\end{tabular}
+\end{center}
+
+And a list:
+\begin{itemize}\setlength{\itemsep}{1pt}
+\item \Pub\ One item.
+\item \Ours\ Another, which points back to Chapter~1.
+\end{itemize}
+
+\takeaway{The second box. There is no Chapter~7 here, so that mention is not a link.}
+
+\par\Needspace{14\baselineskip}\vspace{1.4em}
+{\color{ink}\LARGE\bfseries Continuing into the technical paper}\par
+\vspace{0.6em}
+
+A closing paragraph, which cites the technical paper once more~\cite{tech}.
+
+\sub{A few translations}
+\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\linewidth}{@{}>{\bfseries}p{0.24\linewidth}X@{}}
+\toprule
+In the paper & What to keep in mind\\
+\midrule
+$N$ & Number of dots.\\
+Link & A line between two dots.\\
+\bottomrule
+\end{tabularx}
+
+\renewcommand{\refname}{Sources}
+\begin{thebibliography}{99}\small
+% the first entry ends a line with a control space, which the build has to read as one
+\bibitem{first} A.~Author, \emph{A first source}, J.\ Fixt.\
+\textbf{1}, 1 (2000).
+\bibitem{second} B.~Author, \emph{A second source}, \url{https://example.org/second}.
+\bibitem{tech} C.~Author, \emph{The technical paper this fixture stands beside}, technical manuscript.
+\end{thebibliography}
+
+\end{document}

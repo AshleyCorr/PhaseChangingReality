@@ -1,0 +1,12 @@
+{
+  "name": "refold_sheet_left_alone",
+  "_purpose": "EXPLORATORY (design track, VISION step 5). Triangles and pentagons allowed, where a closed 30-point piece ties with the flat sheet at H = 0. Left alone at a fixed coupling, does a flat sheet refold into closed pieces?",
+  "_prediction_written_before_the_run": "It does not. The sheet is a dip with a wall of 16, so at g = 1 and 2 it sits at H = 0 with no triangles; at g = 8 it leaves, and the way out is disorder (H per vertex rising towards 16) rather than knots. Refolding is not spontaneous; it needs energy delivered, which is the author's point that space refolds at the singularity.",
+  "start": "sheet",
+  "sides": [10, 6],
+  "couplings": [1, 2, 4, 8],
+  "replicas": 2,
+  "n_sweeps": 300,
+  "every": 10,
+  "seed": 20260922
+}

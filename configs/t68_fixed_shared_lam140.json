@@ -1,0 +1,25 @@
+{
+  "_purpose": "PREREGISTRATION.md T68 (written 2026-10-17 on the owner's 'proceed with these', before any registered run; rule 11's sixth use on piece 5; VISION Updates 58 and 59): does the owner's untied slab (4 x L x L, one direction curled) open from a feed whose rate is fixed (the control), arriving at store 0 of a shared bath of N stores? lambda 1.4; mean rates [0.0625, 0.25, 1.0] units a sweep. Not exploratory. Every six-link result carries VISION Update 24's caveat.",
+  "name": "t68_fixed_shared_lam140",
+  "section": "T68",
+  "written": "2026-10-17",
+  "sizes": [
+    8,
+    12
+  ],
+  "lambda": 1.4,
+  "mode": "shared",
+  "schedule": "fixed",
+  "k": 16,
+  "capacity": "N",
+  "rates": [
+    0.0625,
+    0.25,
+    1.0
+  ],
+  "replicas": 8,
+  "n_sweeps": 20000,
+  "record_every": 50,
+  "seed": 20266913,
+  "save_adjacency": true
+}

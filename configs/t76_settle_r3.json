@@ -1,0 +1,24 @@
+{
+  "_purpose": "PREREGISTRATION T76, its coupling rule, round 3: round 2 showed rho_eq not settled in 200 fair sweeps (replicas at one coupling disagreeing widely, the values not rising with g), so settling is run ten times longer (2,000 fair sweeps, the last 1,000 read) with 16 replicas, from g = 3.5 to 4.4. Calibration of the protocol, not a growth run; every coupling tried is kept.",
+  "name": "t76_settle_r3",
+  "section": "T76-settle",
+  "L": 16,
+  "lambda": 1.25,
+  "couplings": [
+    3.5,
+    3.6,
+    3.7,
+    3.8,
+    3.9,
+    4.0,
+    4.1,
+    4.2,
+    4.3,
+    4.4
+  ],
+  "replicas": 16,
+  "n_settle": 2000,
+  "window": 1000,
+  "n_ref": 96,
+  "seed": 20267692
+}

@@ -1,0 +1,8 @@
+{
+  "name": "defect_interaction",
+  "_purpose": "EXPLORATORY (TASKS T13 rung 3). Exact, no sampling: does a pair of defects in a flat sheet cost less together (an attraction), more (a repulsion), or exactly twice one (no force)? The cheapest rung of the ladder that asks whether gravity could be a pull between leftovers.",
+  "_prediction_written_before_the_run": "A contact interaction: zero beyond overlap, negative where the two defects' damage overlaps, because a broken square shared between them is paid for once. If that is the outcome, leftovers attract only by touching and there is no long-range force here, which is a real limit and gets reported as one.",
+  "lambdas": [1.0, 1.25],
+  "sides": [[10, 10]],
+  "seed": 20260922
+}

@@ -1,0 +1,21 @@
+{
+  "_purpose": "PREREGISTRATION.md T24 (written 2026-09-24, before any run): T23's protocol at lambda = 1.05, N = 96, with 120 decays and fresh seeds, read under the energy check taken from each decay's saved final wiring (gate 3'). Not exploratory.",
+  "name": "t24_lam105_n96",
+  "sides": [
+    [
+      24,
+      4
+    ]
+  ],
+  "g": 1.5,
+  "replicas": 120,
+  "n_sweeps": 100000,
+  "block": 5,
+  "stop_at": 0.98,
+  "settle": 600,
+  "settle_max": 100000,
+  "seed": 20262605,
+  "lambda": 1.05,
+  "save_adjacency": true,
+  "record_f_200": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "force_census",
+  "_purpose": "EXPLORATORY (TASKS T13 rung 3, after O22). Price a point defect and the gap between the two orders at several sizes. A local defect costs the same at every size and can carry no long-range force; a boundary between two orders pays a fixed price per point it sweeps, which is a force that does not fall off at all.",
+  "_prediction_written_before_the_run": "The point defect costs the same at every size (local, so O22 applies to it). The gap per point is exactly 4(lambda - 1) at every size, so the force on a boundary between the two orders is constant with separation.",
+  "lambdas": [1.0, 1.25, 1.5],
+  "sides": [[6, 6], [10, 10], [16, 10], [20, 20], [30, 20]]
+}

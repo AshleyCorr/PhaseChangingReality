@@ -1,0 +1,22 @@
+{
+  "_purpose": "PREREGISTRATION.md T39 (written 2026-09-25, before any run): the cascade window; a torus with two directions curled, 4 x 4 x 18, lambda 1.40, spark 5.0 (the exact wall), C = N/16: does the first release pay the second wall without melting flat space? Not exploratory. Every six-link result carries VISION Update 24's caveat: the reproduction gate is open.",
+  "name": "t39_six_lam140_n288_cn16",
+  "section": "T39",
+  "dims": [
+    4,
+    4,
+    18
+  ],
+  "lambda": 1.4,
+  "capacities": [
+    "N/16"
+  ],
+  "sparks": [
+    5.0
+  ],
+  "replicas": 12,
+  "n_sweeps": 100000,
+  "record_every": 200,
+  "seed": 20263905,
+  "save_adjacency": true
+}

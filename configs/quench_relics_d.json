@@ -1,0 +1,10 @@
+{
+  "_purpose": "EXPLORATORY (written 2026-09-25, 13:13 ET, before the run): gravity step 1 by quenching. Each saved final graph of T34 at N = 216 (flat 6 x 6 x 6 given energy at lambda 1.25; 80 graphs, most melted) is quenched at zero temperature (only moves that do not raise the energy) for 5,000 sweeps; the remaining defect pieces (points not at d = 3) are read and, where the damage is small, the state is tested exactly for being a dip. Expectation, ours: most melted regions heal to flat space or stop in small glassy knots; if any quenched state holds one small piece and is a dip, that piece is the six-link relic O58 did not find by construction.",
+  "name": "quench_relics_d",
+  "inputs": ["results/t34_spread_n216_adj/*.npz", "results/t34_packed_n216_adj/*.npz"],
+  "lambda": 1.25,
+  "n_sweeps": 5000,
+  "seed": 20264300,
+  "max_defect_points": 64,
+  "save_dips": true
+}

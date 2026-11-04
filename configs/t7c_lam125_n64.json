@@ -1,0 +1,23 @@
+{
+  "_purpose": "PREREGISTRATION.md T7 amendment 3 (i): replay the two N = 64 decays of t7b_lam125_n64 that reached the 30,000-sweep settle cap (replicas 1 and 25), from the same seed and code path, with settle_max raised to 100,000. Nothing else changes. A replay must reproduce its original waiting time and first-window release or it is not the same decay.",
+  "name": "t7c_lam125_n64",
+  "sides": [
+    [
+      16,
+      4
+    ]
+  ],
+  "g": 1.5,
+  "replicas": 30,
+  "replica_ids": [
+    1,
+    25
+  ],
+  "n_sweeps": 30000,
+  "block": 5,
+  "stop_at": 0.98,
+  "settle": 600,
+  "seed": 20261057,
+  "lambda": 1.25,
+  "settle_max": 100000
+}

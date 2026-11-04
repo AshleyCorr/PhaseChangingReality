@@ -1,0 +1,16 @@
+{
+  "_purpose": "EXPLORATORY, but with a prediction written down before the run (see below). Design brief, direction A, the first caveat: does the tube result survive larger sizes, and is there a wall? Perfect tubes lx x 4 at lambda = 1.25, four sizes from N = 64 to 192, one coupling (g = 1.5, where every run left the tube in the earlier set), twelve replicas each, so that waiting times can be compared. PREDICTION, ours, recorded before running: if the tube gives way by nucleation, one region going over a wall and the rest following, then (a) the typical waiting time should fall roughly like 1/N, because a larger tube offers more places to start, and (b) the energy given off per vertex should stay 4 (lambda - 1) = 1, independent of N. If instead the waiting time grows with N, or the end state stops being a flat sheet at larger sizes, the picture in VISION Update 8 is wrong at scale and must be corrected there.",
+  "name": "cqg_tube_waiting_lam125",
+  "sides": [[16, 4], [24, 4], [36, 4], [48, 4]],
+  "g": [1.5],
+  "start": "torus",
+  "cap": null,
+  "lambda": 1.25,
+  "acceptance": "metropolis",
+  "seed_scheme": "independent",
+  "n_melt": 0,
+  "n_sweeps": 30000,
+  "record_every": 25,
+  "replicas": 12,
+  "seed": 20260930
+}

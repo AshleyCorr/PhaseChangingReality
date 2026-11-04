@@ -1,0 +1,5 @@
+{
+  "_purpose": "EXACT, exploratory (written 2026-09-25, 13:30 ET, before the calculation): two candidate terms that are not in the model, evaluated on fixed wirings of two identical defects (O56's curled line of four) at every even separation. Expectation, ours, from the literature read the same day (Kardar and Golestanian; Goulian, Bruinsma and Pincus; Kenneth and Klich): (1) ln tau, the spanning-tree count, changes with separation by a small amount that falls off fast (a Casimir-type power law, roughly r^-4 in two directions and r^-6 in three), and it is lower when the defects are close, so the field term (g/2) ln det' L pulls identical defects together and the hidden-tree reading pushes them apart; (2) the source term's cross product q1 L+ q2 grows as the defects approach, as the lattice Green's function: roughly -ln r in two directions and 1/r in three, a Newton-type pull. Neither is a result about the model; they say what each candidate rule would add.",
+  "name": "exact_tree_count_pull",
+  "tori": [[16, 16], [24, 24], [8, 8, 8]]
+}

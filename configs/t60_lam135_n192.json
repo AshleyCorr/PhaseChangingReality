@@ -1,0 +1,22 @@
+{
+  "_purpose": "PREREGISTRATION.md T60 (written 2026-10-10, before any run): the lambda map a fourth time, stage 1, T24's grid: T24's protocol at lambda = 1.35, N = 192, 120 decays, fresh seeds, with the first look at which each decay no longer read as the perfect tube recorded, so that the wait is timed with no detector. Named points. Not exploratory.",
+  "name": "t60_lam135_n192",
+  "sides": [
+    [
+      48,
+      4
+    ]
+  ],
+  "g": 1.5,
+  "replicas": 120,
+  "n_sweeps": 100000,
+  "block": 5,
+  "stop_at": 0.98,
+  "settle": 600,
+  "settle_max": 100000,
+  "seed": 20266135,
+  "lambda": 1.35,
+  "save_adjacency": true,
+  "record_f_200": true,
+  "record_detector": true
+}

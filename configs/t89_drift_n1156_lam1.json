@@ -1,0 +1,16 @@
+{
+  "name": "t89_drift_n1156_lam1",
+  "_purpose": "PREREGISTRATION.md T89 (written 2026-11-01, before this run): the held-out size for the drift of the crossover coupling with ln N at lambda = 1 (TASKS T9). The published model exactly: lambda = 1, no cap, the hard-core rule, Metropolis, named points. N = 1156 = 4 x 17^2 (34 x 34), the author's form N = 4p^2. Cooling from a melt and heating from a fresh flat torus over 14 couplings bracketing the predicted crossing (phi = 0.5 at g = 3.43, phi = 0.65 at g = 2.79). Scored by rule 14 at this size alone. Not exploratory.",
+  "sides": [[34, 34]],
+  "couplings": [4.6, 4.3, 4.0, 3.75, 3.5, 3.3, 3.1, 2.95, 2.8, 2.65, 2.5, 2.35, 2.2, 2.05],
+  "cap": null,
+  "lambda": 1.0,
+  "acceptance": "metropolis",
+  "heat_start": "torus",
+  "seed_scheme": "independent",
+  "n_melt": 1000,
+  "n_equil": 10000,
+  "n_meas": 20000,
+  "replicas": 2,
+  "seed": 20268901
+}

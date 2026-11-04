@@ -1,0 +1,21 @@
+{
+  "name": "sealed_sheet_budget_lam15",
+  "_purpose": "EXPLORATORY (design track; TASKS T13 rung 3). A sealed box is a black hole: nothing leaves. Give a perfect sheet of space a fixed budget of energy it cannot get rid of, and see whether the energy re-curls the space (the author's black hole) or melts it ([T25]'s). The same question along the lambda knob (S1: the whole map gets published).",
+  "_prediction_written_before_the_run": "Curling costs 4(lambda - 1) per added square and melting 16 per destroyed one, so the cheaper the curling the more of it there should be: most curled damage at lambda = 1.05, least at 2.0. At lambda = 1.25 the measured answer was that melted damage dominates at every budget anyway, so the honest expectation is that price is not what decides it and the lambda dependence will be weak.",
+  "lambda": 1.5,
+  "sides": [
+    [
+      12,
+      12
+    ]
+  ],
+  "budgets_per_point": [
+    0.5,
+    1.0,
+    2.0,
+    4.0
+  ],
+  "replicas": 3,
+  "n_sweeps": 4000,
+  "seed": 20260922
+}

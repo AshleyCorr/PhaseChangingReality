@@ -1,0 +1,33 @@
+{
+  "_purpose": "Gate U1' (TASKS), a reproduction check of graphity.u1's sampler with the winding move, not a test of the hypothesis: the same tori, couplings, sweeps and acceptance as Gate U1 (failed 24 October at beta = 8 by freezing in one winding sector), with one winding move per sweep and fresh seeds. Acceptance written in TASKS before the run.",
+  "name": "gate_u1b_2d_winding",
+  "tori": [
+    [
+      6,
+      6
+    ],
+    [
+      10,
+      10
+    ]
+  ],
+  "betas": [
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "steps": [
+    3.14159,
+    2.5,
+    1.8,
+    1.25,
+    0.88
+  ],
+  "n_equil": 2000,
+  "n_meas": 40000,
+  "n_blocks": 40,
+  "seed": 20261025,
+  "winding_move": true
+}

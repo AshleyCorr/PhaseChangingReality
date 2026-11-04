@@ -1,0 +1,17 @@
+{
+  "_purpose": "PREREGISTRATION.md T15 rung 0, written 2026-09-23 before this ran: do the versions exist where the hypothesis says? Exact renaming counts, whole graph and defect only side by side, and the Laplacian spectrum of every defect piece, for the twelve saved resting states of T7 amendment 4, against a perfect sheet, the tube they started from, and a melt at each size that appears. No sampling enters the measured quantities; the only random numbers make the melts, from the seeds here.",
+  "name": "t15_rung0",
+  "leftovers": "results/t7d_lam125_n*_adj/*.npz",
+  "sheets": {"64": [8, 8], "96": [12, 8], "144": [12, 12], "192": [16, 12]},
+  "tubes": {"64": [16, 4], "96": [24, 4], "144": [36, 4], "192": [48, 4]},
+  "melt_sweeps": 300,
+  "melt_seed": 20260923,
+  "gate": {
+    "_what": "ASSUMPTIONS Q15: the 16 x 10 sheet has 320 renamings and its melt from seed 2024 has exactly 1. log_automorphisms must return both, and the helper used on defect subgraphs must return 320 on the sheet, or the tool is wrong and nothing else is read.",
+    "sheet": [16, 10],
+    "sheet_renamings": 320,
+    "melt_seed": 2024,
+    "melt_sweeps": 300,
+    "melt_renamings": 1
+  }
+}

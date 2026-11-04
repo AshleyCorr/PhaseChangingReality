@@ -1,0 +1,18 @@
+{
+  "_purpose": "PREREGISTRATION.md T56 (written 2026-10-09, before any run; VISION Update 47; ASSUMPTIONS O106): the rod, two directions curled and one open, her spaghetti in a warm bath under the owner's tie 'all at the last', f = (0, a, 2a, 0) with a = 4(lambda - 1). The exact 4 x 4 x 36 torus, six links, lambda 1.2, the thermal chain (Metropolis in H + T_f) at the fixed coupling g = 2; named points, no push. Not exploratory. Every six-link result carries VISION Update 24's caveat: the reproduction gate is open.",
+  "name": "t56_rod_l36_lam120_g20",
+  "section": "T56",
+  "dims": [
+    4,
+    4,
+    36
+  ],
+  "lambda": 1.2,
+  "g": 2.0,
+  "tie": "all_at_the_last",
+  "replicas": 8,
+  "n_sweeps": 200000,
+  "record_every": 1000,
+  "seed": 20265658,
+  "save_adjacency": true
+}

@@ -1,0 +1,26 @@
+{
+  "_purpose": "PREREGISTRATION.md T34 (written 2026-09-25, midday, before any run): does concentrated energy fold flat six-link space, one direction and then the rest? Spread: the whole energy in one store of a shared bath of 2N (T21's protocol), flat 8x8x8. Not exploratory. Every six-link result carries VISION Update 24's caveat.",
+  "name": "t34_spread_n512",
+  "section": "T34",
+  "dims": [
+    8,
+    8,
+    8
+  ],
+  "lambda": 1.25,
+  "capacities": [
+    "2*N"
+  ],
+  "sparks": [
+    64.0,
+    128.0,
+    256.0,
+    560.0,
+    1060.0
+  ],
+  "replicas": 8,
+  "n_sweeps": 50000,
+  "record_every": 250,
+  "seed": 20263403,
+  "save_adjacency": true
+}

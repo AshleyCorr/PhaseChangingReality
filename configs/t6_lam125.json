@@ -1,0 +1,16 @@
+{
+  "_purpose": "T6 at lambda = 1.25, one of the two settings that actually bear on claim 4. Above a penalty of 1 the ground state is provably the flat sheet, so this is a setting where the cold phase IS a geometry and the question 'is the geometry-forming change sharp?' is the question claim 4 asks. Published work and our own runs both show the order parameter moving smoothly here, with no jump - which is precisely why an average at one coupling cannot settle it, and why this run measures the energy histogram instead. Everything except lambda and the coupling ladder is IDENTICAL to t6_lam0_control: same sizes, same number of replicas, same 60,000 measured sweeps per replica. That is deliberate. It means a null result here can be compared against the positive control at matched sensitivity, so 'we saw nothing' is a statement about the system rather than about how hard we looked. The ladder is dense between g = 2.2 and 4.3, where our lambda = 1.25 tempering run at N = 64 puts the steepest part of the curve; single-histogram reweighting needs a measured histogram near the transition, not merely one somewhere in the range.",
+  "name": "t6_lam125",
+  "sides": [6, 8, 10],
+  "couplings": [8.0, 6.5, 5.5, 4.8, 4.3, 3.9, 3.6, 3.35, 3.15, 2.95, 2.8, 2.65, 2.5, 2.35, 2.2, 2.0, 1.8, 1.5],
+  "cap": null,
+  "lambda": 1.25,
+  "acceptance": "metropolis",
+  "start": "melt",
+  "n_melt": 1000,
+  "sweeps_per_round": 5,
+  "rounds_equil": 4000,
+  "rounds_meas": 12000,
+  "replicas": 4,
+  "seed": 20260922
+}

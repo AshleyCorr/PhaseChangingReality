@@ -1,0 +1,15 @@
+{
+  "_purpose": "PREREGISTRATION.md T47 part A (written 2026-09-26, before any run): does the front of the tube's opening move at a fixed speed? One seed on a 96 x 4 tube, lambda 1.25, sealed, shared bath of 2N empty stores. Not exploratory.",
+  "name": "t47_front_bath_l96",
+  "section": "T47",
+  "side": [
+    96,
+    4
+  ],
+  "bath": "bath",
+  "replicas": 8,
+  "n_sweeps": 60000,
+  "record_every": 20,
+  "seed": 20264701,
+  "lambda": 1.25
+}

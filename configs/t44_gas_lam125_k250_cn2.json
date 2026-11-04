@@ -1,0 +1,26 @@
+{
+  "_purpose": "PREREGISTRATION.md T44 (written 2026-09-26, before any run): under the follow form of the direction tie (VISION Update 30; ASSUMPTIONS O68), does one push open all three curled directions of the fully curled X (a gas of eight 6-cubes) into flat space, and does it go together or one rung at a time? The owner's ledger of VISION Update 33 (the first push the largest, the later ones smaller) in the model. lambda 1.25, kappa 2.5, the spark the exact wall out of the gas under the tie (56; scripts/exact_walls_tie_follow_d.py), C = N/2. Not exploratory. Every six-link result carries VISION Update 24's caveat: the reproduction gate is open.",
+  "name": "t44_gas_lam125_k250_cn2",
+  "section": "T44",
+  "gas": {
+    "dims": [
+      4,
+      4,
+      4
+    ],
+    "copies": 8
+  },
+  "lambda": 1.25,
+  "kappa": 2.5,
+  "capacities": [
+    "N/2"
+  ],
+  "sparks": [
+    56.0
+  ],
+  "replicas": 8,
+  "n_sweeps": 60000,
+  "record_every": 200,
+  "seed": 20264425,
+  "save_adjacency": true
+}

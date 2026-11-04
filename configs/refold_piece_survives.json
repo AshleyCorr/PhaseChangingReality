@@ -1,0 +1,12 @@
+{
+  "name": "refold_piece_survives",
+  "_purpose": "EXPLORATORY (design track). The same energy and sizes, started from two copies of the closed 30-point piece (the icosidodecahedron), which ties with the flat sheet at H = 0 and is a dip with a wall of 20.",
+  "_prediction_written_before_the_run": "The refolded arrangement survives wherever the sheet does, and a little further, because its wall is 20 against the sheet's 16. If it does not survive, the tie is only an arithmetic one and the refolded state is not a place a run can rest.",
+  "start": "pieces",
+  "pieces": 2,
+  "couplings": [1, 2, 4, 8],
+  "replicas": 2,
+  "n_sweeps": 300,
+  "every": 10,
+  "seed": 20260922
+}

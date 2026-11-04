@@ -1,0 +1,12 @@
+{
+  "_purpose": "EXPLORATORY PILOT, not a T6 production run. The smallest pre-registered size only, at all four pre-registered knob settings, with two seeds instead of four. Its job is to find out whether the sampler converges at production scale at all, what it costs, and whether the four observables of PREREGISTRATION.md section T6 come out finite and stable. No conclusion about the order of the transition may be drawn from two seeds at one size; the pre-registration requires at least three sizes passing its gates. If this pilot converges, the production configs follow at N = 64, 100, 144 and conditionally 256.",
+  "name": "t6_pilot_n36",
+  "sides": [6],
+  "lambdas": [0.0, 1.0, 1.25, 1.5],
+  "seeds": [1, 2],
+  "ln_f_final": 1e-6,
+  "sweeps_per_check": 2000,
+  "max_moves": 400000000,
+  "refine_sweeps": 2000000,
+  "passes": 2
+}

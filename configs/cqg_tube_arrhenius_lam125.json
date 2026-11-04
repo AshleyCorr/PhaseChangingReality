@@ -1,0 +1,13 @@
+{
+  "_purpose": "A prediction with NO free parameters, written before the run. Counting exactly, the cheapest way out of a perfect tube at lambda = 1.25 costs B = 12, and the sampler offers exactly w = 6N/(4N^2) x 2N = 3 such moves per sweep at EVERY size (ASSUMPTIONS Q13). Under Metropolis the waiting time should therefore be 1/(3 exp(-12/g)) sweeps: 1918 at g = 1.4, 994 at 1.5, 551 at 1.6, 317 at 1.75, 134 at 2.0, 41 at 2.5. PREDICTED: ln(wait) against 1/g is a straight line of slope 12 and intercept -ln 3, and the line is the same at both sizes. If the slope comes out well above 12, the barrier is collective rather than the single local move, and the reading in VISION Update 8 is wrong.",
+  "name": "cqg_tube_arrhenius_lam125",
+  "sides": [[16, 4], [36, 4]],
+  "couplings": [1.4, 1.5, 1.6, 1.75, 2.0, 2.5],
+  "cap": null,
+  "lambda": 1.25,
+  "acceptance": "metropolis",
+  "seed_scheme": "independent",
+  "n_sweeps": 40000,
+  "replicas": 16,
+  "seed": 20260932
+}

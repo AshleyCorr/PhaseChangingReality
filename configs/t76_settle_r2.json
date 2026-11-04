@@ -1,0 +1,22 @@
+{
+  "_purpose": "PREREGISTRATION T76, its coupling rule, round 2 of the bisection: settling runs alone (growth off) on the flat 16 x 16 sheet at lambda = 1.25, reading rho_eq at a finer grid between g = 3.5 and 4.5, where round 1 crossed the targets, to find those with rho_eq = 0.003, 0.01, 0.03 and 0.1. Calibration of the protocol, not a growth run; every coupling tried is kept.",
+  "name": "t76_settle_r2",
+  "section": "T76-settle",
+  "L": 16,
+  "lambda": 1.25,
+  "couplings": [
+    3.6,
+    3.7,
+    3.8,
+    3.9,
+    4.1,
+    4.2,
+    4.3,
+    4.5
+  ],
+  "replicas": 8,
+  "n_settle": 200,
+  "window": 100,
+  "n_ref": 96,
+  "seed": 20267691
+}

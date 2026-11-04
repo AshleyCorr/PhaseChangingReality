@@ -1,0 +1,9 @@
+{
+  "_purpose": "PREREGISTRATION.md T55 (written 2026-10-09, before any computation; the owner's prediction SEAM recorded first): every connected piece of points not at d = 2 in T51's 600 saved final graphs, read from the wiring: its census and energy, whether one switch heals it (SCAR), whether it carries a far link (SEAM), or every single move out costs (KNOT); the graph distance to the nearest other piece and to the nearest column. Exact; nothing random. Not exploratory.",
+  "name": "t55_pieces",
+  "section": "T55",
+  "states": "results/t51_*_adj/*.npz",
+  "near": 4,
+  "far": 7,
+  "verdict_length": 256
+}

@@ -1,0 +1,16 @@
+{
+  "_purpose": "EXPLORATORY. Tests a specific prediction another group makes about our own system, at sizes where it can actually appear. [GV21] reports that the cold phase at the penalty-off setting is about N/2^d knots PLUS one closed bipartite 'ribbon' holding the leftover points. Our existing lambda = 0 runs cannot show this: their sizes (64, 96, 160) are all multiples of 16, so the graph shatters into a whole number of 4-cubes with NO leftover, baby_frac reaches 1.000 and there is nothing for a ribbon to be made of. The sizes here are deliberately NOT multiples of 16. PREDICTION, written before the run: in the cold shattered phase, if the leftover forms a single closed piece then largest_frac should equal 1 - baby_frac (the largest piece IS the ribbon) and pieces should be about baby_frac*N/16 + 1; if instead the leftover scatters, largest_frac sits near 16/N and pieces runs well above that. The two differ by far more than the run-to-run spread, so this is decidable. Not pre-registered as a gate; it is a reproduction check of somebody else's reported detail.",
+  "name": "cqg_lam0_ribbon",
+  "sides": [[6, 6], [10, 10], [10, 12]],
+  "couplings": [100, 30, 20, 15, 12, 10, 9, 8, 7.5, 7, 6.5, 6, 5.5, 5, 4.5, 4, 3.5, 3],
+  "cap": null,
+  "lambda": 0.0,
+  "acceptance": "metropolis",
+  "heat_start": "continue",
+  "seed_scheme": "independent",
+  "n_melt": 1000,
+  "n_equil": 2000,
+  "n_meas": 4000,
+  "replicas": 4,
+  "seed": 20260921
+}

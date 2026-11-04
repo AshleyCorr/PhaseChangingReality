@@ -1,0 +1,17 @@
+{
+  "_purpose": "PREREGISTRATION.md T53 (written 2026-10-05, before any run): the 'spaghetti' X in a warm bath: does a space with two directions curled and one open open by itself, from one place or several? The exact 4 x 4 x 72 torus, six links, two directions curled and one open, lambda 1.40, the thermal chain (Metropolis) at the fixed coupling g = 3.0; named points, no tie, no push. Not exploratory. Every six-link result carries VISION Update 24's caveat: the reproduction gate is open.",
+  "name": "t53_l72_lam140_g30",
+  "section": "T53",
+  "dims": [
+    4,
+    4,
+    72
+  ],
+  "lambda": 1.4,
+  "g": 3.0,
+  "replicas": 8,
+  "n_sweeps": 200000,
+  "record_every": 1000,
+  "seed": 20265329,
+  "save_adjacency": true
+}

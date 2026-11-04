@@ -1,0 +1,17 @@
+{
+  "_purpose": "PREREGISTRATION.md T50 (written 2026-09-27, before any run): does the tube's opening front slow where energy sits? 192 x 4 tube, lambda 1.25, one seed at column 0, one store per point; 10 units in the store of every point of columns 40 to 55. Not exploratory.",
+  "name": "t50_front_matter_e10",
+  "section": "T50",
+  "side": [
+    192,
+    4
+  ],
+  "lambda": 1.25,
+  "band_centre": 48,
+  "band_width": 16,
+  "energy_per_point": 10.0,
+  "replicas": 24,
+  "n_sweeps": 40000,
+  "record_every": 20,
+  "seed": 20265005
+}

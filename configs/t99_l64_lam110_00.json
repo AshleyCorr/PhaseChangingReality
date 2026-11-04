@@ -1,0 +1,35 @@
+{
+  "_purpose": "PREREGISTRATION.md T99 (written 2026-11-03, before any run): the leftover's energy share of the release against lambda. T51's protocol unchanged at a 64 x 4 tube, lambda 1.1: opens by itself at g 1.25 until 90 % flat and no stretch of tube longer than eight points; cooled to g 0.25 over 10,000 fair sweeps and held 5,000. Replicas 0 to 7. Not exploratory.",
+  "name": "t99_l64_lam110_00",
+  "section": "T99",
+  "side": [
+    64,
+    4
+  ],
+  "lambda": 1.1,
+  "g_hot": 1.25,
+  "g_cold": 0.25,
+  "t_cool": [
+    10000
+  ],
+  "hold": 5000,
+  "block": 250,
+  "n_ref": 96,
+  "open_check_every": 100,
+  "open_stop_flat": 0.9,
+  "open_max_d1_piece": 8,
+  "open_cap": 600000,
+  "replica_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "replicas": 8,
+  "seed": 20261103,
+  "save_adjacency": true
+}

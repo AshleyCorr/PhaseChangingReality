@@ -1,0 +1,22 @@
+{
+  "_purpose": "PREREGISTRATION.md T30 (written 2026-09-25, before any run): six links, a two-curled torus in a sealed box given the exact wall as a spark; does one push open both curled directions, and how much room does that need? 4 x 4 x 18 at lambda 1.25, spark 16.0, C = 2*N. Not exploratory. Every six-link result carries VISION Update 24's caveat: the reproduction gate is open.",
+  "name": "t30_lam125_n288_c2n",
+  "section": "T30",
+  "dims": [
+    4,
+    4,
+    18
+  ],
+  "lambda": 1.25,
+  "capacities": [
+    "2*N"
+  ],
+  "sparks": [
+    16.0
+  ],
+  "replicas": 12,
+  "n_sweeps": 100000,
+  "record_every": 200,
+  "seed": 20263001,
+  "save_adjacency": true
+}

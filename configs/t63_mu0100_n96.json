@@ -1,0 +1,20 @@
+{
+  "_purpose": "PREREGISTRATION.md T63 (written 2026-10-12, before any run): the curled tube itself under a price mu on loops of six, warm, cooled and read from its wiring. Stage 1. Not exploratory.",
+  "name": "t63_mu0100_n96",
+  "section": "T63",
+  "start": "tube",
+  "lambda": 1.25,
+  "mu": 0.1,
+  "g": 1.5,
+  "lengths": [
+    24
+  ],
+  "replicas": 24,
+  "hold_sweeps_at_192": 30000,
+  "cool_sweeps_at_192": 60000,
+  "cool_to": 0.5,
+  "cold_sweeps": 1000,
+  "cold_g": 0.05,
+  "save_adjacency": true,
+  "seed": 20266300
+}

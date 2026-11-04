@@ -1,0 +1,16 @@
+{
+  "_purpose": "EXPLORATORY. The same parallel-tempering run as cqg_n160_capped_tempering with the full Hamiltonian (lambda = 1, no cap): what does the equilibrium curve look like below g = 5, where single chains freeze and where [T25] Fig. 3 and [KTB19] Fig. 8a disagree most? The three hottest couplings are couplings of cqg_n160_lam1_nocap_vs_t25fig3. Same ladder as the capped run, not separately tuned; not pre-registered.",
+  "name": "cqg_n160_lam1_nocap_tempering",
+  "sides": [[16, 10]],
+  "couplings": [6.31, 5.62, 5.01, 4.5, 4.1, 3.75, 3.45, 3.2, 3.0, 2.85, 2.7, 2.5, 2.25, 2.0],
+  "cap": null,
+  "lambda": 1.0,
+  "acceptance": "metropolis",
+  "start": "melt",
+  "n_melt": 1000,
+  "sweeps_per_round": 5,
+  "rounds_equil": 6000,
+  "rounds_meas": 12000,
+  "replicas": 4,
+  "seed": 20260925
+}

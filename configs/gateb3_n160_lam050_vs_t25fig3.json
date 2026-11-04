@@ -1,0 +1,44 @@
+{
+  "name": "gateb3_n160_lam050_vs_t25fig3",
+  "_purpose": "PREREGISTRATION Gate B''' (written 2026-10-23 after the model's author's note that the printed local term of [KTB19] Eq. (27) and [T25] Eq. (22) is missing a factor 2, ASSUMPTIONS Q28): is [T25] Fig. 3 the Hamiltonian as printed, which in our family is lambda = 1/2? The protocol of cqg_n160_lam1_nocap_vs_t25fig3 unchanged (N = 160, Fig. 3's 22 couplings, both legs, four replicas, Metropolis, no cap) at lambda = 0.50. Scored by the Gate B criterion. Not exploratory.",
+  "sides": [
+    [
+      16,
+      10
+    ]
+  ],
+  "couplings": [
+    177.8,
+    100,
+    79.4,
+    63.1,
+    39.8,
+    31.6,
+    25.1,
+    15.85,
+    10,
+    7.94,
+    6.31,
+    6.03,
+    5.89,
+    5.75,
+    5.62,
+    5.01,
+    3.98,
+    2.0,
+    0.562,
+    0.316,
+    0.178,
+    0.1
+  ],
+  "cap": null,
+  "lambda": 0.5,
+  "acceptance": "metropolis",
+  "heat_start": "torus",
+  "seed_scheme": "independent",
+  "n_melt": 1000,
+  "n_equil": 2000,
+  "n_meas": 4000,
+  "replicas": 4,
+  "seed": 20260921
+}

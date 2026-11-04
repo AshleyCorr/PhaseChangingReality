@@ -1,0 +1,31 @@
+{
+  "_purpose": "PREREGISTRATION.md T21 (written 2026-09-24 before the runs): O20's sealed sheet with named points at N = 36, single-demon and bath protocols. Not exploratory.",
+  "name": "t21_refold_n36_named",
+  "side": [
+    6,
+    6
+  ],
+  "points": "named",
+  "protocols": [
+    "single",
+    "bath"
+  ],
+  "budgets_by_protocol": {
+    "single": [
+      0.5,
+      1.0,
+      2.0,
+      4.0
+    ],
+    "bath": [
+      2.0,
+      4.0,
+      8.0,
+      16.0
+    ]
+  },
+  "replicas": 6,
+  "n_sweeps": 4000,
+  "seed": 20261537,
+  "lambda": 1.25
+}

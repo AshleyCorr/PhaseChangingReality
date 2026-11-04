@@ -1,0 +1,20 @@
+{
+  "_purpose": "PREREGISTRATION.md T54, the held-out size (rule 14): L = 16, the same five lambda, untied and under the owner's tie 'all at the last', by the same script and patch as stage 1. Computed only after Amendment 4 of 11 October 2026 named the prediction for it from L = 8 and 12. Exact; no run; nothing random. Not exploratory.",
+  "name": "t54_patch_heldout",
+  "section": "T54",
+  "lengths": [
+    16
+  ],
+  "lambdas": [
+    1.1,
+    1.15,
+    1.2,
+    1.25,
+    1.4
+  ],
+  "ties": [
+    "none",
+    "all_at_the_last"
+  ],
+  "near": 3
+}

@@ -1,0 +1,9 @@
+{
+  "_purpose": "PREREGISTRATION.md T54 with Amendments 1 and 2 (the draft of 2026-10-06; the owner's prediction CRITICAL PATCH, 8 October; the tied case, 9 October): the exact energy of the slab 4 x L x L with its curled direction opened over a helix patch of size k, untied and under the owner's tie 'all at the last', at the two stage-1 sizes L = 8 and 12; the held-out size L = 16 runs only after the prediction for it is committed (rule 14). Exact; no run; nothing random. Not exploratory.",
+  "name": "t54_patch_stage1",
+  "section": "T54",
+  "lengths": [8, 12],
+  "lambdas": [1.10, 1.15, 1.20, 1.25, 1.40],
+  "ties": ["none", "all_at_the_last"],
+  "near": 3
+}

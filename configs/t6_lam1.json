@@ -1,0 +1,16 @@
+{
+  "_purpose": "T6 at lambda = 1, the setting the published work studies most and the one where the disagreement in print actually sits. [T25] reports the transition as continuous at 160 points with the full rule; the first author's own thesis says that above three connections it 'appears to become first-order'. Those are not obviously about the same thing, and nobody we have read has run both this and lambda = 0 in one code at matched sizes and asked how the barrier grows with size. That comparison is the whole point of running the control first. Lambda = 1 is also the exact tie described in section 9 of the write-up: the shattered state and the flat sheet cost precisely the same energy here, so nothing opposes the symmetry term - which is a separate reason this setting is worth measuring rather than assuming. Everything except lambda and the coupling ladder is IDENTICAL to t6_lam0_control, for the matched-sensitivity reason given in t6_lam125.json.",
+  "name": "t6_lam1",
+  "sides": [6, 8, 10],
+  "couplings": [8.0, 6.5, 5.5, 4.8, 4.3, 3.9, 3.6, 3.35, 3.15, 2.95, 2.8, 2.65, 2.5, 2.35, 2.2, 2.0, 1.8, 1.5],
+  "cap": null,
+  "lambda": 1.0,
+  "acceptance": "metropolis",
+  "start": "melt",
+  "n_melt": 1000,
+  "sweeps_per_round": 5,
+  "rounds_equil": 4000,
+  "rounds_meas": 12000,
+  "replicas": 4,
+  "seed": 20260923
+}

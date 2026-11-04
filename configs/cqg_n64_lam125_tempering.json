@@ -1,0 +1,16 @@
+{
+  "_purpose": "EXPLORATORY. The equilibrium curve at lambda = 1.25, N = 64, by parallel tempering, because a single chain freezes below g = 3 there (a scratch attempt at the canonical curve gave energies that jumped about below g = 3, which is the freezing showing itself). Needed to narrow VISION claim 5 into a prediction: a sealed run conserves its total energy exactly, so if the leftover disorder is DETERMINED rather than free, the sealed run's final phi must equal the equilibrium phi at whatever temperature that energy corresponds to. This run supplies the right-hand side of that comparison. PREDICTION, written before the run: the sealed runs of cqg_spark_threshold_lam125 at sparks 12, 13 and 16 sit at total energies 1.1875, 1.2031 and 1.2500 per vertex, and their measured final phi of 0.971, 0.957 and 0.945 should match the equilibrium phi at those energies to within the run-to-run spread. If they do not, the leftover is not simply thermal and claim 5 cannot be narrowed this way.",
+  "name": "cqg_n64_lam125_tempering",
+  "sides": [[16, 4]],
+  "couplings": [8.0, 6.5, 5.4, 4.5, 3.8, 3.3, 2.9, 2.6, 2.35, 2.15, 2.0, 1.85, 1.7, 1.55, 1.4],
+  "cap": null,
+  "lambda": 1.25,
+  "acceptance": "metropolis",
+  "start": "melt",
+  "n_melt": 500,
+  "sweeps_per_round": 5,
+  "rounds_equil": 4000,
+  "rounds_meas": 8000,
+  "replicas": 4,
+  "seed": 20260933
+}

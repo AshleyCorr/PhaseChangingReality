@@ -1,0 +1,43 @@
+{
+  "_purpose": "T6 at lambda = 0, size 64, one size per config so the coupling ladder can be sized for the gap at THIS size. Ladder built by scripts/make_t6_ladder.py; see that file for why a single shared ladder gave zero round trips at N = 64. 24 rungs, spaced 0.00404 in 1/g through the window around g_c = 6.7 and three times that outside it. Everything else matches t6_lam0_control so the three sizes and the three lambdas stay comparable at matched sensitivity.",
+  "name": "t6b_lam0_n64",
+  "sides": [
+    8
+  ],
+  "couplings": [
+    14.0,
+    11.9687,
+    10.4521,
+    9.2767,
+    8.3389,
+    8.0671,
+    7.8124,
+    7.5733,
+    7.3484,
+    7.1365,
+    6.9365,
+    6.7473,
+    6.5683,
+    6.3984,
+    6.2372,
+    6.0838,
+    5.9378,
+    5.7987,
+    5.6659,
+    5.5391,
+    5.4178,
+    5.0839,
+    4.7888,
+    4.526
+  ],
+  "cap": null,
+  "lambda": 0.0,
+  "acceptance": "metropolis",
+  "start": "melt",
+  "n_melt": 1000,
+  "sweeps_per_round": 5,
+  "rounds_equil": 4000,
+  "rounds_meas": 12000,
+  "replicas": 4,
+  "seed": 20260985
+}

@@ -1,0 +1,15 @@
+{
+  "name": "konopka_r-2.5",
+  "_purpose": "Phase A: reproduce the transition of the basic model, [K08] Sec. IV A 3, Figs. 4-5",
+  "_targets": "[K08] specific-heat maxima near beta = 0.13, 0.16, 0.17, 0.18 for N = 60, 120, 180, 240; epsilon_0 = -12.2",
+  "r": -2.5,
+  "l_max": 9,
+  "g_b": 1.0,
+  "menu": {"kind": "complete"},
+  "sizes": [60, 120, 180, 240],
+  "betas": [0.06, 0.07, 0.08, 0.09, 0.10, 0.11, 0.12, 0.13, 0.14, 0.15, 0.16, 0.17, 0.18, 0.19, 0.20, 0.21, 0.22],
+  "n_equil": 2000,
+  "n_meas": 8000,
+  "replicas": 4,
+  "seed": 20260919
+}

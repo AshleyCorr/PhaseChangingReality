@@ -1,0 +1,17 @@
+{
+  "_purpose": "PREREGISTRATION.md T52 with its Amendment 1 (both written 2026-10-05, before any count was taken on a saved state with graphity.hidden): the hidden count, scored as shapes (wirings up to renaming of the window's sealed points), on windows of graph distance 1 and 2 round the four-point relics of T37's twelve cold end states, with flat controls. Exact enumeration, no random numbers. Not exploratory.",
+  "name": "t52_hidden_relics",
+  "lambda": 1.25,
+  "states": "results/t37_lam125_g125_L1024_*_adj/*.npz",
+  "radii_all": [
+    1
+  ],
+  "radii_first": [
+    2
+  ],
+  "first_per_state": 1,
+  "flat_squares_per_state": 3,
+  "flat_distance": 6,
+  "time_limit_s": 1200,
+  "flat_first_per_state": 1
+}

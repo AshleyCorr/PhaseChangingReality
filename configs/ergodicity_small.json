@@ -1,0 +1,6 @@
+{
+  "_purpose": "Task T4. Exhaustive, not a simulation: every state of the 2D CQG model at the smallest sizes (n vertices a side, N = 2n), with and without the cap, and whether the edge switch joins all classes. Method: src/graphity/small_graphs.py. n = 10 was started and abandoned: its direct count did not finish in the time we gave it.",
+  "name": "ergodicity_small",
+  "sizes": [4, 5, 6, 7, 8, 9],
+  "caps": [null, 2]
+}

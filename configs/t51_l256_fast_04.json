@@ -1,0 +1,35 @@
+{
+  "_purpose": "PREREGISTRATION.md T51 (written 2026-10-05, before any run): how much scrap freezes in, against how slowly the new space cools. A 256 x 4 tube at lambda 1.25 opens by itself at g 1.25 until 90 % of its points are flat (d = 2) and no stretch of tube three or more columns long is left (no connected piece of points at d = 1 larger than eight; Amendments 1 and 2, the same day, before any run); copies of that sheet are cooled to g 0.25 over 0, 1000, 3000, 10000 and 30000 fair sweeps by equal factors per block of 250 (one fair sweep = N / 96 sweeps of the chain) and held 5,000 fair sweeps at 0.25. Replicas 16 to 19 of one seeded set of 80. Not exploratory.",
+  "name": "t51_l256_fast_04",
+  "section": "T51",
+  "side": [
+    256,
+    4
+  ],
+  "lambda": 1.25,
+  "g_hot": 1.25,
+  "g_cold": 0.25,
+  "t_cool": [
+    0,
+    1000,
+    3000,
+    10000,
+    30000
+  ],
+  "hold": 5000,
+  "block": 250,
+  "n_ref": 96,
+  "open_check_every": 100,
+  "open_stop_flat": 0.9,
+  "open_max_d1_piece": 8,
+  "open_cap": 600000,
+  "replica_ids": [
+    16,
+    17,
+    18,
+    19
+  ],
+  "replicas": 80,
+  "seed": 20261005,
+  "save_adjacency": true
+}

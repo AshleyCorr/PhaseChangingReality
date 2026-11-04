@@ -1,0 +1,34 @@
+{
+  "_purpose": "PREREGISTRATION.md T37 (written 2026-09-25, before any run): many natural seeds in a long tube; 4 x 512 at lambda 1.25, g 1.75; replicas 10 to 19 of one seeded set. Not exploratory.",
+  "name": "t37_lam125_g175_L512_b",
+  "sides": [
+    [
+      512,
+      4
+    ]
+  ],
+  "g": 1.75,
+  "replica_ids": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "replicas": 20,
+  "n_sweeps": 600000,
+  "block": 5,
+  "stop_at": 0.97,
+  "settle": 600,
+  "settle_max": 2400,
+  "seed": 20263875,
+  "lambda": 1.25,
+  "save_adjacency": true,
+  "count_patches_every": 100,
+  "patch_min": 8
+}

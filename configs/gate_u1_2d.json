@@ -1,0 +1,11 @@
+{
+  "_purpose": "Gate U1 (TASKS), a reproduction check of graphity.u1's sampler, not a test of the hypothesis: the average square of compact U(1) with the Wilson action on the flat 6 x 6 and 10 x 10 four-link tori against the exact torus answer (character expansion), at five couplings. Acceptance written in TASKS before the run.",
+  "name": "gate_u1_2d",
+  "tori": [[6, 6], [10, 10]],
+  "betas": [0.5, 1.0, 2.0, 4.0, 8.0],
+  "steps": [3.14159, 2.5, 1.8, 1.25, 0.88],
+  "n_equil": 2000,
+  "n_meas": 40000,
+  "n_blocks": 40,
+  "seed": 20261024
+}

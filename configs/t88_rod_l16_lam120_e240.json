@@ -1,0 +1,19 @@
+{
+  "name": "t88_rod_l16_lam120_e240",
+  "section": "T88",
+  "_purpose": "T88, the pole test: a rod fed at one end under the tie",
+  "dims": [
+    4,
+    4,
+    16
+  ],
+  "lambda": 1.2,
+  "tie": "all_at_the_last",
+  "energy": 240,
+  "fed_layers": 1,
+  "replicas": 4,
+  "n_sweeps": 10000,
+  "record_every": 100,
+  "seed": 20268814,
+  "save_adjacency": true
+}

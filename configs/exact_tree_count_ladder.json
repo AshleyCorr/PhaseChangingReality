@@ -1,0 +1,13 @@
+{
+  "_purpose": "EXACT, exploratory (written 2026-09-25, 15:20 ET, before the calculation): would the field on the points of option A (gravity brief, section 6) change which rung of the ladder is favored? Its free energy per point is (g/2) ln det' L / N; compared across rungs at equal N it acts like a shift of the curling cost 4(lambda - 1) per point per direction. Rungs at equal N: four links 8 x 8 (flat), 16 x 4 (one curled), a gas of four 4-cubes (both); six links 8 x 8 x 8, 4 x 8 x 16, 4 x 4 x 32, a gas of eight 6-cubes. Expectation, ours: the flat torus has the most spanning trees per point (it is the best-connected at large scale), so the field term costs flat space more than curled space, a shift toward curling of order g times a few hundredths per point, small beside 4(lambda - 1) = 1 at lambda = 1.25 but comparable near lambda = 1.02.",
+  "name": "exact_tree_count_ladder",
+  "rungs": [
+    {"links": 4, "label": "flat 8x8", "dims": [8, 8]},
+    {"links": 4, "label": "one curled 16x4", "dims": [16, 4]},
+    {"links": 4, "label": "gas of four 4-cubes", "gas": {"dims": [4, 4], "copies": 4}},
+    {"links": 6, "label": "flat 8x8x8", "dims": [8, 8, 8]},
+    {"links": 6, "label": "one curled 4x8x16", "dims": [4, 8, 16]},
+    {"links": 6, "label": "two curled 4x4x32", "dims": [4, 4, 32]},
+    {"links": 6, "label": "gas of eight 6-cubes", "gas": {"dims": [4, 4, 4], "copies": 8}}
+  ]
+}

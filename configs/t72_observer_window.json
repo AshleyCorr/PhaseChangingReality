@@ -1,0 +1,14 @@
+{
+  "_purpose": "PREREGISTRATION.md T72 (drafted 2026-10-19; the owner's prediction, 'agree', recorded before any number): when is an observer like us most likely to find itself, by its universe's own age, under four declared reference classes. Standard cosmology with published inputs (reading notes of 12 and 19 October 2026); not a run of the toy; tests nothing in the hypothesis. Not exploratory. Class C is the reproduction gate of rule 2 against Loeb, Batista and Sloan 2016 (their 0.1 percent before now, peak near 1e13 yr), computed in the 'gate' kernel with their assumptions. Amendment 1: no metallicity factor on planet formation (the 2016 paper's assumption), to be added as a sensitivity when Lineweaver 2001 is read.",
+  "name": "t72_observer_window",
+  "section": "T72",
+  "written": "2026-10-19",
+  "tails_Gyr": [50, 20, "none"],
+  "classes": [
+    {"name": "gate", "m_min": 0.08, "m_max": 3.0, "kernel": "gate"},
+    {"name": "A", "m_min": 0.8, "m_max": 1.2, "kernel": "fixed", "delay_Gyr": 4.5},
+    {"name": "B", "m_min": 0.5, "m_max": 1.4, "kernel": "fixed", "delay_Gyr": 3.0, "window_fixed_Gyr": 10.0},
+    {"name": "C", "m_min": 0.08, "m_max": 3.0, "kernel": "fixed", "delay_Gyr": 4.5},
+    {"name": "D", "m_min": 0.8, "m_max": 1.2, "kernel": "hardsteps", "n_steps": [3, 5, 7], "cap_Gyr": 100.0}
+  ]
+}

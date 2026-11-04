@@ -1,0 +1,47 @@
+{
+  "_purpose": "PREREGISTRATION.md Gate C' (written 2026-09-24, night, before any run), run B: D = 2 (cqg draw for draw), N = 2000, lambda = 1, no cap, cooling then heating from a start with no squares, 2,000 + 2,000 sweeps per coupling at g = e^(k/4), k = 16 down to -8, to measure the width of the transition in ln g against [T22] Fig. 2's width of 2.0. Replica b. Not exploratory.",
+  "name": "gatec2_2d_n2000_b",
+  "start": {
+    "circulant": 1000,
+    "offsets": [
+      0,
+      1,
+      4,
+      10
+    ]
+  },
+  "lambda": 1.0,
+  "acceptance": "metropolis",
+  "couplings": [
+    54.59815,
+    42.521082,
+    33.115452,
+    25.79034,
+    20.085537,
+    15.642632,
+    12.182494,
+    9.487736,
+    7.389056,
+    5.754603,
+    4.481689,
+    3.490343,
+    2.718282,
+    2.117,
+    1.648721,
+    1.284025,
+    1.0,
+    0.778801,
+    0.606531,
+    0.472367,
+    0.367879,
+    0.286505,
+    0.22313,
+    0.173774,
+    0.135335
+  ],
+  "n_melt": 200,
+  "replicas": 1,
+  "n_equil": 2000,
+  "n_meas": 2000,
+  "seed": 20262812
+}

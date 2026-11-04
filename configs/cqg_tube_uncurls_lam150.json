@@ -1,0 +1,16 @@
+{
+  "_purpose": "EXPLORATORY. The same as cqg_tube_uncurls_lam125 at lambda = 1.5, where the tube lies 4 (lambda - 1) = 2 per vertex above the flat sheet. The dip census at N = 18 found dips above the flat ground state up to lambda of about 1.55, so this is near the edge of that window. Not pre-registered.",
+  "name": "cqg_tube_uncurls_lam150",
+  "sides": [[16, 4], [24, 4]],
+  "g": [1.0, 1.5, 2.0],
+  "start": "torus",
+  "cap": null,
+  "lambda": 1.5,
+  "acceptance": "metropolis",
+  "seed_scheme": "independent",
+  "n_melt": 0,
+  "n_sweeps": 30000,
+  "record_every": 50,
+  "replicas": 4,
+  "seed": 20260929
+}

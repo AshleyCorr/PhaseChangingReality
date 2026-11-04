@@ -1,0 +1,23 @@
+{
+  "section": "T26",
+  "lambda": 1.25,
+  "leak": 0.0,
+  "save_adjacency": true,
+  "_purpose": "PREREGISTRATION.md T26 (written 2026-09-24, before any run): energy packed into one place in a cold flat sheet, sealed. Protocol stores spread over the nine side-0 stores within radius 2 (32 and 64 units per store). Not exploratory.",
+  "name": "t26_stores_r2_n144",
+  "side": [
+    12,
+    12
+  ],
+  "protocol": "stores",
+  "points": "named",
+  "radius": 2,
+  "energies": [
+    288,
+    576
+  ],
+  "replicas": 20,
+  "block": 500,
+  "n_blocks": 100,
+  "seed": 20262603
+}

@@ -1,0 +1,26 @@
+{
+  "_purpose": "PREREGISTRATION.md T30 (written 2026-09-25, before any run): six links, a two-curled torus in a sealed box given the exact wall as a spark; does one push open both curled directions, and how much room does that need? The literal form of the owner's rule: a gas of eight 6-cubes (all three directions curled, no direction singled out) at lambda 1.10, sparks 8.0 (the exact wall) and 10.0, C = 2N. Not exploratory. Every six-link result carries VISION Update 24's caveat: the reproduction gate is open.",
+  "name": "t30_gas_lam110_n512",
+  "section": "T30",
+  "gas": {
+    "dims": [
+      4,
+      4,
+      4
+    ],
+    "copies": 8
+  },
+  "lambda": 1.1,
+  "capacities": [
+    "2*N"
+  ],
+  "sparks": [
+    8.0,
+    10.0
+  ],
+  "replicas": 12,
+  "n_sweeps": 100000,
+  "record_every": 200,
+  "seed": 20263010,
+  "save_adjacency": true
+}

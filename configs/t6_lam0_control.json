@@ -1,0 +1,16 @@
+{
+  "_purpose": "T6, and deliberately the POSITIVE CONTROL first. lambda = 0 is the one setting where the transition is already known to be first order, from two published groups and from our own Gate A runs (the jump, the wide hysteresis loop, the shattering). So it is the case where the method must succeed before it is allowed to report anything about the settings that matter. If tempering plus energy histograms cannot see a first-order transition HERE, the instrument is wrong and no null result at lambda > 1 would mean anything. Sizes are the pre-registered ones that fit the budget (PREREGISTRATION.md section T6): square tori at N = 36, 64, 100. The coupling ladder brackets the transition, which our own lambda = 0 runs put near g = 6 to 7 at these sizes. Four replicas, as pre-registered; the spread between them is the error bar. Round trips are reported with every row and are expected to be LOW here, because a first-order transition is exactly what makes tempering struggle - that is itself information and it is why gate 4 exists.",
+  "name": "t6_lam0_control",
+  "sides": [6, 8, 10],
+  "couplings": [14.0, 12.0, 10.5, 9.5, 8.75, 8.0, 7.5, 7.0, 6.6, 6.3, 6.0, 5.7, 5.4, 5.1, 4.8, 4.4, 4.0, 3.5],
+  "cap": null,
+  "lambda": 0.0,
+  "acceptance": "metropolis",
+  "start": "melt",
+  "n_melt": 1000,
+  "sweeps_per_round": 5,
+  "rounds_equil": 4000,
+  "rounds_meas": 12000,
+  "replicas": 4,
+  "seed": 20260921
+}

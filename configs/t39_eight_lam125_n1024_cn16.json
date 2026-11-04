@@ -1,0 +1,23 @@
+{
+  "_purpose": "PREREGISTRATION.md T39 (written 2026-09-25, before any run): the cascade window; a torus with two directions curled, 4 x 4 x 8 x 8, lambda 1.25, spark 40.0 (the exact wall), C = N/16: does the first release pay the second wall without melting flat space? Not exploratory. Every eight-link result carries VISION Update 24's caveat: no published eight-link curve exists and the kernel is validated at four and six links.",
+  "name": "t39_eight_lam125_n1024_cn16",
+  "section": "T39",
+  "dims": [
+    4,
+    4,
+    8,
+    8
+  ],
+  "lambda": 1.25,
+  "capacities": [
+    "N/16"
+  ],
+  "sparks": [
+    40.0
+  ],
+  "replicas": 6,
+  "n_sweeps": 50000,
+  "record_every": 250,
+  "seed": 20263911,
+  "save_adjacency": true
+}

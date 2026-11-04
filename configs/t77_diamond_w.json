@@ -1,0 +1,9 @@
+{
+  "_purpose": "PREREGISTRATION.md T77 (DRAFT written 2026-10-20, registered with the owner's constant-dark-energy prediction recorded 2026-10-21, 00:55 UTC, before any number): T73's diamond calculation under constant dark-energy equations of state, w = -1 (the control: T73's own closed forms), -0.9, -0.7 and -1/3 (the horizon's edge); H0 refitted per w to a 13.8 Gyr age, Omega_m = 0.315. Standard cosmology, not the toy; not exploratory. The classes and the scoring rule are T73's, read from configs/t73_diamond.json.",
+  "name": "t77_diamond_w",
+  "section": "T77",
+  "written": "2026-10-21",
+  "classes_from": "configs/t73_diamond.json",
+  "w_values": [-1.0, -0.9, -0.7, -0.3333333333333333],
+  "tails_Gyr": [50, 20, "none"]
+}

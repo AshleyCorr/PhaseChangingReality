@@ -1,0 +1,39 @@
+{
+  "_purpose": "T6 at lambda = 1.5 under PREREGISTRATION.md amendment 1: the reaction coordinate is phi, not the energy, and runs store the joint (S, X) histogram. Above a penalty of 1 the ground state is provably the flat sheet, so the cold phase is a geometry and the question claim 4 asks is the question being measured. The energy quanta here are 16 and 6; where the second does not divide the first the energy spectrum is combed, which is exactly why the coordinate changed. The coupling ladder is unchanged from the pre-amendment run, which mixed well at these sizes (102 to 117 round trips at lambda = 1, N = 36); the comb was never a ladder problem. Everything else matches the lambda = 0 control so the lambdas stay comparable at matched sensitivity.",
+  "name": "t6b_lam15",
+  "sides": [
+    6,
+    8,
+    10
+  ],
+  "couplings": [
+    8.0,
+    6.5,
+    5.5,
+    4.8,
+    4.3,
+    3.9,
+    3.6,
+    3.35,
+    3.15,
+    2.95,
+    2.8,
+    2.65,
+    2.5,
+    2.35,
+    2.2,
+    2.0,
+    1.8,
+    1.5
+  ],
+  "cap": null,
+  "lambda": 1.5,
+  "acceptance": "metropolis",
+  "start": "melt",
+  "n_melt": 1000,
+  "sweeps_per_round": 5,
+  "rounds_equil": 4000,
+  "rounds_meas": 12000,
+  "replicas": 4,
+  "seed": 20260924
+}

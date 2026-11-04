@@ -1,0 +1,24 @@
+{
+  "_purpose": "PREREGISTRATION.md T7 amendment 4 (a), enacted by the author 2026-09-22: replay the decays of t7c_lam125_n144 that reached neither the sheet nor the four-point remnant (replicas 3, 5), from the same seeds and code path with the same 100,000-sweep cap, saving the final adjacency so that each resting state can be read from its wiring. A replay must reproduce its original waiting time and first-window release or it is not the same decay.",
+  "name": "t7d_lam125_n144",
+  "sides": [
+    [
+      36,
+      4
+    ]
+  ],
+  "g": 1.5,
+  "replicas": 30,
+  "replica_ids": [
+    3,
+    5
+  ],
+  "n_sweeps": 30000,
+  "block": 5,
+  "stop_at": 0.98,
+  "settle": 600,
+  "seed": 20261077,
+  "lambda": 1.25,
+  "settle_max": 100000,
+  "save_adjacency": true
+}

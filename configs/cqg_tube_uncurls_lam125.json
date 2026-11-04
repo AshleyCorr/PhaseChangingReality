@@ -1,0 +1,16 @@
+{
+  "_purpose": "EXPLORATORY. Design brief, direction A: the mechanism of VISION claim 4 the right way round, in the published family, with no new knob. Above lambda = 1 the flat sheet is the lowest state; a tube (one side curled to length 4, so one large dimension in place of two) lies 4 (lambda - 1) = 1 per vertex above it (test_sheet_tube_cube_ladder). Start from a perfect tube (a 16 x 4 or 24 x 4 torus) at several couplings and record the energy per vertex: does the tube hold, when does it give way, does it become a flat sheet (phi = 1, no surplus, one piece), and does the energy given off match the exact number? Fixed temperature. Couplings from a one-replica scratch pilot; not pre-registered.",
+  "name": "cqg_tube_uncurls_lam125",
+  "sides": [[16, 4], [24, 4]],
+  "g": [1.0, 1.5, 2.0],
+  "start": "torus",
+  "cap": null,
+  "lambda": 1.25,
+  "acceptance": "metropolis",
+  "seed_scheme": "independent",
+  "n_melt": 0,
+  "n_sweeps": 30000,
+  "record_every": 50,
+  "replicas": 4,
+  "seed": 20260928
+}

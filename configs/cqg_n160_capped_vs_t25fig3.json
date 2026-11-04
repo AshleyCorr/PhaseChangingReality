@@ -1,0 +1,13 @@
+{
+  "name": "cqg_n160_capped_vs_t25fig3",
+  "_purpose": "EXPLORATORY, not a gate. The capped kernel as it stands (global term + cap of 2 squares per edge, which is the model simulated in [KTB19] Sec. 4) at the published size N = 160 and at the 22 couplings of [T25] Fig. 3, cooled from random and heated from a fresh torus. Parameters were fixed before the run from the published figure alone; run once; everything kept. Sweep counts are our guess, the published ones are not stated.",
+  "sides": [[16, 10]],
+  "couplings": [177.8, 100, 79.4, 63.1, 39.8, 31.6, 25.1, 15.85, 10, 7.94, 6.31, 6.03, 5.89, 5.75, 5.62, 5.01, 3.98, 2.0, 0.562, 0.316, 0.178, 0.1],
+  "heat_start": "torus",
+  "seed_scheme": "independent",
+  "n_melt": 1000,
+  "n_equil": 2000,
+  "n_meas": 4000,
+  "replicas": 4,
+  "seed": 20260919
+}

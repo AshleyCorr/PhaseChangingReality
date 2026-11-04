@@ -1,0 +1,11 @@
+{
+  "name": "cqg_first_look",
+  "_purpose": "Step 2 first look: locate the transition of the 2D CQG model and check for hysteresis. Short runs, one replica. NOT publication quality.",
+  "sides": [10, 14, 20, 30],
+  "couplings": [200, 120, 80, 60, 45, 35, 28, 22, 18, 15, 12, 10, 8, 6.5, 5, 4, 3, 2],
+  "n_melt": 1000,
+  "n_equil": 500,
+  "n_meas": 1500,
+  "replicas": 1,
+  "seed": 20260919
+}
