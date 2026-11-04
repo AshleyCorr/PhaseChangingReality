@@ -13,7 +13,7 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
 | **4. Room for the burp** | Measured: too little room leaves flaws, never a melt. | 6 |
 | **5. How the curled directions open** | Measured: with points compacting in layers the slab cycles, one daughter per curling cost, held-out sizes held (T71, T74); the births are the ledger's and **no graph mechanism for the burp has been found** in three directions; the twin pair has not opened cleanly. The mechanism as moves on twist and curl is hers to propose. | 4, 5, 15 |
 | **6. The burp's three shares** | Her best guess: twin daughters, matter and antimatter one to one by rule, the billionth from the stores, the diagonal ratios perhaps part of the energy split; her dark energy waits on soft space. Needs a physicist. | 7 |
-| **7. The scrap** | Measured: three kinds of knot of fixed energy, their number set at the opening; the loop rules fixed and the four test particles pass; a one-sided dark loop exact at half the neutrino's cost; curl and anti-curl built as a state on the squares; the knots' share of the release is λ-free; the Klein relative is a knot of fixed energy behind a wall of 21 (T102). | 2, 3, 7, 18, 19 |
+| **7. The scrap** | Measured: three kinds of knot of fixed energy, their number set at the opening; the loop rules fixed and the four test particles pass; a one-sided dark loop exact at half the neutrino's cost; curl and anti-curl built as a state on the squares; the knots' share of the release is λ-free; the Klein relative is a knot of fixed energy behind a wall of 21 (T102); her two kinds built as moves (4 Nov): on a flat torus the ledger is spent on pairs before any store can be paid, so no store forms, while the same-sign curls left with no room rise with λ (T103); the same with the price from gravity (T104); the cause is the sweep's order, ours, and with room judged all at once stores form and rise with λ (sandbox look, 4 Nov). | 2, 3, 7, 18, 19 |
 | **8. Curve-first gravity** | Carrier decided 4 Nov: the edge lengths. Exact: the curvature's stiffness in the lengths is gapless; measured: two knots' joint energy falls as they approach and light's path lengthens (T84); α drifts between knots (T100); the move count as a clock runs faster near knots (T101). The time half is open. | 9, 10, 11 |
 | **9. Quantum** | Counting alone cannot beat Bell; the published amplitude rule is adopted and checked in an exact toy; "the options" are copies; Carroll's reader reads geometry only, and a window with her matter reads differently (T94, T98). | 13, 19 |
 | **10. Time and the speed limit** | The toy has no time; its move count ticks only near knots and stands still in open space (T101); soft space's waves have one speed. T101 Amendment 1 (λ = 1, planted knot) ran overnight and is **unread**. | 14 |
@@ -34,9 +34,11 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
 
 ## Owed by the owner, in the order they unblock work
 
-1. **The dynamics of the two kinds as moves**: where a pair is created (across a shared link), when it cancels
-   (two photons, when there is room), and the Klein store where there is no room. Needs a **twist state on the
-   squares in halves**; its form is hers under S1. Nothing runs before she fixes it.
+1. **The clock of the two kinds, after T103 and T104** (4 Nov): her moves are built (`graphity.curl_pair_moves`) and
+   run twice. With the store's price from the ledger (T103) or from gravity, her rule (T104), no store forms, and the
+   cause is ours: the sweep cancels link after link before it joins, and the chain of cancellations leaves no square
+   without room. A sandbox look with room judged once on the made state, all pairs at the same instant, makes stores
+   that rise with λ. Hers to say: is that her clock (then T105 registers it with her prediction), or another form.
 2. **Option B for the clock, or none**: a point's move rate tied to its link lengths would put the time half in
    by hand. If B, its form.
 3. **T102's verdict is KNOT**: is the Klein store something other than the toy's Klein relative, and what?
@@ -57,8 +59,8 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
 ## Next, each pre-registered before it runs
 
 1. Read T101 Amendment 1 (above).
-2. If she fixes the dynamics: build it as moves on `graphity.curl_pairs` with rule-6 tests, register with her
-   prediction, run on a sealed tube.
+2. T105: the moves under her clock (owed 1), T104's design, her prediction in her words; then the same on the opened
+   tube six around.
 3. The design brief for a twist-curl state as the computation Carroll's reader would read (paper 19), then the
    reader on it.
 4. Gravity: the γ reader's time half (option B or none); then her particles, once built, as the sources whose

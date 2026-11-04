@@ -1,0 +1,47 @@
+{
+  "config": {
+    "name": "t104_curl_pair_moves_gravity",
+    "_purpose": "T104 (PREREGISTRATION.md): T103's design with the store's price in her form of 4 November 2026 (gravity: a join costs the ledger nothing; a one-way counter grows). Registered; her prediction in her words. B is scanned and enters only the counter.",
+    "price_from": "gravity",
+    "sides": [
+      8,
+      12,
+      16,
+      24
+    ],
+    "held_out_side": 24,
+    "lambdas": [
+      1.05,
+      1.1,
+      1.25,
+      1.5,
+      2.0
+    ],
+    "barriers": [
+      0,
+      4,
+      12,
+      21
+    ],
+    "replicas": 3,
+    "max_sweeps": 10000,
+    "seed": 20261105
+  },
+  "config_path": "configs/t104_curl_pair_moves_gravity.json",
+  "graphity_version": "0.1.0",
+  "numpy": "2.0.0",
+  "python": "3.12.10",
+  "git_commit": "d78cf2605de59ec71c68bd4db1d56c2f5a533ecc",
+  "git_dirty": true,
+  "git_untracked_count": 8,
+  "git_untracked": [
+    "configs/t103_curl_pair_moves.json",
+    "configs/t104_curl_pair_moves_gravity.json",
+    "docs/design/curl_pair_moves_2026-11-04.md",
+    "results/t103_curl_pair_moves.csv",
+    "results/t103_curl_pair_moves.meta.json",
+    "scripts/run_curl_pair_moves.py",
+    "src/graphity/curl_pair_moves.py",
+    "tests/test_curl_pair_moves.py"
+  ]
+}

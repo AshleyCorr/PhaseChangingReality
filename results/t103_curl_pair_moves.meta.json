@@ -1,0 +1,43 @@
+{
+  "config": {
+    "name": "t103_curl_pair_moves",
+    "_purpose": "T103 (PREREGISTRATION.md): the two kinds as moves under her rules of 3 and 4 November 2026 on a flat torus; does the number of Klein stores rise with lambda? Registered; her prediction in her words. The barrier B has no value from her and is scanned; nothing is claimed from B.",
+    "sides": [
+      8,
+      12,
+      16,
+      24
+    ],
+    "held_out_side": 24,
+    "lambdas": [
+      1.05,
+      1.1,
+      1.25,
+      1.5,
+      2.0
+    ],
+    "barriers": [
+      0,
+      4,
+      12,
+      21
+    ],
+    "replicas": 3,
+    "max_sweeps": 10000,
+    "seed": 20261104
+  },
+  "config_path": "configs/t103_curl_pair_moves.json",
+  "graphity_version": "0.1.0",
+  "numpy": "2.0.0",
+  "python": "3.12.10",
+  "git_commit": "d78cf2605de59ec71c68bd4db1d56c2f5a533ecc",
+  "git_dirty": true,
+  "git_untracked_count": 5,
+  "git_untracked": [
+    "configs/t103_curl_pair_moves.json",
+    "docs/design/curl_pair_moves_2026-11-04.md",
+    "scripts/run_curl_pair_moves.py",
+    "src/graphity/curl_pair_moves.py",
+    "tests/test_curl_pair_moves.py"
+  ]
+}

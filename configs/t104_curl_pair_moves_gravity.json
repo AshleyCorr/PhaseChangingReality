@@ -1,0 +1,12 @@
+{
+  "name": "t104_curl_pair_moves_gravity",
+  "_purpose": "T104 (PREREGISTRATION.md): T103's design with the store's price in her form of 4 November 2026 (gravity: a join costs the ledger nothing; a one-way counter grows). Registered; her prediction in her words. B is scanned and enters only the counter.",
+  "price_from": "gravity",
+  "sides": [8, 12, 16, 24],
+  "held_out_side": 24,
+  "lambdas": [1.05, 1.1, 1.25, 1.5, 2.0],
+  "barriers": [0, 4, 12, 21],
+  "replicas": 3,
+  "max_sweeps": 10000,
+  "seed": 20261105
+}
