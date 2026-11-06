@@ -36,13 +36,13 @@ doughnut of squares; the collar is its inner rim of stores; the rod is the hole'
 is the loose remnant of the last burp; the seed straddles its edge; one daughter is one foot; the kind rule; her
 surplus formula, about one in a billion. The collar's stores are heavier than their parts, paid by gravity, the
 bond of 't Hooft's form. Gravity acts in two and three dimensions, light only in three. T107 registered, run and
-read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her current best guess, hers to confirm.
+read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her current best guess and confirmed by her.
 
 ## Owed by the owner, in the order they unblock work
 
-1. **Confirm the rewording** of steps 1, 2, 3 and 8 (6 Nov), sentence by sentence; and the two points left open
-   inside it: the two slabs of opposite hand against one doughnut (the two halves of the doughnut is our
-   reading), and the taper of 5 November.
+1. **The two points left open inside steps 1, 2, 3 and 8** (the rewording itself she confirmed on 6 Nov, night):
+   the two slabs of opposite hand against one doughnut (the two halves of the doughnut is our reading), and the
+   taper of 5 November.
 2. **Her words for T108** (her size ratio against length; the toy reads 0.021 to 0.009 at 32 to 128) and **T109**
    (the outside foot's growth against the inside's, replacing T107's criterion that scaled with the band).
 3. **The twist energies' seven answers** (`docs/design/twist_energies_2026-11-04.md`), a form for the bond's

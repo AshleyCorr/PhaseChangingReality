@@ -19,8 +19,8 @@ them.
 twist discrete, the heaviest particle, the inner shell as a computer; Update 155) are hers in substance and the
 wording is not yet confirmed. **Steps 1, 2, 3 and 8 were reworded on 6 November 2026 at her instruction** ("reword
 steps 1, 2, 3 and 8, proceed so these represent our / my current best guess") to carry her decisions of 4, 5 and
-6 November, which are listed after the steps with their dates; that wording is ours and is hers to confirm sentence
-by sentence. Two points stay open inside the wording and are marked: the two slabs of opposite hand against one
+6 November, which are listed after the steps with their dates; that wording was confirmed by her on 6 November, night ("current wording of
+these steps is good"). Two points stay open inside the wording and are marked: the two slabs of opposite hand against one
 doughnut, and the taper.*
 
 ### 1. X is stable for now.

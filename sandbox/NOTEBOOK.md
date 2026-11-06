@@ -1575,3 +1575,8 @@ open space never moved at all; in the three where it did not heal the moves foll
 open space at λ = 1 is still, which is her "open space at λ ≤ 1" said in moves. The time half of gravity still has
 no carrier in the toy; option B is hers. Recorded in the archive (PREREGISTRATION T101 Amendment 1, O186; the
 result files committed there) and here (RESULTS, STATE piece 10, the status page).
+
+## 6 November 2026, night: "current wording of these steps is good" (hers, verbatim, chat)
+
+Ours, the same night. Steps 1, 2, 3 and 8 as reworded tonight are confirmed by her; HYPOTHESIS's header and STATE
+say so. The two points left open inside the wording stay owed: the two slabs against one doughnut, and the taper.
