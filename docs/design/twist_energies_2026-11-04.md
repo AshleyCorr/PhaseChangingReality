@@ -104,6 +104,64 @@ anything about the sky: a number reached by choosing κ and β is not a result (
   stores (or halves) toward the center under gravity, which conflicts with "a store cannot move" and is hers to resolve.
 - Choices 3, 5, 6: open.
 
+
+## Her answers of 6 November 2026, night (verbatim in `sandbox/NOTEBOOK.md` the same night), as read
+
+- **Choice 3, decided: two diagonals.** "the 2 1/2 twist dark matter loops become 1 2-diagonal 1 twist loop. length
+  is 2root2 of a link." A store is one loop over two √2 diagonals: n = 2, τ = 1, L = 2√2. *Exact, nothing fitted:*
+  under the rod stand-in the store's twist part is then κ/(2√2), exactly twice the dark particle's κ/(4√2), and its
+  count part is two, so the store is exactly two dark particles with no extra at all; everything that makes a store
+  heavier than its parts (her collar, 6 November) must come from the bond β, now of 't Hooft's form. The build's
+  stand-in "the emptied partner's diagonal is gone" is replaced: a store keeps both diagonals, so in the moves the
+  store holds both curls (held rises by two units per join, not one); to change in `graphity.curl_pair_moves` with
+  its tests before any run that reads the store's energy (T105's census is unchanged in its counts; only `held` and
+  the gravity counter's meaning move).
+- **Choice 5, answered in two parts.** "I do not think light gets an MeV - does it in accepted physics? the ledgers
+  units should map to MeV, but it is important to know that the calculation is not simply additive and the energy
+  changing from 3d to 2d maybe has an additional term at play we may not have discussed." *Published physics
+  (general knowledge, to verify):* light has no mass but it has energy, E = hf, and that energy is measured in eV
+  and MeV (a gamma ray is an MeV photon; the two photons of an electron-positron annihilation carry 0.511 MeV each).
+  So light gets an MeV as energy, never as mass; the ledger's "light" is energy that left as photons and maps to MeV
+  as energy. Her caution is right in the toy's own terms (*exact*): the two phases have different flat baselines,
+  two squares per link on the sheet and four in the cube, so one unit of the ledger is not the same energy in the
+  two phases, and a map to MeV needs either one conversion per phase or a term for the crossing from three
+  dimensions to two. That term is not in any build; it is owed to the brief as a choice.
+- **Choice 6 and sigma's source: the options, listed at her request** (below). Decision owed.
+
+### The targets, and what each is good for (choice 6)
+
+| Target | Status | What it can test | What it cannot |
+|---|---|---|---|
+| (a) Her billion, the surplus about one in a billion of the daughter's squares | her claim | the trend of her ratio with length (T108); a count of stores against pairs | the energy reader alone; "other factors at play" by her own words |
+| (b) The dark particle the heaviest per length | hers, qualitative | met by the rod form with nothing fitted | nothing further |
+| (c) Dark to ordinary matter 5.36 by mass (Planck) | measured, to verify | populations × masses, once a daughter's populations exist (T106 and after) | the sheet alone (one store per five pairs) |
+| (d) The electron, 0.511 MeV | put in, the unit | nothing: it is the calibration | — |
+| (e) The dark particle's mass itself | no single published target: bounds run from 10⁻²² eV to many solar masses; **measurement, to verify:** a thermal relic lighter than about 10 MeV is excluded by the light-element yields and the CMB, so a 0.17 MeV dark particle is allowed only if it was never in thermal balance with light | which birth her picture needs (not thermal, which fits "light cannot get through the slab") | — |
+
+### Sigma's source: the options and the reasoning
+
+Sigma is the one constant of the bond, the energy per link of separation between a store's two halves. Each option
+uses something up and leaves something as a prediction (rule 13: a number reached by choosing the constant to hit a
+target is not a result).
+
+1. **Calibrated to a second measured mass, the proton** (5,508 diagonals under the count rule): the electron sets the
+   count unit, the proton sets sigma; then the dark particle and the store are predictions with nothing free. Uses up
+   the proton; leaves (c) and (e) as tests. *Our default.*
+2. **Calibrated to Planck's 5.36** (target c): sigma chosen so that the store-to-dark mass ratio, times the populations
+   of T106, gives 5.36. Uses up (c), which then tests nothing; leaves the proton as the test. Only possible once T106
+   has run.
+3. **Calibrated to the toy's own wall, 21** (T102): sigma in toy units from the energy that holds the Klein relative
+   shut. Ties the bond to the toy's energy scale with no MeV; she said on 4 November the wall is not a target for her
+   store, so this is a stand-in at most.
+4. **Taken from the published string tension of the strong force** (about 0.9 GeV per fermi; general knowledge, to
+   verify): the actual number behind 't Hooft's form. Assumes the dark bond is the quark bond, which nothing in her
+   picture says; usable only as a scale to compare against, never as her constant.
+5. **Left free**, reported as a function: every result a curve in sigma until a second relation fixes it (the drift
+   build may give one, since the bond's pull sets how far a half can be from its partner). Predicts nothing now;
+   costs nothing.
+
+The decision is hers; the reasoning favours 1 for a number now and 5 until the drift gives a second relation.
+
 ## Amendment of 5 November 2026: the factors, from the reading she asked for
 
 Her instruction (5 November, verbatim in the notebook): "Don't worry about the billion at this point, we are just

@@ -73,10 +73,17 @@ billion would need about 170 TeV per store; on a sheet stores are one in five of
 billion. Your answer of 5 November: the billionth lives in the inner shell as the boundary row of a tessellated
 shell of stores (1/R), not on a sheet.
 
-**The open choices** (`docs/design/twist_energies_2026-11-04.md`, section 4): (3) the store's length and count,
-one diagonal or two; (5) whether light gets an MeV and whether the ledger's units map to MeV; (6) which targets
-are targets and which are "other factors at play"; plus sigma's source (calibrated to what?), and whether the
-counter becomes an energy now or after the drift is built.
+**Decided 6 November, night:** choice 3, a store is one loop over two diagonals (n = 2, τ = 1, L = 2√2); exact,
+under the rod form the store is then exactly two dark particles and all of its extra mass is the bond. Choice 5:
+light maps to MeV as energy (it has energy, not mass, in accepted physics); the ledger maps to MeV; and her
+caution stands, the crossing from three dimensions to two needs its own term, since the sheet and the cube have
+different flat baselines (two squares per link against four).
+
+**Still open** (`docs/design/twist_energies_2026-11-04.md`, "Her answers of 6 November"): sigma's source, five
+options listed there with what each uses up (the proton, our default; Planck's 5.36, only after T106; the toy's
+wall of 21, a stand-in; the strong force's string tension, a scale to compare, never her constant; free until the
+drift gives a second relation); the form of the crossing term; whether the gravity counter becomes the store's
+mass now or after the drift.
 
 **Unblocks.** T106's registration; the store's mass in MeV; the drift build's energy bookkeeping.
 

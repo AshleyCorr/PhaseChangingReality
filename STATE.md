@@ -45,9 +45,12 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
    taper of 5 November.
 2. **Her words for T108** (her size ratio against length; the toy reads 0.021 to 0.009 at 32 to 128) and **T109**
    (the outside foot's growth against the inside's, replacing T107's criterion that scaled with the band).
-3. **The twist energies' seven answers** (`docs/design/twist_energies_2026-11-04.md`), a form for the bond's
-   constant sigma, and whether the gravity counter becomes the store's mass; then her T106 prediction (stores per
-   pair on the opened tube six around).
+3. **The twist energies: the last choices.** Choice 3 decided 6 Nov (a store is one loop over two diagonals, n = 2,
+   L = 2√2; exact: under the rod form the store is exactly two dark particles and all its extra is the bond).
+   Owed: which of the five sources for sigma (the brief lists them; our default the proton, or free until the drift
+   gives a second relation); the term for the crossing from three dimensions to two (her caution of 6 Nov); whether
+   the gravity counter becomes the store's mass now; then her T106 prediction. Build owed on our side: the store
+   keeps both diagonals in the moves (held rises by two per join).
 4. **Option B for the clock, or none**: a point's tick tied to its link lengths would put the time half in by hand.
 5. **The "face gluon"**: is +½ and −½ on one face diagonal a particle in her rules?
 6. **Which carries the dark matter at birth**, the seam's rings or the later knots.

@@ -1580,3 +1580,29 @@ result files committed there) and here (RESULTS, STATE piece 10, the status page
 
 Ours, the same night. Steps 1, 2, 3 and 8 as reworded tonight are confirmed by her; HYPOTHESIS's header and STATE
 say so. The two points left open inside the wording stay owed: the two slabs against one doughnut, and the taper.
+
+## 6 November 2026, night: her answers to the twist energies' open choices (hers, verbatim, chat)
+
+"(3) the store's length and count, one diagonal or two -> 2, the 2 1/2 twist dark matter loops become 1 2-diagonal
+1 twist loop. length is 2root2 of a link.
+
+(5) whether light gets an MeV and whether the ledger's units map to MeV; I do not think light gets an MeV - does it
+in accepted physics? the ledgers units should map to MeV, but it is important to know that the calculation is not
+simply additive and the energy changing from 3d to 2d maybe has an additional term at play we may not have
+discussed.
+
+(6) which targets are targets and which are "other factors at play"; plus sigma's source (calibrated to what?) -
+list out the options and reasoning here"
+
+Ours, the same night (rule 21). Read against the brief and recorded there (`docs/design/twist_energies_2026-11-04.md`,
+"Her answers of 6 November"). Choice 3 decided: a store is one loop over two diagonals, n = 2, τ = 1, L = 2√2;
+exact consequence under the rod stand-in, the store is exactly two dark particles and all of its extra mass is the
+bond; the moves' stand-in that empties the partner's diagonal is to be replaced (held rises by two per join).
+Choice 5: light has energy in MeV in accepted physics (E = hf; a gamma ray is an MeV photon) but no mass, so the
+ledger's light maps to MeV as energy; her caution about the crossing from three dimensions to two is right in the
+toy's own terms (two squares per link on the sheet, four in the cube), and the crossing term is now a choice owed
+to the brief. Choice 6 and sigma: the targets listed with what each can test, and five options for sigma with what
+each uses up; our default is the proton for a number now, or free until the drift gives a second relation. One
+measurement added to the targets: a thermal dark particle lighter than about 10 MeV is excluded by the light-element
+yields and the CMB (general knowledge, to verify), so her 0.17 MeV dark particle must never have been in thermal
+balance with light, which her slab (light cannot get through it) says anyway.
