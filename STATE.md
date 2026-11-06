@@ -70,7 +70,9 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
    centre of the sphere of squares (her correction; step 1 of the claim is hers to reword; drawn,
    `sandbox/drawings/2026-11-06_rod_arrangements.html`); the tip confirmed as the drift's stopping rule; her surplus
    formula (red - blue)/(red + blue + stored), about one in a billion; the five options for the boundary prediction
-   are in the notebook, T107 waiting on her words.
+   are in the notebook; late on 6 Nov she confirmed all five and the surplus formula, so T107 can be registered
+   (options 1, 2 and 4 scored, 3 read, 5 its own test) once she confirms the shapes: exact, a four-linked closed
+   surface of squares is a torus, so the slab is a doughnut, which we read as her collar (panel 4 of the drawing).
    Morning of 6 Nov, three decisions of hers: one daughter is one foot; the kind rule (the first pair across the
    boundary sets the outside foot's kind, all after follow it); the collar's stores are heavier than their parts,
    paid by gravity (the gravity counter becomes an energy; not built); her pushback the same morning withdrew our

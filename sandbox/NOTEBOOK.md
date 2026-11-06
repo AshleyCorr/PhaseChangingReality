@@ -1311,3 +1311,41 @@ is our candidate). The test that fits that picture is one registration, T107, ca
 scored predictions on the loose-band tube at lengths 32, 48 and 64 with 128 held out; option 3 as a reading, not
 scored; option 5 as its own later test once the size's mechanism has had a look. Her wording for the three, or
 her choice among the five, is what is owed; until she gives it, T107 stays unregistered.
+
+## 6 November 2026, late night: collar against rod; sphere or torus; the formula confirmed; the five predictions accepted (hers, verbatim, chat)
+
+"explain collar vs rod in most likely arrangement https://claude.ai/artifact/6LXCedLpT1xtUuaX32PhtN
+
+The curled slab is a sphere of squares OR a Torus of squares?
+ (red - blue) / (red + blue + all stored energy) correct.
+
+[the five options of the night before, pasted back]
+
+this all seems right just need to get the torus vs collar vs sphere shpes"
+
+Ours, the same night (rule 21). **Confirmed by her:** the surplus formula (red - blue)/(red + blue + all stored
+energy), with red and blue the two kinds; and the five predictions for the boundary test, in the wording of the
+night before, now hers by adoption (verbatim in that entry). T107 can be registered on her word once the shapes are
+settled; options 1, 2 and 4 scored, 3 read, 5 its own test.
+
+**Collar against rod, in the drawing.** The rod is the line of Klein stores through the centre: zero-dimensional
+stores stacked into a line, where the inward spirals stopped. The collar is the ring of stores round the rod, her
+words of 6 November ("the torus that collars the rod ... a ring of same handed Klein bottles"), drawn in section as
+two small rings either side of the rod. Both are stores; they differ only in shape: the rod is the line, the
+collar the ring round it.
+
+**Sphere or torus: exact.** A closed surface made only of squares with four links at every point has as many
+faces as points and twice as many links, so its Euler number is zero: it is a torus (or, one-sided, a Klein
+bottle), never a sphere. A sphere of squares needs eight corner points with three squares each, as a cube does.
+So if every point of the curled slab keeps four links, the slab is a doughnut of squares, and "sphere" was a
+drawing convenience (hers of 5 November, "from all sides of a sphere", already answered then by the same fact,
+which she accepted: "every face a square is a torus love it"). **The reduction (ours, inferred, hers to
+confirm):** her doughnut "placed between the center rod and the outer whirlpools" (5 November, night) and her
+torus "that collars the rod" (6 November) are then the same doughnut, and the slab is it. Three shapes become two:
+the rod (a line of stores through the doughnut's hole) and the doughnut of squares round it, with the whirlpools
+outside in three dimensions. The loose remnant of the last burp is the doughnut's inner rim, nearest the rod; the
+seed sits on that rim, the inside foot stopping on it and the outside foot growing outward through the doughnut.
+The toy's loose-band tube is this doughnut unrolled, 4 around and L along, the loose band a ring of its columns,
+which is why the look already has the right topology. Panel 4 of the drawing (republished tonight at the same
+link) shows it. If she wants a sphere with eight corners instead, that is a different wiring, buildable, and the
+corners would be the places where the local reading changes; say so.
