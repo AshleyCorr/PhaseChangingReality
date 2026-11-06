@@ -1606,3 +1606,34 @@ each uses up; our default is the proton for a number now, or free until the drif
 measurement added to the targets: a thermal dark particle lighter than about 10 MeV is excluded by the light-element
 yields and the CMB (general knowledge, to verify), so her 0.17 MeV dark particle must never have been in thermal
 balance with light, which her slab (light cannot get through it) says anyway.
+
+## 6 November 2026, night: sigma's source, her reasoning (hers, verbatim, chat)
+
+"Maybe something like a proton, although its in 2d. to hold together 1/3 of opposite twist and 2 2/3 quarksit takes
+all those thousands of gluons and the spin/ electron(s) keeping it together. so that gives us an idea of what it
+takes to keep togather.
+
+or an electron may be more akin, as it keeps a full twist in as little as 3 root 6 body diagonals. an electron doesnt
+have gluons does it? what keeps its 3/3 together?
+
+The toy's wall of 21: this is exact, this is what is released when the bond breaks.  although we don't know how to
+convert wall to MeV.
+
+The strong force's string tension, the real number behind 't Hooft's form: a scale to compare against, never your
+constant, since nothing says the dark bond is the quark bond. this is helpful, what does that scale teach us?"
+
+Ours, the same night (rule 21; all published facts general knowledge, to verify). The proton: the best source for
+sigma, since in accepted physics its 938 MeV is about 99 % bond (the quarks' own masses about 9 MeV), the one
+measured object that is nearly all bond, which is her store's shape after the two-diagonal decision. Corrections,
+measurements: electrons are not in a proton (they orbit outside, in atoms); her electron's thirds ride the box
+diagonals (1 x 1 x 2, length root 6), not the body diagonals (root 3), which are light's. The electron: no bond at
+all in accepted physics (elementary, no parts) and none in her rules either, where a closed loop is kept closed by
+being a loop (stability by shape, the published shape of a knot or a vortex), so it calibrates the count unit and
+says nothing about sigma. The wall of 21: exact, but the cost to break the toy's Klein relative, not its release
+(32(lambda - 1), 8 at 1.25; it gives back less than the push, T102's KNOT); a wiring object in the wiring's ledger,
+not her store in the state's; her store cannot cancel by rule, so its wall is infinite. The string tension (about
+0.9 GeV per fermi): bond is mass at the proton's scale; at the toy's link (3 x 10^-19 m from the proton ring, so the
+target is in the input, rule 13) about 0.27 MeV per link, the order of her 0.17 MeV count unit; at that strength a
+store's bond over 2 root 2 links is about 0.8 MeV and a store weighs about three times its two dark particles, not a
+billion: the bond sets how heavy a store is, the count sets how many. Recommendation, ours: sigma from the proton,
+the string tension as the scale to check against. Decision hers.
