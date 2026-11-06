@@ -17,22 +17,30 @@ them.
 *Ten steps, each a decision of hers. The wording is ours and was confirmed by her on 1 November 2026 (Update
 149); the sentences added on 3 November (the projection, the three layers of a black hole, curl continuous and
 twist discrete, the heaviest particle, the inner shell as a computer; Update 155) are hers in substance and the
-wording is not yet confirmed. Her refinements of 4 November are listed after the steps and are not yet folded
-into the wording.*
+wording is not yet confirmed. **Steps 1, 2, 3 and 8 were reworded on 6 November 2026 at her instruction** ("reword
+steps 1, 2, 3 and 8, proceed so these represent our / my current best guess") to carry her decisions of 4, 5 and
+6 November, which are listed after the steps with their dates; that wording is ours and is hers to confirm sentence
+by sentence. Two points stay open inside the wording and are marked: the two slabs of opposite hand against one
+doughnut, and the taper.*
 
 ### 1. X is stable for now.
 
 Our spacetime is one settled arrangement of something deeper, X: a specific, relatively stable arrangement with
 its own dimensions, curled where ours are open.
 
-X was stable for now, not for ever. Most likely it was a rod between two curled slabs, one curled right-handed
-and one left-handed. A curled slab is made of tightly lined-up dark matter: many one-sided loops of the same
-handedness stacked together. In it there is only twist and curl and no space, because nothing can move; matter
-cannot get through it.
+X was stable for now, not for ever. It is a curled slab of tightly lined-up dark matter: many one-sided loops of
+the same handedness, wound into a closed two-dimensional sheet of squares. A closed sheet of squares with four
+links at every point is a torus, never a sphere (exact), so the slab is a doughnut. Through the doughnut's hole
+runs the rod, three-dimensional, where dark matter still moves, spiralling in from all sides as one continuous
+line, the two hands turning opposite ways. In the doughnut twist and curl are set and only dark matter and
+gravity move; matter and photons cannot get through it. *Open, hers:* whether the two slabs of opposite hand of
+the earlier wording are the two halves of this one doughnut; and whether the taper seen in her drawing of
+5 November stands.
 
-At the center of the slab is the rod: the empty sides of the dark loops orient together into a shell around a
-zero-dimensional space. The shell's outside is spacetime, with matter still moving but very slowly, until at a
-point it stops.
+The rod is not a thing at the centre of the slab; it is the hole's axis. The centre of the black hole is the set
+of Klein stores sitting together on the doughnut's inner rim, where the spiralling dark matter can no longer move,
+the tip of the curled slab: curl and twist set, zero degrees of freedom, much bond energy. Outside the doughnut
+is three-dimensional spacetime, matter still moving but ever more slowly, until at the rim it stops.
 
 The two curls are always made together, and curling two directions costs the same as curling one.
 
@@ -50,32 +58,42 @@ stores energy stably.
 ### 2. Energy arrives, and the curl gives way: the burp.
 
 Energy arriving in X, as a black hole's infall arrives, raises its excitation. Photons cannot get through the
-curled slab, but they apply their curl energy to it, and when enough has built up the big bang happens at one
-pole of the rod.
+curled slab: in the whirlpools outside it every kind of energy becomes dark matter and gravity, and gravity carries
+the dark matter in along the square edges to the rim, where two like-handed pieces bind into one Klein store
+heavier than its parts, the extra mass paid by gravity, which is one-directional and keeps adding. The bond has
+the form of 't Hooft's two-dimensional model: its energy grows in a straight line with the separation of the two
+halves, so they never come free.
 
-When the stores exceed the barrier, the first curl snaps: the burp, a fixed release of energy. The hold-back
-drops at once and the second curl follows, a cascade.
+When the stores exceed the barrier, the first curl snaps: the burp, a fixed release of energy. It happens in the
+rod, at the rim between the rod and the doughnut, not at a pole: at a reflection seam, a Klein bottle holding two
+dark-matter rings whose binding energy is released. The hold-back drops at once and the second curl follows, a
+cascade.
 
 The opening front is held back by a neutral layer at its edge, like a membrane, curl facing in and uncurl
-facing out; its tension is why the curl needs a surplus to open.
+facing out; its tension is why the curl needs a surplus to open. The burp's cycle leaves a loose remnant at the
+rim, lower in density than the layers round it, and the next burp starts there, because loose is easiest to open.
 
 ### 3. The burp becomes the Big Bang's hot lump.
 
 The release is the hot lump: light, with matter and antimatter in almost equal amounts. As it cooled, nearly
 every pair of matter and antimatter cancelled into more light, so light carried almost all of the energy.
 
-The pole releases that energy together with surplus matter from the pole effect; the matter handedness
-breaches first, and a new three-dimensional spacetime is born in the zero-dimensional space. Then another opens
-with the surplus antimatter: twins. Then a gap, then another set of twins when enough curl has built up again;
-they keep opening as each new two-dimensional space encloses a zero-dimensional singularity to open a new
+The burp's seed straddles the edge of the loose remnant with a foot on each side. The inside foot stops at the
+remnant; the outside foot grows outward through the doughnut and becomes the daughter: one daughter is one foot,
+a new three-dimensional spacetime born in the space the stores enclose. The first pair made across the boundary
+sets the outside foot's kind, and every pair after follows it; the inside foot carries the opposite kind, the one
+the previous burp's outside foot carried, so successive burps alternate. Then a gap, then another burp when enough
+curl has built up again; they keep opening as each new two-dimensional space encloses a new centre to open a
 spacetime into.
 
-Each burp makes twin daughters, one from each curled direction, alike except that one has a small surplus of
-matter and the other the matching surplus of antimatter; each gets half the curl energy, and the black hole
-stays neutral. The release is fast, a far bigger explosion than any bomb.
+Each burp makes twin daughters, one from each hand, alike except that one has a small surplus of matter and the
+other the matching surplus of antimatter; each gets half the curl energy, and the black hole stays neutral. The
+release is fast, a far bigger explosion than any bomb.
 
-The matter we are made of is that small excess, about one part in a billion. The black hole's spin sorts which
-way each twin's poles point, so each twin is neutral overall. Every daughter calls her own surplus matter.
+The matter we are made of is that small excess: (red − blue) / (red + blue + all stored energy), about one part
+in a billion of the squares in the daughter, the stores' barrier energy counted in. Matter to antimatter is one
+to one by rule; the surplus is the stores' inside layer turned to curl, a count of stores against pairs, and
+there are other factors at play. Every daughter calls her own surplus matter.
 
 While the light has nowhere to go it is pressed back into matter, and matter is curved space: tiny loops that
 are only a relationship, no points, metastable, which build quarks and then protons; once there is room, the
@@ -130,17 +148,22 @@ The rules of the two phases are their constants and do not change from one gener
 
 ### 8. Black holes curl space back, and each one births many daughters.
 
-Gravity is carried on the cube edges of open space, three-dimensional only, arriving with moving matter: a
-link's length is set by its own curl, the lengths relax at no cost while twist and charge stay fixed, the total
-length is fixed near matter, and light, which travels on the body diagonals, is delayed passing matter.
+Gravity is carried on the edges, which are square edges in the slab and cube edges in open space, so it acts in
+two and three dimensions; light travels the body diagonals, which need a cube, so it exists only in three. Gravity
+arrives with moving matter: a link's length is set by its own curl, the lengths relax at no cost while twist and
+charge stay fixed, the total length is fixed near matter, and light is delayed passing matter. Space has its own
+drive to curve; matter supplies the energy that starts it. Inside the horizon gravity pays a Klein store's extra
+mass, and no outside cap on that energy applies there.
 
 Inside the space that forms, black holes are where surplus dark matter is crushed by gravity: the one-sided
-loops line up with one handedness into a curled slab, two directions still open and one curled tight, with
-the rod and its zero-dimensional space at the center. That slab is the next X.
+loops line up with one handedness into the curled slab, a doughnut of squares with the rod through its hole and
+the collar of Klein stores on its inner rim. That doughnut is the next X.
 
-Inside the horizon the outer shell is still three-dimensional, light moving but not leaving; the inner shell is
-two-dimensional, where movement stops and one-sided dark matter remains, oriented around the zero-dimensional
-knot. There the projection ends and the fundamental arrangement projects again: the strange loop.
+Three regions, defined by movement. Outside the doughnut, inside the horizon, the whirlpools: three-dimensional,
+cubes, light moving but not leaving, matter and photons moving, every kind of energy turning to dark matter and
+gravity. The doughnut: two-dimensional, squares only, where only dark matter and gravity move and twist and curl
+are fixed. The stores on the rim: zero-dimensional, where nothing moves, each intact or not, ones and zeros.
+There the projection ends and the fundamental arrangement projects again: the strange loop.
 
 Daughter spaces open while the black hole remains in the parent, and every black hole births many new ones, so
 the tree of universes multiplies each generation. A black hole is bigger inside than it looks: each daughter is
@@ -167,7 +190,7 @@ the published one: versions carry amplitudes, and a record in the surroundings k
 The inner shell of a black hole is a computer: in place of 0 and 1 its symbols are the allowed sets of curl,
 twist and spin under the rules, and the simulation plays out all the options in probabilities.
 
-### Her refinements of 4 November 2026 (hers; Update 157 and its addendum; not yet in the wording above)
+### Her refinements of 4 November 2026 (hers; Update 157 and its addendum; folded into steps 1, 2, 3 and 8 on 6 November; kept here with their dates)
 
 - The burp happens at a reflection seam: a Klein bottle holding two dark-matter rings whose binding energy is
   released; the inside ring moves and releases all the energy holding the two together, which looks like a big
@@ -191,7 +214,7 @@ twist and spin under the rules, and the simulation plays out all the options in 
   more energy per loop (her ruler intuition; *ours, textbook, to verify:* elastic-rod energies go as 1 over the
   loop's length, so the direction is right; the rod rule is a stand-in, not her rule).
 
-### Her refinements of 5 November 2026 (hers; verbatim in the notebook; not yet in the wording above)
+### Her refinements of 5 November 2026 (hers; verbatim in the notebook; folded into steps 1, 2, 3 and 8 on 6 November except the taper, which stays open; kept here with their dates)
 
 - **The billionth lives in the inner shell, not on a sheet.** The stores move to the center and form a non-moving
   shell held together by gravity, right-handed stores concentrated at one pole of the rod and left-handed at the
@@ -233,7 +256,7 @@ twist and spin under the rules, and the simulation plays out all the options in 
   of freedom, as a point moving across a plane represents them; a representation, not the thing (the withdrawn
   reading of the 2D phase as a flat sheet stays withdrawn). A statement of the claim's status, not a definition.
 
-### Her decisions of 6 November 2026 (hers; verbatim in the notebook; not yet in the wording above)
+### Her decisions of 6 November 2026 (hers; verbatim in the notebook; folded into steps 1, 2, 3 and 8 the same night; kept here with their dates)
 
 - **The centre of a black hole is the loose remnant of the last burp**, lower in density than the layers round it;
   "tighter" at the rod means sheet-like curl, two-dimensional stores per volume, not more closed squares. *Measured

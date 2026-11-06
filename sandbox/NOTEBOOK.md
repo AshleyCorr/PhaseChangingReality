@@ -1534,3 +1534,16 @@ same-hand halves lock into a store wherever there is no room, more of them as la
 wiring has never curled from energy (T34, T57; the tube is built by hand), and T105's stores lock for want of room,
 not under gravity's squeeze, which is not built on the sheet (the lengths have only the six-link form; her decision
 of 6 November puts gravity on square edges too, so the four-link form is the build). Theory's structure.
+
+## 6 November 2026, night: "reword steps 1, 2, 3 and 8 - proceed so these represent our / my current best guess" (hers, verbatim, chat)
+
+Ours, the same night. Done in HYPOTHESIS.md, Part 1: step 1 now carries the doughnut of squares (the exact torus
+fact), the rod as the hole's axis with dark matter moving in it, the centre as the set of stores on the inner rim,
+the tip; step 2 the whirlpools turning energy to dark matter and gravity, the stores paid by gravity with 't
+Hooft's bond form, the burp in the rod at the rim at the reflection seam, the loose remnant it leaves; step 3 the
+seed with a foot on each side, one daughter is one foot, the kind rule and the alternation, the twins kept, her
+surplus formula and the one-to-one rule; step 8 gravity on the edges in two and three dimensions, light only in
+three, curve-first gravity, the next X as the doughnut, the three regions by movement. Two points left open inside
+the wording and marked: the two slabs against one doughnut, and the taper. The refinement lists of 4, 5 and 6
+November stay below the steps with their dates, marked as folded in. The wording is ours, hers to confirm sentence
+by sentence. She also confirmed the two documents are shared, so the email can go.

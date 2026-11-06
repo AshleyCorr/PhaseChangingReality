@@ -80,7 +80,9 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
    registered on her "register" (night of 6 Nov) and run at 32, 48 and 64: predictions 1, 2 and 4 HOLD at the fitting
    lengths, the outside-larger share falling with length (a criterion that scales with the band; said before 128 ran);
    128 held out, read: MIXED, predictions 1, 2b and 4 HOLD at every length, 2a (outside larger at a fixed time)
-   failed at 128 as said before the run; T108 (the size's trend) and T109 (growth, not size) wait on her words. Build: `graphity.loose_band`, `kind_rule` in the pair moves,
+   failed at 128 as said before the run; T108 (the size's trend) and T109 (growth, not size) wait on her words.
+   Steps 1, 2, 3 and 8 of the claim reworded the same night at her instruction to her current best guess (the
+   wording ours, hers to confirm); the two slabs against one doughnut and the taper stay open inside the wording. Build: `graphity.loose_band`, `kind_rule` in the pair moves,
    the runner and reader, all tested. Her correction the same night: gravity acts in
    two and three dimensions (cube edges are square edges), light only in three; the lengths need a four-link form
    (exact derivation, ours, before the drift build).
