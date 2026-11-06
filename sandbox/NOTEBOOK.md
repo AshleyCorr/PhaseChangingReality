@@ -1547,3 +1547,20 @@ three, curve-first gravity, the next X as the doughnut, the three regions by mov
 the wording and marked: the two slabs against one doughnut, and the taper. The refinement lists of 4, 5 and 6
 November stay below the steps with their dates, marked as folded in. The wording is ours, hers to confirm sentence
 by sentence. She also confirmed the two documents are shared, so the email can go.
+
+## 6 November 2026, night: the status page reviewed in full and rebuilt (hers, verbatim, chat)
+
+"review every section of the a phase changing reality artifact in full and confirm it is up to date. remove the
+separate 'Fable' points, simplifty where we are, what is next. Gravity is carried on the links, three-dimensional
+only, arriving with moving matter; is an example of something I've corrected. this is te document that actually
+directs my research, so it is very important it is accurate complete up to date and simple and consistent
+internally and with our most recent conversations and commits to PhaseChangingReality repo"
+
+Ours, the same night. The status page was rebuilt from the repository rather than patched: the claim is the
+HYPOTHESIS wording of tonight (steps 1, 2, 3 and 8 reworded); the "Fable" key and tags are gone, each such point
+either kept as ours or dropped; the terms table is TOY.md's; the pieces table and the cards carry 4 to 6 November
+(the doughnut, the kind rule, T105, T107, gravity in two and three dimensions, the bond's form); "Where we are, and
+what is next" is three short lists that mirror STATE.md, which was simplified the same way (the play-by-play of
+owed item 1 replaced by "Decided this week" and nine owed items; the next list reordered with the four-link
+lengths first). Her corrected sentence ("three-dimensional only") is gone from every section. The page's header
+now says it mirrors STATE.md and HYPOTHESIS.md and is brought up to date when they change.

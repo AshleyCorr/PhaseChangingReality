@@ -1,4 +1,4 @@
-# Where the programme stands (4 November 2026)
+# Where the programme stands (6 November 2026)
 
 Brought to this date from the archive's programme page and `docs/HANDOFF_2026-11-04.md`. Update this page when
 something changes; keep it to where we are and what is next, no play-by-play. Dates, not clock times.
@@ -12,12 +12,12 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
 | **3. The rule** | Exact: curvature plus a curling cost; curl and uncurl to total zero, which freezes clean six-link space under the published move (one to four switches); the rule is softened; how to let it move is hers. | 6, 11 |
 | **4. Room for the burp** | Measured: too little room leaves flaws, never a melt. | 6 |
 | **5. How the curled directions open** | Measured: with points compacting in layers the slab cycles, one daughter per curling cost, held-out sizes held (T71, T74); the births are the ledger's and **no graph mechanism for the burp has been found** in three directions; the twin pair has not opened cleanly. The mechanism as moves on twist and curl is hers to propose. | 4, 5, 15 |
-| **6. The burp's three shares** | Her best guess: twin daughters, matter and antimatter one to one by rule, the billionth from the stores, the diagonal ratios perhaps part of the energy split; her dark energy waits on soft space. Needs a physicist. | 7 |
-| **7. The scrap** | Measured: three kinds of knot of fixed energy, their number set at the opening; the loop rules fixed and the four test particles pass; a one-sided dark loop exact at half the neutrino's cost; curl and anti-curl built as a state on the squares; the knots' share of the release is λ-free; the Klein relative is a knot of fixed energy behind a wall of 21 (T102); her two kinds built as moves (4 Nov): on a flat torus the ledger is spent on pairs before any store can be paid, so no store forms, while the same-sign curls left with no room rise with λ (T103); the same with the price from gravity (T104); the cause is the sweep's order, ours; under her clock (room judged all at once) stores form once the release packs the sheet and rise with λ, held-out size held (T105). | 2, 3, 7, 18, 19 |
-| **8. Curve-first gravity** | Carrier decided 4 Nov: the edge lengths. Exact: the curvature's stiffness in the lengths is gapless; measured: two knots' joint energy falls as they approach and light's path lengthens (T84); α drifts between knots (T100); the move count as a clock runs faster near knots (T101). The time half is open. | 9, 10, 11 |
+| **6. The burp's three shares** | Her picture (4 to 6 Nov): the next burp's seed starts at the loose remnant the last burp left and straddles its edge; one daughter is one foot; the first pair across the boundary sets the outside foot's kind and every pair after follows it; the surplus is (red − blue)/(red + blue + all stored energy), about one in a billion of the daughter's squares; twins kept, the black hole neutral. Measured (T107): a foot on each side, the inside foot bounded, the feet mirror images under her rule, at every length with 128 held out; "outside larger at a fixed time" failed at 128 (a criterion that scales with the band). The size ratio reads 0.021 to 0.009, falling with length. Her dark energy waits on soft space. | 7 |
+| **7. The scrap** | Measured: three kinds of knot of fixed energy, their number set at the opening; the loop rules fixed and the four test particles pass; a one-sided dark loop exact at half the neutrino's cost; curl and anti-curl built as a state on the squares; the knots' share of the release is λ-free; the Klein relative is a knot of fixed energy behind a wall of 21 (T102); her two kinds built as moves (4 Nov): on a flat torus the ledger is spent on pairs before any store can be paid, so no store forms, while the same-sign curls left with no room rise with λ (T103); the same with the price from gravity (T104); the cause is the sweep's order, ours; under her clock (room judged all at once) stores form once the release packs the sheet and rise with λ, held-out size held (T105); the stores sit as singles and short chains, no ring (a look, 6 Nov); the bond that holds a store has 't Hooft's form, energy linear in separation, its constant to calibrate (6 Nov). | 2, 3, 7, 18, 19 |
+| **8. Curve-first gravity** | Carrier decided 4 Nov: the edge lengths; 6 Nov: gravity acts in two and three dimensions (cube edges are square edges), light only in three, so the lengths need a four-link form (exact derivation, ours, before the drift). Exact: the curvature's stiffness in the lengths is gapless; measured: two knots' joint energy falls as they approach and light's path lengthens (T84); α drifts between knots (T100); the move count as a clock runs faster near knots (T101). The time half is open: the longer path is the space half of the delay only. | 9, 10, 11 |
 | **9. Quantum** | Counting alone cannot beat Bell; the published amplitude rule is adopted and checked in an exact toy; "the options" are copies; Carroll's reader reads geometry only, and a window with her matter reads differently (T94, T98). | 13, 19 |
 | **10. Time and the speed limit** | The toy has no time; its move count ticks only near knots and stands still in open space (T101); soft space's waves have one speed. T101 Amendment 1 (λ = 1, planted knot) ran overnight and is **unread**. | 14 |
-| **11. Black holes** | Nothing folds from energy alone (T34, T57); under the layer form a slab drains into colder surroundings and is fed by warmer (T74). The fold test waits on soft space's second stage. | 12, 1 |
+| **11. Black holes** | Her picture (5 to 6 Nov, confirmed): the curled slab is a doughnut of squares (exact: a four-linked closed surface of squares is a torus), its inner rim of Klein stores the collar, its hole's axis the rod, three-dimensional, dark matter moving in it; three regions by movement; the loose remnant of the last burp sits at the rim and the next seed starts there (T107). Nothing folds from energy alone (T34, T57); the stores do form from energy where there is no room (T105), but not yet under gravity's squeeze, which is not built on the sheet. Open, hers: the two slabs against one doughnut; the taper. | 12, 1 |
 | **12. The strange loop** | The measure fully specified and computed; under her unit every stellar class is typical; the loop as a fractal. | 16 |
 | **14. Observers inside the loop** | "When we are" depends on who is counted; the observation window is the load-bearing term; not scored on our age. | none |
 | **15. Connecting to observations** | Five target sheets owed (dark matter as relics; black holes from dark matter; the birth and its gravitational waves; dark energy over time; matter over antimatter); a sixth written 5 Nov (a preferred direction in the expansion, target 14, with its prior-work note), then three more at her word the same day (the horizon's state count, one bit per 4 ln 2 Planck areas, target 15; the sense of rotation from the spin, target 16; a vortex line, target 17; all general knowledge, to verify); nothing measured. | 7, 12 |
@@ -32,97 +32,50 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
   archive, and bring piece 10 here up to date.
 - Nothing on the cloud.
 
+## Decided this week (4 to 6 November), now in HYPOTHESIS steps 1, 2, 3 and 8
+
+The two kinds as moves with her clock (T105 held). The stores sitting together are her knot. The halves drift
+under gravity before they join; a store cannot move; the drift stops where room runs out (the tip). The burp is in
+the rod at the rim, not at a pole. The rings are whirlpools; three regions by movement. The curled slab is a
+doughnut of squares; the collar is its inner rim of stores; the rod is the hole's axis. The centre of a black hole
+is the loose remnant of the last burp; the seed straddles its edge; one daughter is one foot; the kind rule; her
+surplus formula, about one in a billion. The collar's stores are heavier than their parts, paid by gravity, the
+bond of 't Hooft's form. Gravity acts in two and three dimensions, light only in three. T107 registered, run and
+read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her current best guess, hers to confirm.
+
 ## Owed by the owner, in the order they unblock work
 
-1. **After T105** (4 Nov, her clock decided and her prediction held): the two kinds as moves on a sheet are built and
-   read; the stores sitting together are her knot (decided the same day). The twist rules' energies: the brief
-   `docs/design/twist_energies_2026-11-04.md` (4 Nov, seven choices with defaults) and the reader `graphity.twist_energy` are
-   built; **hers: the seven answers**, and her T106 prediction (stores per pair on the opened tube six around, in her
-   words, for the held-out length). Exact already, with nothing fitted: under the rod stand-in a store is 4 dark
-   particles; her billion needs about 170 TeV per store; and on the sheet stores are one in five of the pairs (T105),
-   not one in a billion. **Her answer of 5 Nov:** the billionth lives in the inner shell as the boundary row of a
-   tessellated shell of stores (circumference over area, T97's 1/R form); the rod's 4 is too low, a stiffening form
-   or binding is hers to give; the 0.170 MeV dark particle is unconfirmed. **Decided 5 Nov:** the halves drift
-   under gravity before they join; a store cannot move. The drift is the next build: the brief
-   `docs/design/drift_2026-11-05.md` with its choices is hers to answer; T106 on the tube tests only the room
-   stand-in, not her shell. Her evening words of 5 Nov (the tube as a cone, many whirlpools, layers of one
-   type, a second surplus mechanism held beside the poles) are in the notebook and the brief; the exact points by
-   hand are in the look line of the same evening; the loose-band look ran the same evening (LOG): on a warm tube the escape
-   starts at the loosened band in 58 of 60 replicas, twenty to sixty times sooner than on the packed tube, which is her
-   "3d seeds" answer as a look; registration waits on her prediction for a held-out length. "3d seeds" confirmed by her
-   as the seeds of the burp. The twins stay; her "a seed on the inside face and one on the outside" ran as a look
-   the same evening (LOG): on the 4-tube every seed rings the tube, no wider tube exists in the toy, and the wiring has
-   no inside or outside; the home for her question is the lengths of piece 8; the nearest published model is the
-   Hawking pair (notebook). Her prediction for the lengths test is recorded (night of 5 Nov): seeds start on the
-   short side more often. The short half was our stand-in for a torus's inside, which the toy's equal squares do not
-   have; withdrawn the same night at her question. Replaced by the boundary look (LOG): on the loose-band tube one
-   seed straddles the boundary, a foot on each side, the inside foot stopping at the band's edge and the outside
-   foot growing. No lengths needed. Her prediction against the boundary is drafted in the notebook, hers to confirm.
-   Answered 6 Nov (small hours): the centre is the loose remnant, "tighter" means sheet-like, so the drafted prediction
-   stands; new rule of hers, the two feet carry opposite kinds and the surplus alternates burp to burp (notebook, with
-   the published side and the measurement it must meet, eta = 6.1 x 10^-10); her collar of stores in rings of one hand:
-   a look (LOG) finds T105's stores as singles and short chains, no ring; a store-to-store join is not built.
-   Evening of 6 Nov: the bond's form borrowed from 't Hooft 1974 (B = sigma times separation; sigma to
-   calibrate; exact on a line, numerical on a plane); her prediction for the surplus, about one in a billion of
-   the daughter's squares, testable as a trend with size; the tip is where the drift stops and the store layer
-   starts. HYPOTHESIS carries the 6 Nov decisions. A reader's guide for her friend is at
-   `docs/A_PHASE_CHANGING_REALITY.md`. Night of 6 Nov: the rod is the line the stopping points make through the
-   centre of the sphere of squares (her correction; step 1 of the claim is hers to reword; drawn,
-   `sandbox/drawings/2026-11-06_rod_arrangements.html`); the tip confirmed as the drift's stopping rule; her surplus
-   formula (red - blue)/(red + blue + stored), about one in a billion; the five options for the boundary prediction
-   are in the notebook; late on 6 Nov she confirmed all five and the surplus formula, so T107 can be registered
-   (options 1, 2 and 4 scored, 3 read, 5 its own test) once she confirms the shapes: exact, a four-linked closed
-   surface of squares is a torus, so the slab is a doughnut, which we read as her collar (panel 4 of the drawing).
-   Confirmed late on 6 Nov: the slab is the doughnut, the collar its inner rim of stores, the rod the hole's axis
-   with dark matter moving. Consistent with the toy's curvature (the loose band is its negative-curvature region,
-   the embedded doughnut's inner rim likewise; notebook). Three tensions with the claim are hers to resolve: two
-   slabs against one doughnut (the two halves?), the taper, and "the burp in the rod" read as at the rim. T107 was
-   registered on her "register" (night of 6 Nov) and run at 32, 48 and 64: predictions 1, 2 and 4 HOLD at the fitting
-   lengths, the outside-larger share falling with length (a criterion that scales with the band; said before 128 ran);
-   128 held out, read: MIXED, predictions 1, 2b and 4 HOLD at every length, 2a (outside larger at a fixed time)
-   failed at 128 as said before the run; T108 (the size's trend) and T109 (growth, not size) wait on her words.
-   Steps 1, 2, 3 and 8 of the claim reworded the same night at her instruction to her current best guess (the
-   wording ours, hers to confirm); the two slabs against one doughnut and the taper stay open inside the wording. Build: `graphity.loose_band`, `kind_rule` in the pair moves,
-   the runner and reader, all tested. Her correction the same night: gravity acts in
-   two and three dimensions (cube edges are square edges), light only in three; the lengths need a four-link form
-   (exact derivation, ours, before the drift build).
-   Morning of 6 Nov, three decisions of hers: one daughter is one foot; the kind rule (the first pair across the
-   boundary sets the outside foot's kind, all after follow it); the collar's stores are heavier than their parts,
-   paid by gravity (the gravity counter becomes an energy; not built); her pushback the same morning withdrew our
-   outside cap on that mass for stores made inside the horizon (notebook). The kind rule ran as a look (LOG): the two feet
-   come out mirror images in 13 of 19, the size a few twists of 128 pairs; what sets the size is next. The pair
-   models she asked to borrow from are in `docs/reading/notes/2026-11-06_cpt_symmetric_family.md`.
-2. **Option B for the clock, or none**: a point's move rate tied to its link lengths would put the time half in
-   by hand. If B, its form.
-3. ~~T102's verdict is KNOT~~ Decided 4 Nov: her knot is the set of Klein stores sitting together (T105's cluster), a
-   state on the squares, two-dimensional on the sheet; T102's object was the toy's own.
-4. **The "face gluon"**: is +½ and −½ on one face diagonal a particle in her rules? Can two same-twist halves
-   combine into one two-sided full twist in a √2 store, as the cancellation rule needs?
-5. **Which carries the dark matter at birth**, the seam's rings or the later knots (about 0.67 eV / T)?
-6. **Paper 19's number** (the Carroll reader paper), and whether the 3 November wording stands in the claim.
-7. **Whether the claim's steps 3 and 5 are rewritten** in her 4 November words; and steps 2 and 3 for her 5 Nov
-   correction (the burp is in the rod, not at a pole), step 1 for the taper.
-8. **An inconsistency found on 4 November while building this repository**: the claim's sentence "curling two
-   directions costs the same as curling one" (the pair tie, confirmed 1 Nov) and Update 133's replacement of
-   the pair tie by "each curled direction carries its own cost, half each" do not say the same thing. Which
-   stands is hers.
-9. Older and still open: the stability rule for loops (what forbids charged loops between the electron and the
-   muon); the electron's size n; where a photon's energy lives; which bound on the electron's size applies; the
-   fair clock's standing after its one miss; whether piece 10 stays attached to the toy; dark energy's drift
-   over a daughter's life.
+1. **Confirm the rewording** of steps 1, 2, 3 and 8 (6 Nov), sentence by sentence; and the two points left open
+   inside it: the two slabs of opposite hand against one doughnut (the two halves of the doughnut is our
+   reading), and the taper of 5 November.
+2. **Her words for T108** (her size ratio against length; the toy reads 0.021 to 0.009 at 32 to 128) and **T109**
+   (the outside foot's growth against the inside's, replacing T107's criterion that scaled with the band).
+3. **The twist energies' seven answers** (`docs/design/twist_energies_2026-11-04.md`), a form for the bond's
+   constant sigma, and whether the gravity counter becomes the store's mass; then her T106 prediction (stores per
+   pair on the opened tube six around).
+4. **Option B for the clock, or none**: a point's tick tied to its link lengths would put the time half in by hand.
+5. **The "face gluon"**: is +½ and −½ on one face diagonal a particle in her rules?
+6. **Which carries the dark matter at birth**, the seam's rings or the later knots.
+7. **Paper 19's number**, and whether the 3 November wording (the projection, the three layers, the computer)
+   stands in the claim.
+8. **The pair tie against "half each"**: the claim's "curling two directions costs the same as curling one" and
+   Update 133's "each curled direction carries its own cost" do not say the same thing; which stands.
+9. Older and still open: the stability rule for loops; the electron's size; where a photon's energy lives; which
+   bound on the electron's size applies; the fair clock's standing; whether piece 10 stays attached to the toy;
+   dark energy's drift over a daughter's life.
 
 ## Next, each pre-registered before it runs
 
-1. Read T101 Amendment 1 (above).
-2. The moves on the opened tube six around (T106 when registered), scored on stores per pair with her number for the
-   held-out length; the twist energies' constants get a source before any ratio is registered (rule 13).
-3. The design brief for a twist-curl state as the computation Carroll's reader would read (paper 19), then the
-   reader on it.
-4. Gravity: the γ reader's time half (option B or none); then her particles, once built, as the sources whose
-   halos ONE α is tested on. A six-link knot that is a dip is still unfound (the exact search to three switches
-   is hers to buy).
-5. The five target sheets of piece 15, the dark-matter sheet and the birth table first.
-6. Keep the λ question in mind: 1.25 is the toy's convenience setting; her picture puts open space at λ ≤ 1.
+1. The four-link form of the lengths (exact derivation, ours), so that gravity acts on the sheet; then the drift
+   build (`docs/design/drift_2026-11-05.md`) with its stopping rule, and a look at whether stores line up into a
+   doughnut under gravity's squeeze.
+2. T108 and T109 on her words (above).
+3. Read T101 Amendment 1 (archive; ran 3 to 4 Nov; unread by its registered words).
+4. T106, the moves on the opened tube six around, once her prediction is in.
+5. The design brief for a twist-curl state as the computation Carroll's reader would read (paper 19).
+6. Gravity's time half: option B or none; a six-link knot that is a dip is still unfound.
+7. The target sheets of piece 15, the dark-matter sheet and the birth table first.
+8. Keep the λ question in mind: 1.25 is the toy's convenience setting; her picture puts open space at λ ≤ 1.
 
 ## Waiting on others
 
