@@ -1637,3 +1637,28 @@ target is in the input, rule 13) about 0.27 MeV per link, the order of her 0.17 
 store's bond over 2 root 2 links is about 0.8 MeV and a store weighs about three times its two dark particles, not a
 billion: the bond sets how heavy a store is, the count sets how many. Recommendation, ours: sigma from the proton,
 the string tension as the scale to check against. Decision hers.
+
+## 6 November 2026, night: the dark gluon; a store holding thousands of times its mass (hers, verbatim, chat)
+
+"cancel at once into light. (b) Allowed and a particle, the dark analogue of a gluon, with its own energy. -> can the
+twists canceling create light and still leave the curls and make a dark gluon?
+
+ a store would weigh about three times its two dark particles -> but still hold an amount of energy equvalent to
+about that which is held in the protons mass? gluons have mass, and they are the thing that holds a proton together.
+strong force? but in the black hole, the mass length is constant, so the energy is simply bond energy, built up by
+gravity in each particle until it snaps into one loop and that loop is stable as a loop similar to how an eletron
+is. so that is why I think the dark matter klein bottle could hold like 5000x of its mass in energy"
+
+Ours, the same night (rule 21; published facts general knowledge, to verify). The dark gluon: in her rules yes (her
+gluon is a curl on an untwisted diagonal; the published shape is the neutral pion, a quark and antiquark held
+together, decaying to two photons); corrections, measurements: gluons are massless, the proton's mass is field and
+motion energy; annihilation leaves nothing, so this is a bound state that decays, not an annihilation. In the toy
+it needs curl with zero twist, which the state cannot hold since her 4 November decision that twist is not a second
+number (a full curl carries a half twist of its sign); options (a) keep it, no dark gluon on the sheet, (b) twist
+its own number again, a reversal of 4 November, raised once as a question. The store's energy: energy is mass, so
+a store holding 5000 times its parts' energy weighs that much (her 4 November rule: MeV is the measured total,
+bond included); what is constant is the count, two diagonals, her "mass" in the count sense; said as "5000 times
+its count in bond energy" it is consistent. With nothing fitted: 5000 x 0.34 MeV is about 1.7 GeV, near a proton's
+mass (a coincidence to count, rule 13), the bond's slope about 600 MeV per link, two thousand times the string
+tension at the toy's link; nothing measured forbids it inside a horizon; after the burp such dark particles, around a
+GeV, sit above the 10 MeV thermal floor. Asked: where the 5000 comes from (the proton's 5,508 diagonals?).
