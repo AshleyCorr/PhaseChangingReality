@@ -4,38 +4,10 @@ Ideas start here (rule 9): hers verbatim with the date, ours in a line or two. N
 
 ## 4 November 2026: a friend's build on the picture (Ashley, by email)
 
-Not hers; a friend's. The email is not reproduced here (it is private); this is our summary in our words. Her
-question, in chat: "how does this hold up with our updated hypotheses?" Answered the same day (this entry).
-
-The friend's five steps, as we read them: (1) a folded spacetime that snaps open when enough energy converges,
-likened to string theory's curled dimensions and to inflation; (2) black holes as portals that push their
-matter, energy and information through to seed one new universe, with Hawking radiation as the leak and
-Smolin's natural selection and Poplawski's bounce as the published neighbours; (3) each universe gets its own
-"habits", laws not inherited, observers write the rulebook; (4) most daughters are duds, and the duds' gravity
-leaking across branes could be our dark matter; (5) the first universe: a dormant folded spacetime that always
-existed, over Vilenkin's zero-energy start and Hartle-Hawking's no-boundary.
-
-Against `HYPOTHESIS.md` as it stands (ours, a reading, no new arithmetic):
-
-- Holds: (1) is steps 1 and 2 (X curled, stable for now; energy raises the stores; the curl snaps: the burp).
-  (2)'s converter-not-store is step 4; "dissolves only when its surroundings are colder" is the published
-  Hawking condition (a black hole evaporates only once it is hotter than its surroundings; general knowledge,
-  to verify). (5)'s "dormant, always existed, not nothing" is nearest to hers: X has order but not time, and
-  the network is eternal (`WITHDRAWN.md`, section 8).
-- Does not hold against her decisions: (3) contradicts step 7, "the rules of the two phases are their constants
-  and do not change from one generation to the next"; in hers what varies between daughters is the coupling and
-  the amount of curl (step 8), not the laws. (4)'s dark matter contradicts step 5 (a one-sided half-twist loop
-  on the face diagonals, a flaw of this daughter's own space) and step 4 (nothing crosses back). One universe per
-  black hole contradicts step 8 (many burps, each a twin pair, the black hole neutral). "Pushed out on another
-  plane" differs from hers: the daughter opens in the zero-dimensional space inside the hole and stays inside it.
-- Measurement that bears on (4): the dark matter we see sits in halos around galaxies and separates from gas in
-  cluster collisions (the Bullet Cluster); gravity leaking from an unrelated neighbour has no reason to trace our
-  galaxies (general knowledge, to verify).
-- Already on `WITHDRAWN.md`: Smolin's selection for the most black holes (replaced by observers who evolved as the
-  reward, U43, U59). Not re-proposed.
-- Nearest published models for the friend: Smolin's cosmological natural selection (1992) for (2) to (4) with
-  varying constants; Poplawski's torsion bounce (2010 onward) for (2); brane-world dark sectors for (4)'s dark
-  matter; all general knowledge, to verify before any citation.
+Not hers; a friend's, by email. Private (CLAUDE.md: correspondence is never reproduced or closely paraphrased in a
+tracked file). Her question in chat, "how does this hold up with our updated hypotheses?", was answered in her
+reply to him the same day. A summary of his email that stood here until 5 November was cut at her request, the
+matter being resolved; his own public page on the picture is recorded in the 5 November entry below.
 
 ## 4 November 2026: is all dark matter a flaw? (hers, verbatim, from chat while drafting the reply to Ashley)
 
@@ -211,3 +183,975 @@ Asked whether room is judged once on the made state, all pairs at the same insta
 answered "Yes to 1". Her clock from here: make pairs while the ledger pays; judge room for every pair at once;
 those with room cancel into light, those without join a same-sign neighbour into a store; freeze when a sweep
 changes nothing. T105 registers it. The sequential form stays in the code so that T103 and T104 reproduce.
+
+## 4 November 2026: the stores sitting together are her knot (hers, verbatim, chat, after T105)
+
+"stores sitting together is your knot, yes I think so, is a knot a 3d or 2d object?"
+
+Ours, the same day. Decided (owed 3 of STATE): the knot is the set of Klein stores sitting together; T102's Klein
+relative in the wiring was the toy's own object, hers is the cluster in the state. Her question answered in chat
+and here: the word "knot" has three uses in the record. In topology a knot is a closed curve (one-dimensional) tied
+in three-dimensional space; that is not the toy's use. In the toy a knot is a relic in the wiring: on the four-link
+sheet and tube it is two-dimensional (the scrap of paper 2, T102's Klein relative); on the six-link lattice it is
+three-dimensional (T84's lumpy knot). In her picture the knot at a black hole's center is the zero-dimensional cell
+the inner shell is oriented around. The T105 cluster is a set of squares of a sheet, so a two-dimensional object,
+which fits her inner shell (two-dimensional, movement stopped, halves only). A three-dimensional version needs the
+six-link lattice, where the two kinds have not been built.
+
+## 4 November 2026: halves only, so not the Klein bottle? (hers, verbatim, chat)
+
+"two-dimensional, movement stopped, halves only - so not the Klein bottle, which has wholes?"
+
+Ours, the same day. "Halves only" (Update 156) is about the unit, not the sum: in two dimensions the unit of twist
+is a half and there are no thirds; a Klein store is two halves joined, a whole made of halves, so it is inside the
+rule. What the inner shell cannot hold is a third, which is what keeps ordinary matter out of it. Published fact
+that fits her picture exactly (general knowledge, to verify in a topology text): a Klein bottle is two Moebius
+strips glued along their edges, which is her "two same-direction half twists combine into one Klein bottle". One
+wording clash to flag, a convention: in mathematics the Klein bottle is one-sided (non-orientable), while she
+writes "2 sided klein bottle"; her "two-sided" means two halves joined into a whole, and the record's exact fact
+(a loop is one-sided exactly when its twist is an odd number of halves) uses the mathematical sense. Keep both
+clear in the writing: her store is two halves, whole in sum, one-sided as a surface.
+
+## 4 November 2026: the other side of a one-sided store (hers, verbatim, chat)
+
+"Okay cool, if it's one sided, shouldn't the other side be 0d? It's 1 d in that this state can exist or not
+exist. Twist and curl are static they cannot change."
+
+Ours, the same day. (a) In mathematics a one-sided surface has no other side at all: walking along it you return
+to where you started on the same side; there is nothing of any dimension on "the other side". Her picture that the
+empty side faces a zero-dimensional cell is already in the claim (step 1: the empty sides of the dark loops orient
+together into a shell around a zero-dimensional space; step 8: the inner shell oriented around the zero-dimensional
+knot), so it is her shape, not a theorem; consistent with her words, not with the surface's own geometry. (b) "Can
+exist or not exist" is in the toy the store flag, 0 or +-1 on a square, exactly as built. Wording (convention): a
+yes-or-no is two points, which mathematics calls zero-dimensional; a line of values, like her continuous curl in
+[-1, 1], is one-dimensional. (c) "Twist and curl are static": exact in the build for a store (it never moves, never
+cancels, its curl and flag never change after the join); not for open space, where pairs are made and cancel every
+sweep, nor for the claim's gravity (the lengths relax while twist and charge stay fixed, Update 157). If she means
+static once inside the shell, the record agrees.
+
+## 4 November 2026: the Klein bottle as the zero-dimensional object (hers, verbatim, chat)
+
+"yes-or-no is two points, which mathematics calls zero-dimensional- actually then the Klein bottle itself is the 0d
+object? It is or it is t. 3d could be the simulation of "what if it isn't?" Well, then all that energy does a big
+bang of matter and antimatter, and our daughter universe is born. Each way it could -not be- is a copy.
+
+Yes, static once inside the shell"
+
+Ours, the same day. Confirmed: twist and curl static once inside the shell (the store as built). The new idea: the
+Klein store is the zero-dimensional object (a yes-or-no); three-dimensional space is the playing-out of "what if it
+is not", the store's energy released as the burp; each way it could not be is a copy. Fits the claim as it stands:
+step 10 (the inner shell is a computer that plays out all the options; the options are copies, decided 3 and 4
+November) and step 3 (a new three-dimensional spacetime is born in the zero-dimensional space). One tension for
+her, a convention: steps 1 and 8 have one zero-dimensional cell at the center with the shell around it, while here
+every Klein store is a zero-dimensional object and the knot (decided today) is many of them sitting together; which
+is the center, one cell or the set, is hers. In the toy: a store's "not being" is its pair cancelling into light, so
+the copies would be the ways the stores of a frozen sheet could instead have cancelled; countable exactly on a small
+sheet if she wants that look (not run). Nothing here changes a definition; nothing can be measured yet.
+
+## 4 November 2026: the center is the set; its size and our lambda (hers, verbatim, chat)
+
+"Center is the set. The set /locality can be different sizes, and we are most likely to find ourselves in a max
+entropy size, and that sets our universe's lambda.
+
+Count in small sheet."
+
+Ours, the same day. Decided: the zero-dimensional center of a black hole is the set of Klein stores sitting
+together (the knot), not one cell; steps 1 and 8 of the claim to be reworded by her (added to the 4 November
+refinements in HYPOTHESIS). New: the set comes in different sizes; we are likeliest in the size with the most
+copies ("max entropy"), and that size sets our lambda. This fits her lambda of Update 152 (the barrier above 1
+belongs to the inner shell) and her "lambda is related to the number of klein bottles". Two things to flag. A
+theory's structure: the record's measure rewards observers who evolved (Updates 43, 59; Smolin's most-black-holes
+is withdrawn), while "max entropy size" is a typicality rule (the published neighbour is Vilenkin's principle of
+mediocrity, general knowledge, to verify); whether the two agree or one replaces the other is hers. A convention:
+"entropy" here means the number of copies of a given size, which is what the count below measures. The look she
+asked for: on a small sheet, from one made state, count every way the pairs could resolve under her clock (each
+resolution a set of disjoint cancel or join links that leaves no further move), and the number of stores in each;
+the size with the most resolutions is her "max entropy size". Script sandbox/copies_count_look.py; a look.
+
+Count done (the line in `sandbox/LOG.md`, 4 November): on sides 4 and 6 the copies over the store counts form one
+hump in the middle (side 6: most copies at 3 stores of a possible 6, 10,510 of 25,244 ways), so her "max entropy
+size" is a definite middling number for a given made state; her clock's run lands on it or one below. Side 8 is
+beyond a quick enumeration. Nothing registered; nothing about which size is ours.
+
+## 4 November 2026: which lambda has the most copies, and which makes observers (hers, verbatim, chat)
+
+"The record's measure rewards observers who evolved, while "max entropy size" is a typicality rule whose published
+neighbour is Vilenkin's principle of mediocrity. My question is allowing for the range of lambda, which lambda value
+has the most copies/entropy in the 2d network? PLUS which lambda value creates a universe that optimizes for the
+longest coolish stable universe period where observers can evolve and see stars. if there as very little surplus
+mass then there is not much star stuff to be made of. if there is a lot, then perhaps fewer big black holes appear
+early in spacetime and eat up all the daughter universes surplus matter so fast that fewer observers evolve. my
+expectation is that somewhere in the greatest copies and greatest number of stars with planets that could host
+observers, of both, is where we'd find ourselves. we cant know how much mass there is in the universe though, can
+we. so we cannot measure lambda. we could do a math where assuming these 2 things, knowing we are here 14b years in,
+what lambda mankes that most likley?"
+
+Ours, the same day (rule 21). What checks out, what does not, the nearest published models.
+
+1. "Which lambda has the most copies in the 2d network": answered in the toy, at a fixed sheet size, by an exact
+count (the line in `sandbox/LOG.md`, `sandbox/copies_vs_lambda_look.py`). The copies of a lambda are the made states it
+can reach (the ways of laying k pairs, times the coin) times the ways each resolves. Both counted, the copies over
+lambda have one hump, at about seven to eight tenths of the packing value: side 6 peaks at 13 of 18 pairs
+(lambda 1.18) by made states alone and at about 15 of 18 (lambda 1.21) with the resolutions in; side 4 at 10 of 12
+(lambda 1.31). The number is a convention of the toy (the unit, the coin, the sheet size); the shape, an interior
+maximum below the most dark matter, is what the look shows. The sheet size is a second free variable, hers ("the
+set can be different sizes"); the peak lambda moves with it.
+
+2. "Which lambda makes the longest coolish stable period with stars and observers": the toy cannot say, because it
+has no map from lambda to a surplus mass density, and none from a density to stars. Her argument (too little
+surplus, no star stuff; too much, a few big black holes early eat the surplus; read "fewer" as "a few") is the
+published anthropic window on the matter density: Weinberg 1987 (an anthropic bound from galaxy formation),
+Tegmark and Rees 1998 (the window on the fluctuation amplitude: too small, no galaxies; too large, dense galaxies
+and black holes), Tegmark, Aguirre, Rees and Wilczek 2006 (the window on the dark-matter-to-baryon ratio). All
+general knowledge, to verify. These are targets to apply once the map exists, not confirmations (rule 13).
+
+3. "We cannot know how much mass there is, so we cannot measure lambda": does not hold as a measurement. The mass
+density of the universe is measured: Planck 2018 gives a matter fraction of about 0.31 of the critical density to
+two percent, and dark matter about 5.4 times the ordinary matter (general knowledge, to verify; the total of an
+infinite universe is not a number, but the density and the mass inside the horizon are). What is missing is the
+toy's map from lambda to that density; once it exists, lambda is fixed by a measured number and her ratio claim
+of 4 November faces the same number.
+
+4. "Do the math: given both measures and that we are here 14 billion years in, which lambda is most likely": the
+formula can be written now, the number cannot. Probability of lambda is proportional to copies(lambda) times the
+number of observers a universe of that lambda makes by now (13.8 billion years, measured). copies(lambda) the toy
+gives in shape (item 1) at toy sizes; observers(lambda) needs the density map, then a published star-formation
+history (Lineweaver 2001 on when habitable planets form, general knowledge, to verify). Her expectation (we sit
+where both are large) is a product of the two, which replaces the record's observers-only measure (Updates 43, 59)
+with observers times copies; recorded as her refinement, not yet in HYPOTHESIS, since she has not said so in those
+words. The one missing object for items 2 to 4 is the same as for her ratio: the twist-rule energies that turn a
+store count into a mass. Nothing here is registered; nothing is a result.
+
+Her, the same day, on "the one missing object is the twist-rule energies": "you ask like i might know this lol?"
+Ours: not hers to supply. The twist-rule energies are a build of ours: her rules give the structure (a half twist
+per loop, a full twist on a root-2 diagonal, the proton long, the dark particle one loop), the measured targets
+(the store-to-dark-particle ratio she claims, the dark-to-ordinary matter ratio) calibrate the one or two free
+constants, and standard elastic-rod and knot-energy mathematics (general knowledge, to verify) does the middle;
+the rule then has to predict something it was not fitted to (rule 13). Next, on her go: a design brief with a
+current-definitions box and the targets written before any fit, then the term in the toy with rule 6 tests (owed
+item 1 in STATE). Her part: read back the definitions.
+
+## 4 November 2026: "proceed" (hers) to the twist-energy brief
+
+Ours, the same day. The brief `docs/design/twist_energies_2026-11-04.md` is written with seven choices and defaults
+(ours), and the reader `graphity.twist_energy` built with those defaults, nothing fitted, nothing registered
+(tests `tests/test_twist_energy.py`, 7, pass with the 17 moves tests). The exact look ran first (the line in
+`sandbox/LOG.md`): a store is 4 dark particles under the rod stand-in; her billion needs about 170 TeV of binding
+per store; and, the inconvenient fact, on the sheet (T105) stores are one in five of the pairs, not one in a
+billion. Owed by her: the seven answers; her T106 prediction (stores per pair on the opened tube, held-out length)
+in her words; and which of the three readings of the one-in-five she takes (the billionth lives where the sheet is
+not; it is the energy ratio, not the count; it is not this toy's number).
+
+## 5 November 2026: the twist energies, the billion's home, and the tube (hers, verbatim, chat)
+
+"one half-twist on one loop (your dark particle), one full twist on a √2 diagonal (a store), and the photon pair a
+cancellation leaves. The toy has the curling cost 4(λ − 1) and nothing for twist, so it can say how many stores form
+but not what they weigh.
+
+What happens if we just use the proportions of a mechanical twist curl object like what would the comparative
+energies be if the object was metal or a springy material? Are their patterns based on the features of the
+material? Is that already what the design brief was?
+
+the stores made are 0.18 to 0.26 of the pairs made. Yes the billion lives where the sheet is not: the stores made
+move to the center and form into a non-moving shell held together be gravity. A higher concentration of right
+handed Klein bottles at one pole of the rod and higher concentration of left handed ones at the other pole. It can
+hold the most energy in the smallest area if the Klein bottles form a tessalation and that is from gravity which is
+stronger than the interparticle repulsion of lefted-left and right right. So you get local areas and maybe rows of
+one type. Then say the seam is round, a circumference, the edge row is a matter row, so that means that the
+circumference is 1/1000000000 of the area and that becomes the net matter as all the internal rows split and find
+an opposite handed dark matter particle to cancel out and release photons, and those photons make most cube 1x1x2
+diagonals into canceling pairs, more photons, until there is enough space the photons can go out and stop making
+and destroying matter antimatter particles.
+
+on the opened tube six around, T106. Could a tube this small be enough space that photons can go vs crashing into
+eachother breaking and building things? It's important to remember we are not literally going from 4 to 6, that
+assumes 2d is plane geometry: it is not. It may be at the edge, the curled slab, but then there is 0d: the Klein
+barrier that either is or is not, the curl and twist is static, holding a bunch of energy and being held together
+by gravity and the continuous influx of photons from outside the black hole as they move through the curled slab
+then unable to travel they convert to dark matter loops and transform to mass with significant gravitational
+force.
+
+• Under your count rule a store weighs the same as a dark particle, 0.170 MeV each. Store to dark is 1 or 2 - no it
+takes way more energy to merge 2 same direction half twists into a single loop: one twist one loop vs 1/2 twist one
+loop. The force pushing the twists apart is stronger at closer distances and this is the closest possible distance.
+It's much greater than 2 .170 MeV (if this is even accurate as I didn't think we confirmed the mass of a single
+dark matter particle)
+
+store is exactly 4 dark particles - this seems low given the above. It contains 2 dark particles so it'll be at
+least that and I'd expect more than 2 additional dark matters worth of energy to keep a store Klein's bottle
+together, but I didint do the math."
+
+Ours, 5 November (rule 21). What checks out, what does not, the nearest published models; her words above are
+read as one set (rule 20).
+
+1. A metal or springy twisted object. In the published elastic theory of thin rods (Kirchhoff; general knowledge,
+to verify) the material enters only through two stiffnesses, bending EI and twisting GJ. Comparing two objects of
+the same shape, the material cancels: a full twist against a half on the same length is 4 to 1 for steel, rubber or
+anything linear. The one material pattern is the bend-to-twist ratio, which for a round rod is 1 + Poisson's ratio,
+between 1 and 1.5. So yes, that is what the brief's rod stand-in is, with the one scale κ free; and no, picking a
+material would not change the 4. Her "force pushing the twists apart is stronger at closer distances" is not in a
+linear rod at all: it is a stiffening law. A power law E ∝ τ^p gives full-to-half = 2^p: 4 at p = 2 (linear), 8 at
+3, 16 at 4; a billion needs p ≈ 30. Her expectation "at least the 2 darks plus more than 2 more" is above the
+linear rod, which gives exactly the 2 darks plus 2 more; a stiffening form is hers to give, or a binding constant
+(the brief's β) stands in. Nearest published pictures of like-twist repulsion at short range: the electrostatic
+self-repulsion of supercoiled DNA, and the elastic energy of a Möbius band (Starostin and van der Heijden 2007),
+both general knowledge, to verify; neither gives a billion.
+
+2. The 0.170 MeV dark particle: she is right that it is not confirmed. It is her count rule (one looped diagonal
+at the electron's unit) applied to a one-diagonal loop; a calibration, hers, never measured, and her own 4 November
+words put the dark particle above the count per length. The brief carries it as the count rule's number only.
+
+3. The billion's home (hers, decided): the stores move to the center and form a non-moving shell held by gravity,
+right-handed stores at one pole and left-handed at the other, tessellated, like-like repulsion beaten by gravity; the
+seam round; the edge row is the matter row; circumference over area is the billionth and becomes the net matter when
+the inner rows split, cancel against opposite-handed dark particles and release photons, which make 1 × 1 × 2
+pairs until there is room for light to leave. What checks out: a boundary row's share of a region is already the
+measured form of T97 (the surplus's share of the gross is the boundary row's, 1/R), so her picture lands on a toy
+fact. Exact arithmetic of her statement: circumference over area equal to one in a billion sets the shell's size,
+about 2 × 10⁹ links across the radius of a round sheet (4 × 10⁹ on the side of a square one; 5 × 10⁸ for a circle
+on a sphere's surface); a definite number, with the lattice unit's length still unknown, so not yet a length. One
+conflict in her own rules' structure, hers to resolve: "the stores made move to the center" against "a store cannot
+move" (4 November). Either the halves drift under gravity before they join, or the stores drift; the toy has no
+drift move and no gravity on the sheet beyond the one-way counter. That drift is the next build if she confirms.
+
+4. The tube six around and T106: her objection is to the toy's structure, and it holds: the tube six around is the
+toy's exact product (O116), not her inner shell, and nothing says two dimensions is plane geometry. T106 is not a
+test of her shell. It is a test of our "room" stand-in: if stores per pair on the tube are still about one in five,
+the sheet's one-in-five comes from the room rule, not the geometry. Whether to spend the run on that is hers; her
+shell's own test needs the drift (item 3). The 0D Klein barrier that is or is not, static, fed by photons crossing
+the slab and turning to dark loops: her step 2 as it stands; nothing new to check.
+
+Her answers to the brief, as read: choice 1, the rod form is too low, she expects a stiffening form (not given);
+choices 2 and 4, the 0.170 is unconfirmed, so the dark particle's energy is not calibrated; the rest open.
+
+## 5 November 2026: the drift (hers, verbatim, chat)
+
+"halves drift under gravity before they join"
+
+Ours, the same day. Decided: a store cannot move (4 November) stands; the halves, the one-sided half-twist loops,
+drift under gravity before they join, so the shell forms from halves gathering and then joining where there is no
+room. Added to the 5 November refinements in HYPOTHESIS; the flagged conflict is closed. The drift is the next
+build: the brief `docs/design/drift_2026-11-05.md` (choices with defaults, ours) and a sandbox look at what a
+drift does to the sheet's one store per five pairs, before anything is registered.
+
+## 5 November 2026: the factors, not the billion (hers, verbatim, chat)
+
+"Nearest published pictures of like twists repelling at short range are the self-repulsion of supercoiled DNA and
+the elastic energy of a Möbius band, both general knowledge, to verify.
+
+Don't worry about the billion at this point, we are just identifying the different factors at play. The dna and
+mobious band are exactly analogous please read up and incorporate."
+
+Ours, the same day. Read and recorded: `docs/reading/notes/2026-11-05_twist_repulsion_dna_mobius.md` (Neukirch and
+Marko 2011 read in full; Starostin and van der Heijden 2007 abstract and the authors' page). The factors, each
+published in its own setting: a twist stiffness; a bending stiffness; a repulsion between the two halves that grows
+as a logarithm as they are pressed together, with a screening length (DNA's Debye-Hückel term, the published form
+of her "stronger at closer distances"); and the Möbius band's width-to-length ratio, which sets where its bending
+energy localises (the band stores its half twist as bending, with no twist term, and its shape does not depend on
+the material). The brief's choice 1 is amended to these four factors with four free constants. The billion is set
+aside at her word. One thing the record did not have: a width for the loops; the toy's objects have length and no
+width.
+
+## 5 November 2026: Ashley's page (hers, verbatim, chat)
+
+"https://emilys-universe-idea.netlify.app/
+
+My friend Ashley made this for me based on a drawing I made, I didn't think of Claude working from visual models
+actually a lot of what I talk about I have made or drawn out
+
+Really interesting! How can this analysis help us? Can we answer his questions?"
+
+Ours, the same day (rule 21). The page (public, so summarised here; his emails stay private): "Emily's Universe
+Idea", from her whiteboard drawing (red and blue rings coiled round a central spiral, arrows pressing in). His toy:
+a flat two-dimensional sketch with four stages, coil, squeeze, snap, stretch, ten settings randomised over 500 runs,
+scored on how unevenly the result expands; 20 of 500 reached an expansion gap of 8 % or more (most 18 %, typical
+1 %). The four most uneven runs had very little dark energy, a tight squeeze and an off-centre snap; the spiral's
+shape barely mattered. His motivation is the Hubble tension (about 67 against 73 km/s/Mpc, early against nearby;
+general knowledge, to verify). His two questions: is the universe one big loop, each born from the last; or does
+each spawn several, loops spawning loops.
+
+Can we answer his questions: yes, from the claim as it stands. Hers is loops spawning loops: every black hole
+births many daughters, the tree multiplies each generation (step 8); twin daughters per burp (step 3); each
+universe on its own clock, no clock across universes (step 9). A single chain of aeons (Penrose) is not her
+picture. The measure that scores the tree is observers who evolved, not the number of black holes (Smolin's
+measure is withdrawn in the record).
+
+How his analysis can help: (1) his off-centre snap is her burp at one pole of the rod (step 2), and his result,
+that an off-centre snap plus a tight squeeze makes an uneven expansion, is a direction that can be checked
+against the sky: a preferred direction in the expansion. Published searches for such anisotropy exist (galaxy
+cluster scaling relations, supernova dipoles; general knowledge, to verify, and a reading note is owed before any
+target sheet). This belongs on piece 15's target sheets as a sixth sheet, "uneven expansion from an off-centre
+burp", if she wants it. (2) His "the spiral's shape barely mattered" sits beside her "the coil is a shape, not a
+charge and not a mass". (3) His dark-energy finding (less dark energy, more unevenness) touches her piece 6 (dark
+energy as the energy of space itself, drifting over a daughter's life) and the DESI hint he cites. Cautions, by
+our rules: his 500 runs randomise ten settings and report the standouts, which our rule 3 would call exploratory
+and rule 13 would not score until the settings are fixed in advance and the unevenness is predicted before a run;
+his model is plane geometry, which she said two dimensions here is not; and a correlation inside a toy is a fact
+about the toy. None of that makes it less useful as a look: it is the kind of thing the sandbox is for.
+
+On drawings: Claude can read an image file (a photo of a whiteboard, a PNG of a drawing) and work from it. If she
+puts drawings in the repository (a `sandbox/drawings/` folder, dated) they become part of the record, and a
+definition can be read from the picture rather than translated into words first.
+
+## 5 November 2026: her whiteboard drawing, and "Proceed" to the sixth sheet (hers)
+
+She sent the whiteboard drawing Ashley's page was made from (saved as `sandbox/drawings/2026-11-05_whiteboard_coil.jpg`,
+the first drawing in the record) and wrote "Proceed" to the sixth target sheet.
+
+Ours, the same day: what is read from the picture, positions first, names after (the CLAUDE.md habit), **hers to
+confirm or correct**. A stack of five flat rings, each drawn as a short cylinder wall hatched in blue with a red rim,
+the rings smaller toward the top so that the stack narrows like a coil seen from above and to one side; the lowest
+ring drawn closed like a cup with a dotted floor. Through the center of the stack a vertical red column of small
+linked loops, one loop per ring and more between, a chain or helix threading every ring. Along each ring small
+arrows, red and blue, run round the ring (a circulation). From every side of the board large arrows, red and blue
+alternating, point inward at the stack, with smaller inward arrows nearer to it. A few dots sit near the center of
+the middle ring. Our reading, unverified: the stack is X, the curled slab as stacked loops (step 1); the red central
+column is the rod of small loops, the stores stacked along the axis (step 1, "the rod between two curled slabs";
+4 November, the center is the set of stores); the arrows pressing in from all sides are the energy arriving, photons
+applying their curl to the slab (step 2); red and blue are the two colours, the two hands; the circulation arrows
+are the curl's direction on each ring; the narrowing toward the top is the tightening toward one pole, which Ashley
+read as coil, squeeze, snap. Three things the picture has that the words do not: the rings get smaller toward one
+end (a taper, not a rod between two equal slabs); the central chain has more loops than rings (loops between the
+rings, not only in them); the lowest ring is closed and the rest open. Each may be a drawing convenience or a
+definition; hers to say.
+
+The sixth target sheet is written: `docs/design/reality_targets.md`, target 14 ("a preferred direction in the
+expansion, from an off-centre burp"), with the prior-work note
+`docs/reading/notes/2026-11-05_prior_work_anisotropic_expansion.md` (Migkas et al. 2020; Colin et al. 2019; SH0ES
+2022 against Planck 2018; abstracts only, to verify). The missing ingredient is named: a growth move for empty space
+with a rate that can differ by direction, seeded at the pole. Nothing measured; STATE piece 15 updated.
+
+## 5 November 2026: the drawing read back (hers, verbatim, chat)
+
+"The rings get smaller toward one end, a taper rather than a rod between two equal slabs. Yes definition
+
+central chain has more loops than rings. The lowest ring is closed and the rest are open. Each may be a drawing
+convenience or a definition. I think these are drawn conveniences, but if you can create a diagram to help me,
+understand what you mean exactly I may correct myself."
+
+Ours, the same day. Decided: **X tapers**, the stacked rings get smaller toward one end (added to the 5 November
+refinements in HYPOTHESIS; step 1's "a rod between two curled slabs" is hers to reword with the taper). The other
+two (loops between the rings on the central chain; the lowest ring closed) are drawing conveniences for now; a
+diagram of the two readings of each was made for her to look at (the artifact "Two readings of the drawing",
+5 November), and her answer after it stands.
+
+## 5 November 2026: the burp is in the rod; the rings are whirlpools (hers, verbatim, chat)
+
+"is the burp at one pole. No, the burp would be in the rod. The polls just create unevenness between matter and
+anti-matter.
+
+OK, so they're not loops. They are patterns of whirlpool. Blue ghost, clockwise and red ghost counterclockwise, and
+they are all photon energy moving towards the center of the rod, and so the idea is around the center of the rod.
+In the whirlpool, all types of energy are transformed to dark matter Mobius strips and then at the very center
+there is no movement and there we have Klein bottle tesselations form a zero dimensional space where the Klein
+bottle is either intact or not intact and the energy holding together the two pieces of same handedness dark
+matter, releases into three dimensional space. This can be a simulation copies of all the situations that could
+play out if the Klein bottles were not intact."
+
+Ours, the same day (rule 21; "ghost" read as "goes"). Two corrections of the record, hers, and one new mechanism.
+
+1. **The burp is in the rod, not at a pole.** The claim as it stands says otherwise twice: step 2, "the big bang
+happens at one pole of the rod", and step 3, "the pole releases that energy together with surplus matter from the
+pole effect". Both are hers to reword (STATE, owed 7); the 5 November refinements in HYPOTHESIS carry the
+correction. The poles' job is now the unevenness between matter and antimatter, which keeps her twin daughters
+(one per hand) and the neutral black hole. The sixth target sheet (reality_targets, target 14) was written the
+same morning with "the burp at one pole" as the source of a preferred direction; corrected: the burp is on the
+rod, the axis, so a preferred direction, if any, is the axis's, and whether Ashley's off-centre snap maps to
+anything in her picture is now hers to say.
+
+2. **The rings are whirlpools, not loops.** The stacked rings of the drawing are patterns of flow: photon energy
+moving in toward the center of the rod, blue clockwise and red counterclockwise, the two hands. In the whirlpool
+every kind of energy is turned into dark-matter Möbius strips; at the very center nothing moves, and the Klein
+stores tessellate into the zero-dimensional space. What checks out against the record: step 2 (photons apply
+their curl energy to the slab), step 8 (dark matter crushed by gravity lines up by hand into the slab), her
+4 November decisions (the center is the set of stores; a store is a yes-or-no; the copies are the ways it could
+not be). What is new: the inflow has a shape, a spiral with a hand, and that shape is her drift (5 November,
+"halves drift under gravity before they join") given a direction: not a random hop toward the crowd but a
+whirlpool toward the axis, with each hand turning its own way. The drift brief's choice 1 (what gravity is) and
+choice 3 (what sorts the hands) are answered in part: the pull is toward the rod, and the hands are sorted by
+their sense of rotation, not by a repulsion. Nearest published pictures, general knowledge, to verify: a vortex
+inflow (an accretion flow spiralling in), and the sense of rotation set by the spin of a rotating black hole
+(frame dragging). Nothing measured.
+
+3. The release: the binding energy of the intact stores releases into three-dimensional space, and three
+dimensions are the simulation of the copies of everything that could happen if the stores were not intact. As
+decided 4 November; unchanged.
+
+Owed by her, from this: the reworded steps 2 and 3; whether the two whirlpools (one per hand) are the two curled
+slabs of step 1 or one stack with both hands in it (the drawing has both colours on every ring).
+
+## 5 November 2026: not rings, a whirlpool line; movement defines the slab (hers, verbatim, chat)
+
+"So you keep drawing it as rings it is not rings. It is a single line in the shape of a whirlpool and so from all
+sides of this sphere that we will count as curled slab as long as there is movement, and then we will call it zero
+dimensional Klein bottle tesselation where there is no movement, and so where there is movement we keep applying
+gravitational energy against the zero dimensional Klein bottles tesselation. So you can imagine that the red and
+the blue are the lines representing the movement of futon energy into the center of the rod it is continuous blue
+represents the right handed flow and red represents a left-handed flow is their preferred movement direction is
+affected by handedness, but also when there is movement, there is repulsion by like handed twist. So these
+movement rules when we have set twist and curl so no freedom there but there is movement (through a 2d curled
+slab, dark matter and gravity, no matter no photons there is no space for them movement through space requires
+cubes there is only squares.
+
+Photon energy all converts to dark matter and gravity that is the definition of curled slab vs spacetime. Then it
+totally stopes movement and forms the tesselating Klein bottle network, 0 d, is or isn't, 1s and 0s"
+
+Ours, the same day (rule 21; "futon" read as photon). The rings were ours, a convention, drawn twice and wrong both
+times; the diagram of the two readings is marked superseded, its two questions dissolved (no rings, so no loops
+between rings and no end ring). Read back as one set (rule 20):
+
+- **The shape**: one continuous line spiralling in from all sides of a sphere to the center of the rod; blue the
+  right-handed flow, red the left-handed; the preferred direction of flow set by handedness.
+- **Three regions by movement** (her definitions): *spacetime*, where there are cubes, so matter and photons can
+  move; *the curled slab*, a sphere of squares only, where only dark matter and gravity move, no matter and no
+  photons (no cubes, so no space for them), twist and curl fixed, and where photon energy all converts to dark
+  matter and gravity (that conversion is the definition of slab against spacetime); *the zero-dimensional
+  tessellation* of Klein stores at the center, where nothing moves, each store intact or not, ones and zeros.
+  Where there is movement, gravitational energy keeps being applied against the tessellation.
+- **Like-handed repulsion** exists wherever there is movement.
+
+What checks out against the record: the three layers of a black hole (step 8: outer shell three-dimensional,
+inner shell two-dimensional, the knot), with her 4 November center-is-the-set. What changes, a definition: step 1
+says of the slab "nothing can move; matter cannot get through it"; now dark matter and gravity do move through
+the slab, and it is matter and photons that cannot. Her words to reword (owed 7).
+
+What it says for the toy, exact: (1) The sheet of squares is the slab. On it "room" (an empty square beside a
+pair, our stand-in since T97) does not exist: photons need cubes, and the sheet has none, so a pair never cancels
+into light there; the photon energy becomes dark matter instead. The moves with room switched off were run as a
+look (`sandbox/LOG.md`, 5 November): with no cancellation and no drift the stores per pair rise from the sheet's
+one in five to about two in three (0.61 to 0.78 once the ledger packs the sheet, both hands equal), not to one:
+a third of the halves are left with no same-hand neighbour and, with no drift, nowhere to go. Her "a failed pair
+makes two stores of opposite sign" (4 November) needs the drift to be complete; the look without it stops short. (2) The drift brief's choices are answered in part by her words: the pull is
+toward the center of the rod along a spiral whose sense is the hand's (choice 1 and 2); a like-handed repulsion
+exists while there is movement (choice 3); cancellation does not happen in the slab at all (choice 4). What is
+still hers: the form of the repulsion against the pull, and where on a flat sheet the rod's center is (the
+sheet has no center; a marked square, or the opened tube's axis, would be a stand-in of ours).
+
+Published neighbours, general knowledge, to verify: the inner regions of a rotating black hole (an inflow with a
+sense of rotation set by the spin); a vortex line; for "ones and zeros at the center", the it-from-bit reading
+of a horizon's information (Wheeler; the Bekenstein-Hawking count of a horizon's states), a target for a count,
+not a confirmation.
+
+## 5 November 2026: the refinement confirmed; twist and curl as laws, the slab as the plane (hers, verbatim, chat)
+
+"slab "nothing can move; matter cannot get through it". By your words today dark matter and gravity do move
+through it, and it is matter and photons that cannot. Yours to reword, added to owed item 7. Yes today's words are a
+refinement as we clarify definitions of the curled slab and the 0d locality.
+
+Also, I was previously saying that 2 degrees of freedom is twisted and curl, they are the fundamental building
+blocks. But then I was saying well we shouldn't use a plane to think about them. Now I think that 2d can also be
+represented as the curled slab which is akin to a point moving across a plane, by sweeps not time of course. So
+everything emerges from twist and curl but they are just ideas, laws, one of their shadows is this spacetime loop
+an observer can evolve in, and we can understand them through our measurements of their effects but they don't
+exist, they are just math, just laws"
+
+Ours, the same day (rule 21). Confirmed: today's words on the slab and the zero-dimensional locality are a
+refinement of step 1, hers to reword (owed 7).
+
+The second part, read against the record. What stands: step 1 already says the base has two degrees of freedom,
+curl and twist, and that points and links are a way of describing the space that emerges. What she brings back,
+in part: `WITHDRAWN.md` holds "'The 2D phase' read as the paper-1 flat sheet → the 2D phase is the two degrees of
+freedom, twist and curl, not a sheet (U148)". Her words today keep that (the two degrees of freedom are the
+fundamental things) and add that the curled slab, squares moved across by sweeps, is a *representation* of them,
+"akin to a point moving across a plane". Read as: a representation, not the thing; the withdrawn line is not
+reversed, only narrowed, and she is the one bringing it back, so no question is owed. "By sweeps not time" is the
+toy's own clock (the count of accepted moves; the toy has no time, GLOSSARY).
+
+The last part is a statement about the status of the claim, hers: twist and curl are laws, not things; spacetime
+is one of their shadows, the one an observer can evolve in; we know them only through measured effects. Recorded
+in HYPOTHESIS as a refinement of 5 November; it changes no definition and nothing can be measured from it. Nearest
+published positions, general knowledge, to verify: structural realism (the laws and relations are what is real),
+Tegmark's mathematical universe hypothesis (reality is mathematical structure), and Wheeler's it from bit; and the
+oldest, Plato's shadows. Named as neighbours, not endorsements; the record keeps her claim about reality hers.
+
+## 5 November 2026: "add the targets" (hers)
+
+Added to `docs/design/reality_targets.md` as targets 15 to 17: the count of a black hole's states (one bit per
+4 ln 2 Planck areas; a solar-mass hole about 1.5 × 10⁷⁷ bits, exact arithmetic from the published formula), the
+sense of rotation set by the spin (Kerr, frame dragging), and a vortex line (Helmholtz; the quantised vortex with
+its core). All general knowledge, to verify at the source before any is cited. One thing the first target does
+that the others do not: together with her edge-row billionth (the shell's radius about 2 × 10⁹ lattice units) it
+would fix the lattice unit in metres, a number to be derived once the store count maps to a mass. STATE piece 15
+updated.
+
+## 5 November 2026, evening: many whirlpools, the tube as a cone, layers of one type, a second way to a surplus (hers, verbatim, chat; her photo `sandbox/drawings/2026-11-05_tp_roll_cone.jpg`)
+
+"Your claim: one whirlpool per hand, its direction set by handedness. It could be lots of whirlpools each whirlpool
+could be a single 4xL tube where a dark matter particle is pulled downward by the edge, gravity, basically going
+down in a spiral of the 4 squares, one link per tick "speed" but as it moves closer to the singularity, the force
+keeping right handed from joining with another of its type is overtaken by gravity, merging the dark matter loops.
+I attached a photo of what the place where 2d transforms to 0d using a toilet paper roll. The tp roll is a tube, 4xL.
+Cut the segment of tp roll along its curl seam and open it, it's a parallelogram. A stretched square. Then recurl so
+at one end it is open and flat and another it is curled to a close point. The diagonal loop of dark matter is pulled
+downward toward that closed point. Follows the edge in the direction of its twist. Next door, its antiparticle is
+following a whirl of the other direction. Usually they would combine, but they can't because there would be nowhere
+for the energy released if that happened to go, the plane cannot hold photons. So they keep compacting until the
+right handed loop instead has enough gravity that it can be stored in the creation of a Klein bottle. Then it's
+stuck. But these bottles are crated in a dark matter Klein bottle row , then dark antimatter Klein bottle row. Or
+shell? Then a shell forms of like type layers, stuck tight to the opposite twist layer. At some point, so many layers
+pile up the bottom layer, which is smaller count of dark matter particles than the ring above it because the last
+time it burped, one half of the inner shell went to the new spacetime and one stayed in the black hole. Then those
+rearranged into same type pairs. But these bottles rows above are stuck, so there is a lower pressure in the center
+shell, and when they compact that is a surplus store,
+
+So I want to keep the pole ice for now but explore another approach to surplus creation. This is a bit different
+from the poles creating the surplus, it is different layer types, and it could lead to only matter surplus vs
+alternating matter and antimatter surplus. Then that center with half as many Klein bottles should sum with the half
+row of the last shell involved in the burp to make it even with the alternating layers above. But it is small, only
+half the count it should be considering the next layer ups size. And the final half of the last shell that releases
+its energy in the burp into the new spacetime, that shell is bigger but not whole, due to half that final loop
+opening and then being pulled both by gravity and DNA repulsing force away from the other half leaving a laver of
+dark matter that quickly turns into one loop one twist particle.
+
+This cycle leaves lower density shell inside the higher density layers of shell. How could that affect 3d seeds?"
+
+Ours, the same evening (rule 21). "3d seeds" read as the seeds of the burp, the place where the conversion to the
+three-dimensional phase starts (the record's word in T37 and the glossary: "the seed scan records escape"); marked
+*inferred* until she confirms. Her status words honoured: the poles stay; this is a second mechanism explored beside
+them, so nothing in HYPOTHESIS changes; recorded here and in the drift brief.
+
+**What checks out, exactly.**
+
+1. *The cut tube is a parallelogram only if the seam is helical.* A 4 × L tube cut along a seam that runs straight
+   along it opens into a 4 × L rectangle; cut along a seam that winds round it, it opens into a parallelogram sheared
+   by the seam's pitch. The toy's tubes (`graphity.cqg.torus`) have a straight seam: there is no shift in the
+   identification. A helical seam is a shifted identification, a convention of ours, free to change, and the wiring
+   cannot tell a rectangle from a parallelogram (it has no lengths). One exact constraint: the wiring must stay
+   bipartite (black joins white), and a shift of s links per turn keeps it bipartite only for even s. So her
+   "stretched square" is allowed with a pitch of 2 (or any even number) links per turn, not 1.
+2. *The spiral.* Round a 4-tube, one link round and one link along per step closes one turn in four steps; "one
+   link per tick" is the toy's own clock (a sweep; the toy has no time, GLOSSARY).
+3. *Repulsion far, gravity near.* With the DNA form of the repulsion already in the twist-energies brief,
+   U(r) = u K₀(2r/ℓ) (Neukirch and Marko 2011, read in full), the repulsive force at small r is about u/r; a pull
+   toward a mass M of the Newtonian form G M m/r² grows faster, so the pull wins inside r* = G M m / u and the
+   repulsion wins outside it. Exact for those two forms, neither of which is in the toy yet (the drift look's gravity
+   is a count of neighbours). So "the force keeping right-handed from joining is overtaken by gravity nearer the
+   singularity" is what those two forms give, and the merging radius grows with the mass of the hole.
+4. *No cancellation in the slab* is already the no-room look (5 November): photons 0 everywhere, two stores per three
+   pairs. And without any rule for it, opposite hands sit next to each other among the stores there (like-sign
+   neighbouring 0.07 to 0.41, below one half): the sheet on its own leans toward her alternating layers, not toward
+   layers of one type; rows need the spiral.
+5. *A lower-density center is where the toy can move.* Exact and already in the record (TOY, the rule row): a clean
+   six-link space cannot move under the hard rule by any one, two, three or restricted four switches; motion needs
+   room. So if the center is less dense than the layers round it, the center is the one place the next burp can
+   start. Her question answers itself on the toy's own fact: the seed of the next burp is the remnant of the last
+   one. Published neighbour, general knowledge, to verify: heterogeneous nucleation (a new phase starts at a cavity,
+   a wall or a defect because the barrier is lower there; Volmer and Weber 1926, Becker and Döring 1935; for a false
+   vacuum, Coleman 1977). The toy's own evidence so far: T37 (long tubes) saw many natural seeds, not one; a center
+   with less room than its surroundings has not been set up and is a cheap look (a tube packed everywhere except a
+   loose band, where does the escape start).
+
+**What does not check out, with the fact.**
+
+6. *The closed point* (theory's structure, the toy's four-link rule; not a measurement). On a bipartite wiring every
+   loop round the tube has an even number of links: 4, then 2, then none. A loop of 2 is two links between the same
+   two points, which the wiring forbids. So the toy's tube cannot narrow by degrees; it is 4 round or it is closed.
+   And a closed end costs: by Euler's formula a closed surface with every point four-linked and every face a square
+   is a torus, never a sphere; closing a tube to a point needs faces larger than squares, and the toy's energy
+   prices each missing square at 16 (its uncurl term). The paper cone's smooth taper is a picture of a continuum;
+   the toy's version of "curled to a close point" is a capped 4-tube with a fixed price at the cap. That is also
+   where her zero-dimensional locality would sit: not a point of the lattice but the cap, which is what the toy
+   charges for. The taper of the whiteboard drawing (a definition, hers) stays as the continuum picture; on the
+   wiring it is a cap.
+7. *Half the count.* Nested rings of a square lattice have 8n squares in ring n, so neighbouring rings differ by a
+   factor (n − 1)/n, near one for large n; a ring with half the count of the one outside it is not geometry, it is
+   the burp's split, as she says. Then "half the center plus half the last shell" makes about one whole ring only if
+   the two shells were about the same size, which for large n they are. Exact arithmetic on her rule, no objection.
+8. *Whose surplus* (a question, not an objection). The toy's one-to-one rule keeps net twist zero on the sheet
+   (T105). If the center keeps one hand's stores, the hand that left in the burp carries the opposite surplus into
+   the new spacetime. In this picture the burp's partner is the hole itself; the recorded picture is twin daughters
+   with opposite surpluses and a neutral hole (HYPOTHESIS section 8). Hers to say whether the twins sit downstream
+   of this or the layer mechanism replaces them; both are held for now at her word. Which hand the center keeps is
+   what decides "only matter" against "alternating": if it is fixed by the hole's sense of rotation (target 16),
+   every burp's surplus has the same sign; if it is set by which layer is innermost, it alternates.
+9. *"A layer of dark matter that quickly turns into one loop one twist particle."* In the reader
+   (`twist_energy.py`) the dark particle is one diagonal with a half twist and the electron is three diagonals with
+   a whole twist; a one-loop whole-twist object is the Klein store as defined (two halves on one diagonal). If she
+   means something that is not a store, it is a new object and needs a line in the definitions box.
+
+**Nearest published model** for the whole picture (general knowledge, to verify): the plectoneme (Neukirch and
+Marko 2011): a supercoiled strand wound on itself, the superhelix radius set by the balance of a pull (there the
+twist torque, here gravity) against the screened repulsion of like charges; and nucleation at a defect for the
+seed. Nothing here is measured; it is her picture, the exact points above, and the look to run.
+
+Ours, later the same evening: the look ran (`sandbox/loose_band_look.py`, the LOG line of the same evening). On the
+4 × 64 tube at T37's cell, packed except a band of 8 columns with 5 to 21 of its squares removed, the escape starts
+in or beside the band in 58 of 60 replicas (the two exceptions at the lightest loosening), at 10 to 30 sweeps against a median of 610 for the packed tube,
+whose escape starts anywhere. Read for her question: a lower-density shell inside denser layers is where the next
+burp starts, and it starts much sooner than it would in a uniform hole. A look at one size and one cell, not a test;
+if she wants it registered, her prediction in her words for a held-out length comes first (rule 14).
+
+## 5 November 2026, later: "3d seeds" confirmed; the twins kept; a seed on each face of the torus? (hers, verbatim, chat)
+
+"read "3d seeds" as the seeds of the burp confirmed.
+
+may shift by two links per turn, or any even number, but not one.-okay.
+
+nt four-linked and every face a square is a torus love it.
+
+I do really like the twin daughters let's try to keep that, maybe a seed is one the inside face of the torus and one
+on the outside? Help me with this. Can the nearest published mode help?
+
+Proceed w cheap look if relevant."
+
+Ours, the same evening (rule 21). Confirmed and recorded: "3d seeds" are the seeds of the burp (the *inferred* mark
+comes off); the even shift and the torus fact accepted. The twins stay as recorded (HYPOTHESIS section 8: one
+daughter from each curled direction, opposite surpluses, the hole neutral); nothing in HYPOTHESIS changes.
+
+**Her question, read against the toy.** "The inside face of the torus and the outside face" are features of a torus
+sitting in a three-dimensional space; the toy's wiring has no inside and no outside: every point of the 4 × L torus
+is like every other (exact; the wiring is vertex-transitive). The one thing in the toy that can tell an inside from
+an outside is a length on the links (piece 8, the carrier of gravity decided 4 November): a torus with shorter
+links round its inner equator and longer round its outer has an inside. So her twin seeds, one inside and one
+outside, have a home, and it is the lengths, which do not yet enter the escape. Objection kind: theory's structure,
+not a measurement.
+
+**The cheap look** (`sandbox/twin_seeds_look.py`; LOG, the same evening). On the packed 4 × 64 tube the first two
+seeds of the escape, read by T37's rule, with the tube's four columns as its four faces. Every seed spans three or
+all four faces (74 seeds: 16 span three, 58 span four): a seed on the 4-tube is a ring round it, not a spot on one
+face, so "which face" has no answer there. Two seeds came in 33 of 40 replicas, a median of 22 links apart along
+the tube (16 would be uniform), no nearer each other than chance and with no sign to be opposite in. A wider tube
+cannot help: at 6 round the toy's reading calls every point sheet from the first sweep (the curl is the 4-cycle;
+a 6-cycle closes no extra square), so the 4-tube is the only tube the toy has. Seen: the toy has twin seeds in the
+sense of two separate seeds along the tube, but nothing that makes them a pair, and no face for either.
+
+**Can the nearest published model help?** Two, both general knowledge, to verify at the source:
+
+1. *The Hawking pair* (Hawking 1975; the tunnelling reading of Parikh and Wilczek 2000): a pair is made at the
+   horizon, straddling it; the two have opposite sign; one falls in and one escapes; the hole's books balance. That
+   is her twins with the hole neutral, and it puts the pair exactly where her layer picture put the seed: at the
+   boundary between the loose centre and the dense layer, which in the pair picture is the horizon. What it gives
+   her: a rule for which hand stays (the inner partner) and which leaves (the outer), set at the boundary rather
+   than at a pole. Where it differs from her twins: in Hawking's picture only one of the pair escapes; her twins are
+   both new spacetimes. So the published model fits "one inside, one outside" with the inside one staying in the
+   hole, which is her evening picture (the centre keeps one hand) more than it is the twin daughters.
+2. *Pair production in a field* (Schwinger 1951): a strong enough field makes pairs of opposite charge that fly
+   apart along the field. Her gravity-against-repulsion crossover (the notebook, the same evening) is a field; the
+   pair flies apart along it. Same shape as 1 without a horizon.
+
+Neither is a confirmation; both are targets (rule 13). The reconciling reading, ours and unverified: the twins are
+the two hands of one pair made at the boundary; one daughter is "inside" in the sense of the hand the hole keeps and
+one "outside" in the sense of the hand that leaves; the two curled slabs of step 1 are the two sides of that
+boundary. Whether both leave (twins) or one stays (the Hawking shape) is hers to decide, and is the question left
+open in the morning's entry.
+
+**What would make it a test.** Not the 4-tube. Lengths on the links with an inner and an outer equator, then the
+escape run with the lengths entering the energy (α, T84 and T100), and the count of seeds on the short side against
+the long side; her prediction in her words first.
+
+## 5 November 2026, later still: the Hawking pair questioned; the twins are whole universes; her prediction (hers, verbatim, chat)
+
+"Great! but we wouldnt expect that to give inside a black hole a net of one type or the other, would it? is the
+radiation a black hole gives off something?
+
+[on "the twins are the two hands of one pair made at the boundary"] the twins are entire universes not just halves
+of a pair, can u clarify?
+
+[on "your prediction in your words comes first"] clarify, my prediction is that when all the factors are correctly
+included we gt our twin universes and burps and new spacetimes"
+
+Ours, the same evening (rule 21; all physics general knowledge, to verify at the source).
+
+1. *No net of one type inside from the pair.* For a neutral non-spinning hole the radiation is thermal, particles
+   and antiparticles equally; the no-hair statement (mass, charge, spin only) means matter-against-antimatter is not
+   something a hole keeps, so a hole can take in matter and give back both kinds equally. Objection kind for "the
+   inside keeps a net of one type by itself": measurement. The opening: the two signed hairs are shed
+   preferentially, a charged hole its own sign of charge (Gibbons 1975), a spinning hole its own sense of spin
+   (Page 1976; superradiance), so a hand mapped to spin (target 16) is carried off with a net sense.
+2. *The radiation is a prediction, not an observation.* Hawking 1974; T = ħc³/(8πGMk_B): 6 × 10⁻⁸ K for one solar
+   mass against the 2.7 K sky, so every known hole absorbs more than it emits; the content for a stellar hole is
+   light and gravitational waves, heavy particles only from a hole hotter than their mass; seen in laboratory
+   analogues (a sound horizon in a cold gas, Steinhauer 2016), never from a black hole.
+3. *The twins are whole universes*, as HYPOTHESIS section 8 says; nothing changed. "Two hands of one pair" was
+   bookkeeping only: the daughters' surpluses are made together and opposite, as a pair's signs are, which in the
+   toy is the one-to-one rule; the daughters are the two places the signs are sorted into. The analogy carries no
+   more; it does not give two escaping universes.
+4. *Her prediction* is recorded above in her words as her claim about reality. It cannot stand as the prediction
+   for a run (rule 4, rule 11): no outcome could count against it. The lengths test needs one sentence that could be
+   wrong, for example "the seeds start on the short side of the torus more often than on the long side", with a
+   number for the share at the held-out size; the direction is hers, the number may be marked inferred.
+
+## 5 November 2026, night: her prediction for the lengths test (hers, verbatim, chat)
+
+"the seeds start on the short side of the torus more often than on the long side, yes."
+
+Ours, the same night (rule 21). Recorded as her prediction, in her words, for the test named the same evening: a
+torus whose links are shorter round its inner equator than round its outer, the escape run with the lengths in the
+energy, the seeds counted on each side. Read as: "the short side" is the inner equator, the side with the shorter
+links; "the long side" the outer. (If she meant the torus's 4-cycle against its length L, say so: that reading is
+already answered by the twin-seeds look, where every seed wraps the 4-cycle.)
+
+**Why it cannot be registered tonight** (exact, from the code): the toy's lengths (`graphity.lengths`) are not a
+setting. They are relaxed from the curl, each link's length set by its own curl through the one constant α, with
+uniform scaling a zero mode set to zero mean; and they live on the six-link cubic torus, not on the four-link tube
+where the escape is measured. So the toy has no short side to start from: a torus with an inner and an outer
+equator needs a background length profile put in by hand (an imposed δ on each link, shorter round one equator), and
+a term that lets the curl feel it (the natural one is α Σ|c_e| δ_e over the background, the same coupling the brief
+already uses, now against a fixed field as well as the relaxed one). Both are ours, a convention and a structure
+choice; neither is in the code. The build: (1) a background profile on the 4 × L tube (choice: which direction is
+the equator on a tube, since a tube's two equators are its two ends joined; the plainest is a profile along L, short
+in one half and long in the other), (2) the coupling term in `cqg.run_chain` or a slow exact chain beside it, (3)
+the escape look of this evening rerun with it, seeds counted on the short half against the long half. Registration
+as the next free number once the build exists and she has accepted the two choices (rule 20: her answers read back
+as one set).
+
+**Her prediction, as it would be scored:** the share of first seeds on the short half above one half, at every
+size, with the held-out size written before the run. Ours, said so it can fail: with α < 0 (her sign; links lengthen
+near curl) a short-link region is where curl is cheapest to lose, so the seed should start on the short half; if the
+coupling is weak the share stays at one half. A number for the held-out size waits on the smaller sizes (rule 14).
+
+## 5 November 2026, night: "Why is there a short half again?" (hers)
+
+Ours (rule 21). Because we put it there: the short side was our stand-in for the inside of a torus (the ring nearest
+the hole, where going round is shorter), proposed because a length on the links is the one handle in the toy that
+could mark an inside; the wiring cannot. Not in her picture; hers to drop. Her layer picture has an inside already:
+the loose centre inside, the dense layers outside, which the loose-band look set up, and there the seed straddled
+the boundary (60 to 76 % of its new points in the band, the rest outside), where the Hawking pair also sits.
+Offered: read that look again for whether the inside and outside parts of the seed are separate pieces and grow
+apart; if she prefers it, the short half is withdrawn as a stand-in and her prediction is restated against the
+boundary.
+
+## 5 November 2026, night: four-link or six-link; the short side; the inside dropped; a foot on each side (hers, verbatim, chat)
+
+"whole thing lives on the six-link cubic torus, - I thought we were using 4 link ?
+
+Okay the short part is fine - so it's the short of the 4 links that make the tube or 6 or just comparing it to the
+long direction? I thought that the smaller inside of a torus was a drawing convenience and they were all actually
+the same size squares?
+
+Yes the inside outside idea was not well thought out.
+
+One seed on the boundary with a foot on each side is strong if the math works seems more simple. Is that an
+alternative to lengths?"
+
+Ours, the same night (rule 21).
+
+1. *Four-link and six-link.* Both are in use. The four-link torus (four links a point) is the two-dimensional
+   phase: the sheet, the tube, the curl state, the pair moves, the escape. The six-link cubic torus (six links a
+   point) is the three-dimensional phase: the knots, light's delay, and the lengths of piece 8 (T84, T100). The
+   lengths were built on the six-link space only; that is why they would have been a build on the tube.
+2. *The short side.* Neither the 4 nor the 6, and not the long direction: it was the inner ring of a torus drawn
+   in space against its outer ring. She is right, and the toy agrees: every square of the toy's torus is the same
+   size, the torus wraps like a flat sheet with its edges joined, and the small inside of a drawn torus is a
+   convenience of the drawing. Exact, general knowledge: a torus with all squares equal (the flat torus) cannot sit
+   in ordinary three-dimensional space without stretching; any torus that does sit there is curved inward on its
+   inside and outward on its outside (Gauss). So the short half was our stand-in for a feature the toy does not
+   have. **Withdrawn as a stand-in**, ours; her prediction of the same night is restated below against the boundary.
+3. *A foot on each side as the alternative to lengths.* Yes. It needs nothing but the wiring's density, which the
+   toy already has, and the look ran (`sandbox/boundary_feet_look.py`; LOG). On the loose-band tube (k = 4, 20
+   replicas), at the escape the seed has a foot on each side of the band's boundary in 15 of 20 replicas and in all
+   20 from 200 sweeps on; the two feet are joined through one connected piece of sheet in 5 of 20 at the escape,
+   17 of 20 at 200 sweeps and 19 of 20 at 500; the inside foot fills the band and stops (median 9 then 13 of its 32
+   points) while the outside foot keeps growing (2, 4, 11, 17 points). Seen: one seed, straddling the boundary,
+   its inside part finishing and its outside part growing into the packed tube. A look at one size and one cell;
+   past about 500 sweeps the packed tube begins to escape on its own (the control's median is 610), so later
+   times would mix in other seeds.
+4. *Her prediction restated against the boundary*, hers to confirm in her words: the escape's seed straddles the
+   boundary between the loose centre and the dense layer, with a foot on each side, the inside foot stopping at
+   the centre's edge and the outside foot growing. Scored, when registered: the share of replicas with a foot on
+   each side at a fixed time after the escape, above one half at every length, the held-out length written before
+   the run; and the outside foot's growth against the inside foot's.
+
+## 5 November 2026, night: the doughnut can be there; show me the shape (hers, verbatim, chat)
+
+"the short half was a stand-in for a feature the toy does not have - okay, I do think a 2d doughnut torus can be
+there, even placed between the center rod and the outer whirlpools, the rod is tighter and connects to more 2d
+stores per 3d spacial area where photons can move. But if it was actually wrong then of course withdraw.
+
+But the alternative one foot on each, can you describe or show me the shape we are thinking about?"
+
+Ours, the same night (rule 21). The withdrawal was narrower than it sounded: what went was the *shorter links* as a
+stand-in, not the doughnut. Her doughnut, a torus sitting in three-dimensional space between the rod and the
+whirlpools, has an inside, and her word for what makes it an inside is "tighter": more two-dimensional stores per
+unit of three-dimensional space. That is a density, not a length, and density is what the toy has (squares present
+or missing, stores per region); so her inside can be put into the toy as a denser region, which is the boundary
+look's own handle. Nothing withdrawn there. One question for her to answer as one set (rule 20): the evening's layer
+picture has the centre at *lower* density (half count, lower pressure); tonight the rod is *tighter*. Is the rod the
+tight thing and the loose remnant something inside it, or are the two words for the same centre, which then cannot
+be both?
+
+The shape, shown from the toy's own states (replica 8 of the boundary look, nearest the median; three frames at the
+escape, +200 and +500 sweeps): one patch of opened space on the boundary between the loose band and the packed
+tube, a foot inside that fills the band and stops at its edge, a foot outside that keeps growing into the packed
+tube, the two joined through the loosened points they grew from. Not two seeds; one seed with one-sided growth.
+Page: https://claude.ai/artifact/URzNMkJ3JacHett3woRLxy (private; our drawing from the toy's states). No sign anywhere; the escape does not know matter
+from antimatter.
+
+## 5 November 2026, night: "What is a new sheet point?" (hers)
+
+Ours (rule 21). A point the toy reads as flat sheet that did not read so right after the loosening. The reading
+(`graphity.dimension.local_dimension`, T37's): of the six pairs of a point's four links, how many close no square;
+zero on a cube, one on the packed 4-tube (the 4-cycle round the tube closes an extra square), two on a flat sheet.
+A point reads as sheet once the switches round it have broken the tube's extra square. "New" sets aside the dozen
+or so band points that the loosening's own switches made read as sheet before any sweep (hatched in the drawing);
+the seed and its feet are the rest. Points do not move; a new sheet point is a point whose wiring now looks like a
+sheet's instead of a tube's.
+
+## 6 November 2026, small hours: the density answered; the feet as opposite kinds; the collar of stores (hers, verbatim, chat)
+
+Her answer to the density question of the night before (the three options are in chat; the third was "tighter is not
+density: the rod holds more 2D stores per 3D volume because its curl is sheet-like, not because more squares are
+closed"):
+
+"Evening picture: the burp's cycle leaves a lower-density shell inside the higher-density layers. The loose-band look
+modelled exactly that: a loose band in a packed tube, and the escape started there, with the seed's inside foot in the
+loose region and the outside foot growing into the dense layer
+
+inside foot stops at the loose centre, outside foot grows.- so the outside foot is surplus matter, opposite type to
+the inside foot which would have been the edge of the outside foot in the previous burp. This seems like the most
+simple thing, how does it sit with accepted science?
+
+2D stores per 3D volume because its curl is sheet-like, two-dimensional, not because more squares are closed.
+
+the rod and the outer whirlpools I think are 3d, there is movement of dark matter. The dark matter is pressed against
+the torus that collars the rod. It can layer on and create stores by combining into a ring of same handed Klein
+bottles. Which are non moving while the dark matter particles can still move, connecting on the same edges. The point
+tip of the curled slab."
+
+Ours, the same night (rule 21). **Read back as one set (rule 20):** (a) the centre is the loose remnant of the last
+burp, and "tighter" means sheet-like, not more closed squares, so the toy's loose region and her tight rod are one
+thing seen from two sides; the drafted boundary prediction stands as written. (b) New rule, hers: the two feet of one
+seed carry opposite kinds; the outside foot is the surplus of the daughter, and the inside foot carries the kind the
+previous burp's outside foot carried, so successive burps alternate the surplus. (c) The rod and the outer whirlpools
+are three-dimensional; dark matter moves there; a torus collars the rod; dark matter pressed on it layers into stores
+by joining into a ring of same-handed Klein stores, fixed while the particles still move; "the point tip of the curled
+slab" is where (to confirm: the tip is the loose band, or the rod's end?).
+
+**What checks out in the toy (exact, from the code).** A store cannot move and cannot cancel (`curl_pair_moves`, her
+rule of 4 November): "non moving" is already built. A seed with a foot on each side of the loose band is what the
+boundary look showed (LOG, 5 November).
+
+**What the toy does not yet have (theory's structure, ours, not a reason to resist).** Which foot carries which kind:
+under the present moves the kind of each new pair is a seeded coin (`make_pairs`, marked ours in the module's head),
+so no foot has a kind and no burp remembers the last one; her rule (b) replaces that coin with a rule set by the
+boundary and by the previous burp, and needs a second burp on the same wiring, which the toy has no move for (nothing
+re-curls a sheet; the escape runs once). Rings of stores: the look `sandbox/store_rings_look.py` (LOG, the same
+night) read T105's stores by sign at side 16: 1115 stores in 888 same-sign clusters, 731 of them single squares, the
+rest chains of 2 to 7, no ring and no clump at any lambda or barrier. Under the present join rule a store is a flag on
+one square with its partner emptied, so stores sit apart; a ring needs a rule that joins stores to stores. Moving dark
+matter: the sheet has no motion move at all, and dark matter (step 5, the face-diagonal half twist) lives on the
+six-link phase; "particles still move while the stores stand" has no reader yet.
+
+**How (b) sits with accepted science** (general knowledge, to verify; the reading note of the same night,
+`docs/reading/notes/2026-11-06_prior_work_alternating_surplus.md`, lists what was searched):
+
+- *Measurement, the number her rules must reproduce:* the surplus in our universe is one baryon left per about 1.6
+  billion photons (eta = 6.1 x 10^-10, Planck 2018). So "the outside foot is surplus matter" cannot mean the foot is
+  all matter: the foot is almost all pairs that cancelled into light, with one in a billion or so left over. Her rule
+  that pairs cancel where there is room already has that shape; the number is what a test must meet, and nothing in
+  the toy gives it yet (T105: net twist zero, both signs equal).
+- *Measurement, on alternating layers:* if a matter foot and an antimatter foot touch inside one daughter, the
+  boundary annihilates and glows in gamma rays; the sky shows no such glow, so any antimatter region in our universe
+  is larger than the part we can see (Cohen, De Rujula and Glashow 1998). Her picture passes if one daughter is one
+  foot, and fails if a daughter holds both.
+- *Published neighbours, the shape of (b):* Sakharov 1967 gives the three conditions for a surplus (a number-changing
+  process, a preference between the kinds, and a departure from equilibrium); her burp is the departure, and her
+  preference is set by the side of the boundary rather than by a law, with the twin taking the opposite, which is the
+  shape of the CPT-symmetric universe of Boyle, Finn and Turok (2018): a universe and an anti-universe on the two
+  sides of the bang, books balanced. The Hawking pair gives the inside partner the opposite of any conserved charge
+  the outside one carries (Hawking 1975; Gibbons 1975). Nearest of all: Poplawski 2011, a surplus from torsion (twist)
+  in a black-hole-bounce universe, to be read before it is cited. Alternation from one cycle to the next has been
+  proposed once (Hajdukovic, 2014 onward), resting on antimatter falling up, which ALPHA-g measured against in 2023
+  (antihydrogen falls down); her form needs no antigravity, so it differs. The search is in the reading note.
+- *On (c), the dark-matter collar:* dark matter piles up round a black hole by gravity alone (the spike of Gondolo and
+  Silk 1999), so "pressed against the torus" has a published form; but dark matter is measured to be nearly
+  collisionless (the Bullet Cluster; self-interaction below about 1 cm^2/g), so it cannot shed energy and settle into
+  a thin layer the way gas does; "layering on by combining" needs an interaction, and the bound limits how strong.
+  Measurement.
+
+**The cheapest next look** that bears on (b): the boundary-feet tube with the curl state put on its squares after the
+escape and her clock run, reading net twist on each foot; under the coin it reads zero on both, which is the control,
+and her rule (b) then needs a form before it can be tried (the plainest: the first pair made across the boundary sets
+the outside foot's kind; everything after follows it). Her form before any run.
+
+## 6 November 2026, morning: one daughter is one foot; the collar captures energy; borrow a pair model; the kind rule accepted (hers, verbatim, chat)
+
+"one daughter is one foot - seems fine
+
+it cannot shed energy and settle into a thin collar the way gas does. "Layering on by combining" needs an
+interaction- it doesn't shed energy it captures it, gravity transforms to chemical potential energy, combining 2 like
+handed matter particles into one Klein bottle that has more mass than its component parts. Gravity is one direction
+so it keeps adding.
+
+CPT-symmetric universe of Boyle, Finn and Turok (2018): a universe and an anti-universe on the two sides of the bang,
+books balance- should we read up on similar models to see if we can borrow one ideally, im struggling with these
+ideas.
+
+the first pair made across the boundary sets the outside foot's kind, and everything after follows it. Seems good."
+
+Ours, the same morning (rule 21). **Read back as one set (rule 20), three decisions of hers:** (1) one daughter is
+one foot (so the annihilation-seam measurement of Cohen, De Rujula and Glashow does not touch her picture); (2) the
+rule for the kind on each side: the first pair made across the boundary sets the outside foot's kind, and every pair
+after follows it; (3) her collar: dark matter pressed on the torus captures gravity's energy by binding two like-
+handed particles into one Klein store heavier than its parts, and gravity, one-directional, keeps adding. Her
+request: read up on the pair models and borrow one. Done the same morning:
+`docs/reading/notes/2026-11-06_cpt_symmetric_family.md`, seven models in plain words with what each lends her and
+where it differs. The recommendation there: borrow the mirror rule of the CPT-symmetric universe, said for her
+picture in one sentence, "the boundary is a mirror; whatever the outside foot carries, the inside foot carries the
+reverse, and the pair together carries nothing"; and read Poplawski 2011 first in full (twist deciding the kind
+inside a black hole, the other kind hidden as dark matter). All general knowledge, to verify at the source.
+
+**On the collar (ours).** What checks out: a store heavier than its parts that lasts is an excited state behind a
+barrier; such things exist (nuclear isomers), and her store "cannot cancel" is the barrier. What her rules must
+reproduce (measurements): gravity can hand a falling particle at most a fraction of its rest mass before the
+horizon (about 6 % for a non-spinning hole at the last stable orbit, up to about 42 % for a maximally spinning one),
+so a store paid by gravity is at most that much heavier than its two parts; and capturing kinetic energy into a
+heavier state is an inelastic, endothermic self-interaction of dark matter, a published family (Blennow, Clementz
+and Herrero-Garcia 2017; Tucker-Smith and Weiner 2001), bounded by the Bullet Cluster at about 1 cm^2/g (Randall et
+al. 2008). Not a reason to resist; the bound is the number a collar model stays under. In the toy the gravity
+counter of T104 and T105 is "a count, not an energy, in this build" (the module's head); her words make it the
+store's extra mass, a change of structure that is hers and is now recorded, not yet built.
+
+**The cheap look on rule (2)** (`sandbox/feet_kind_look.py`; LOG, the same morning). The loose-band tube of the
+boundary look, run 200 sweeps past the escape, then her curl state on its squares and her clock (T105's form, price
+from gravity, B = 12, lambda 1.25) with the coin that places each pair's matter replaced by her rule: the first pair
+whose two squares straddle the band's edge draws the outward kind once (a coin, so that twins of opposite sign appear
+across replicas), and every pair after puts that kind on its square farther from the band's centre. Twenty replicas
+against the coin as control. Seen: with the coin, the two feet have opposite signs in 3 of 20 (chance); under her
+rule, in 13 of the 19 replicas that made a straddling pair, with 1 reversed and 5 at zero, and the outside foot's
+twist in the outward kind's sign in 14 of 20. The size is small: a half to two and a half full twists per foot out of
+128 pairs made, because cancelling is blind to the orientation (a +1 beside a -1 cancels whichever way it faces) and
+nearly all pairs cancel (about 200 of 256 units leave as light). Net twist in plus out is zero in every replica, the
+books balancing (exact). Read as: the rule sets the sign of the surplus and the two feet come out mirror images, as
+her picture and the borrowed rule say; it does not yet set the size, which is one leftover in a hundred here against
+the sky's one in a billion or so; what sets the size is the next question (the room on each side, since the inside
+foot has the room and the outside foot does not).
+
+## 6 November 2026, morning: her two pushbacks on the collar's energy (hers, verbatim, chat)
+
+"A store paid by gravity is at most that much heavier than its two parts. -> I want to push back on this. we are
+talking about within the horizon, where gravity is much stonger and is the only relevant force.
+
+kinetic energy into a heavier state is an inelastic -> is it only kenetic? not potential and angular?"
+
+Ours, the same morning (rule 21). **The first pushback holds, in part.** The cap we gave (about 6 % of the rest mass
+at the last stable orbit of a non-spinning hole, up to about 42 % for a maximally spinning one) is the energy a
+falling body can hand to the *outside* before it crosses the horizon: what an accretion disc can radiate to a
+distant observer. It is outside bookkeeping and does not apply inside. Inside the horizon the published picture
+(classical general relativity, general knowledge, to verify) puts no such cap: the energy that counts in a meeting
+of two falling particles is their energy in their own centre-of-mass frame, and for bodies that fell in on
+different paths it grows as they near the singularity, without a bound in the classical theory (the Banados, Silk
+and West effect of 2009 is the best-known form, for collisions near a spinning hole's horizon). So a store made
+inside may be paid as much as the two particles' meeting supplies, and our cap was an objection of the wrong
+kind: a measurement about the outside, not about where her collar sits. Withdrawn for the inside. The price: no
+measurement reaches inside a horizon; what can be checked is only what comes out (the radiation, and in her
+picture the daughter), so an inside claim is checked by its outside consequences or not at all. **What does not
+hold:** "gravity is the only relevant force." Crossing a horizon changes nothing locally (the equivalence
+principle; a falling observer notices nothing at the crossing), so the other forces act inside exactly as outside.
+Gravity *pays* for the store, by supplying the meeting energy; it does not *bind* the store; binding two like-handed
+particles into one Klein store still needs an interaction between them, which is the point of the published
+family named the same morning (inelastic, endothermic dark matter). Objection kind: theory's structure for the
+binding; measurement for the equivalence principle.
+
+**The second: not only kinetic.** On the way in, the particle's potential energy in the hole's field becomes its
+kinetic energy; that is what arrives at the meeting. Angular motion is kinetic energy too (the energy of going
+round is part of the energy of motion), so it is included; but angular *momentum* is conserved on its own, and a
+store that cannot move must still hold the angular momentum its two parts brought, or hand it to something. In
+the toy that is the twist: her handedness is the toy's angular momentum, and a store of one hand is that account.
+Potential energy between the two particles themselves is negligible for dark matter. One more published point
+(general knowledge, to verify): inside a horizon the quantity an outside observer calls "the energy" is no
+longer conserved as an energy (the symmetry that defines it turns spacelike), which is the formal version of her
+own point that outside bookkeeping fails inside.
+
+Recorded in the reading note of the same morning (`docs/reading/notes/2026-11-06_cpt_symmetric_family.md`), the
+cap now marked as outside bookkeeping.

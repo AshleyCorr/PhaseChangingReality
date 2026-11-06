@@ -134,3 +134,70 @@ record; the current statement is Update 41 and the constraints below.
     at the zeptometre scale is bounded by the Standard Model agreement reported. The one-in-ten-billion rarity is a
     decay fraction and the billion-to-one matter surplus is an abundance; they are different quantities and are not to
     be read together.
+
+## Target added 5 November 2026 (the owner's "Proceed" to a sixth sheet, after Ashley's page)
+
+14. **A preferred direction in the expansion, from an off-centre burp.** *Her claim about reality* (corrected by her the
+    same day, after this was written: the burp is in the rod, the axis, not at a pole; the poles make the unevenness
+    between matter and antimatter; so the direction, if any, is the axis's, and whether Ashley's off-centre snap
+    maps to anything in her picture is hers to say); Ashley's public
+    toy (`sandbox/NOTEBOOK.md`, 5 November; his page, from her drawing `sandbox/drawings/2026-11-05_whiteboard_coil.jpg`)
+    found that an off-centre snap with a tight squeeze and little dark energy leaves the result expanding unevenly, up
+    to 18 % between regions in his standouts. *What the sky has measured* (`docs/reading/notes/2026-11-05_prior_work_anisotropic_expansion.md`,
+    abstracts only, to verify before any number is quoted as a target): a preferred direction in the expansion has
+    been looked for and claimed at modest significance by two groups, both disputed (Migkas et al. 2020, X-ray
+    clusters, about 4 to 5σ toward Galactic (280°, −20°); Colin et al. 2019, supernovae, a dipole in the deceleration
+    aligned with the CMB dipole, isotropy rejected at 3.9σ), and the Hubble tension itself is measured (73.0 ± 1.0 from
+    SH0ES 2022 against 67.4 ± 0.5 from Planck 2018, 3 to 5σ depending on the systematics allowed). *What the model
+    must show*: a birth from one pole of a curled X whose opened space expands at different rates in different
+    directions, with the direction tied to the pole and the size of the difference set by the squeeze (her shell's
+    tightness) and the dark energy (piece 6), predicted before the run and scored at a held-out size. *Now*: nothing.
+    The toy has no expansion rate and no direction yet: the tube opens into a tube six around (O116), empty space
+    grows by whole rows on a steady clock in her picture (step 6) and not at all in the toy; the twin daughters open
+    at the two poles in her words and have never opened in the toy (piece 5). *Missing ingredient, named*: a growth
+    move for empty space with a rate that can differ by direction, and the pole as the seed of the opening. *Cautions*:
+    Ashley's correlations are inside his toy with ten settings randomised and the standouts reported (exploratory by
+    rule 3; nothing scored by rule 13); his toy is plane geometry, which she has said two dimensions here is not. *Next*:
+    the prior-work note's two papers read in full with their rebuttals; then, once a growth move exists, her number
+    in her words for the difference between directions before any run.
+
+## Targets added 5 November 2026 (her instruction "add the targets", after her whirlpool and tessellation words)
+
+All three are general knowledge, to verify against their sources before any is cited in a paper; none is a
+confirmation of anything (rule 13). They are what her center and her inflow would have to reproduce.
+
+15. **The count of a black hole's states: one bit per 4 ln 2 Planck areas of horizon.** *Her claim* (5 November): the
+    center of a black hole is a tessellation of Klein stores, each intact or not, ones and zeros, a zero-dimensional
+    locality. *What is published*: a black hole's entropy is a quarter of its horizon area in Planck units,
+    S = k_B A / (4 ℓ_P²) (Bekenstein 1973; Hawking 1975), so the number of its states is e^S and the number of yes-or-no
+    questions that fix its state is A / (4 ln 2 ℓ_P²); Wheeler's "it from bit" (1990) reads this as information at
+    the horizon; the holographic reading puts the count on the two-dimensional surface, not in the volume. *Exact
+    arithmetic* (G, c, ℏ at their measured values): a one-solar-mass black hole has a horizon area of 1.1 × 10⁸ m² and
+    about 1.5 × 10⁷⁷ bits; ten solar masses, 1.5 × 10⁷⁹; Sagittarius A* at four million solar masses, 2.4 × 10⁹⁰. The
+    count grows as the area, so as the mass squared. *What the model must show*: that the number of stores in the
+    tessellation of a black hole of a given mass equals this count, with the area of the slab's inner surface set
+    by the mass through her rules, and a lattice unit fixed by it (the one-in-a-billion edge row, her 5 November
+    words, puts the shell's radius at about 2 × 10⁹ lattice units; this target would put the same radius in metres,
+    so the two together would give the lattice unit's length: a number to be derived, not chosen). *Now*: the toy
+    counts stores on a sheet whose size is a setting; no mass, no area in metres. *Missing ingredient*: the map from
+    her store count to a mass, which is the twist-energy build (`twist_energies_2026-11-04.md`).
+
+16. **The sense of rotation inside a spinning black hole is set by its spin.** *Her claim* (5 November): photon energy
+    flows in to the center of the rod as a whirlpool, blue right-handed and red left-handed, the preferred direction
+    of flow set by handedness; the poles make the unevenness between matter and antimatter. *What is published*: a
+    rotating black hole is described by the Kerr solution (Kerr 1963); inside its ergosphere nothing can stay still
+    and everything is dragged round in the hole's sense of rotation (frame dragging; Lense and Thirring 1918 for the
+    weak-field form, measured by Gravity Probe B, 2011); the spin of astrophysical black holes is measured from the
+    inner edge of their accretion disks and from gravitational waves, as a fraction of the maximum. *What the model
+    must show*: one sense of rotation for the inflow, set by one quantity of the hole, with the two hands of twist
+    sorted by it, and twin daughters whose surpluses are opposite. *Now*: the toy has no rotation, no spin and no
+    inflow; the drift (`drift_2026-11-05.md`) is the first move with a direction. *Missing ingredient*: the rod's
+    center on a sheet and a spiral pull with a sense.
+
+17. **A vortex line.** *Her claim* (5 November): the drawing is one continuous line spiralling in from all sides of a
+    sphere to the center of the rod. *What is published*: a vortex line in a fluid (Helmholtz 1858: vortex lines move
+    with the fluid and cannot end inside it), and the quantised vortex of a superfluid, whose circulation comes in
+    whole units of h/m (Onsager 1949, Feynman 1955), with a core where the flow stops. *What it offers*: a published
+    object with a hand, a conserved circulation in whole units, and a core with no movement, the three features of
+    her whirlpool. *What the model must show*: a circulation that is conserved and comes in units, with a core.
+    *Now*: nothing. *Missing ingredient*: the same as 16.

@@ -182,9 +182,56 @@ twist and spin under the rules, and the simulation plays out all the options in 
   how length, curl and twist make energy is not known and is not a simple ratio (her correction of 4 November).
 - Dark matter has two sources: the seam's rings and the knots that form later. Which carries the dark matter at
   birth is open.
+- **The center of a black hole is the set of Klein stores sitting together** (the knot; decided 4 November after
+  T105), not one cell; steps 1 and 8 above still say one zero-dimensional cell and are hers to reword. The set
+  comes in different sizes; we are likeliest in the size with the most copies, and that size sets our lambda. A
+  Klein store is two halves joined, static once inside the shell, a yes-or-no; three-dimensional space is the
+  playing-out of 'what if it is not', and each way it could not be is a copy (hers, the same day; nothing measured).
 - A shorter loop holding a half twist is bent tighter than a longer loop holding a whole twist, so it holds
   more energy per loop (her ruler intuition; *ours, textbook, to verify:* elastic-rod energies go as 1 over the
   loop's length, so the direction is right; the rod rule is a stand-in, not her rule).
+
+### Her refinements of 5 November 2026 (hers; verbatim in the notebook; not yet in the wording above)
+
+- **The billionth lives in the inner shell, not on a sheet.** The stores move to the center and form a non-moving
+  shell held together by gravity, right-handed stores concentrated at one pole of the rod and left-handed at the
+  other, tessellated because gravity beats the repulsion of like twists. The seam is round; the edge row is the
+  matter row; circumference over area is the one in a billion, which becomes the net matter when the inner rows
+  split, cancel against opposite-handed dark particles and release photons, which make 1 × 1 × 2 pairs until there
+  is room for light to leave. *Exact:* that ratio sets the shell's size, about 2 × 10⁹ links across its radius; the
+  boundary row's share is T97's measured form, 1/R. **The halves drift under gravity before they join** (decided
+  5 November); a store, once joined, cannot move (4 November). The toy has no drift move yet.
+- **A store holds much more than four dark particles' energy** (her expectation; the linear rod's 4 is too low; the
+  force between like twists grows at close range). The 0.170 MeV of a one-diagonal loop is the count rule's number
+  and is not confirmed for the dark particle. No form given yet.
+- The tube six around is the toy's product, not her inner shell; two dimensions here is not plane geometry.
+- **X tapers** (decided 5 November from her whiteboard drawing, `sandbox/drawings/2026-11-05_whiteboard_coil.jpg`):
+  the stacked rings of the curled slab get smaller toward one end, a taper, not a rod between two equal slabs;
+  step 1's wording is hers to revise. Whether the chain of loops through the center has loops between the rings,
+  and whether the end ring is closed, are drawing conveniences unless she says otherwise.
+- **The burp is in the rod, not at a pole** (her correction of 5 November). The poles make the unevenness between
+  matter and antimatter. Steps 2 and 3 above say "at one pole" and are hers to reword.
+- **The rings are whirlpools, not loops**: photon energy flowing in toward the center of the rod, blue clockwise
+  and red counterclockwise (the two hands). In the whirlpool every kind of energy becomes dark-matter Möbius
+  strips; at the very center nothing moves, and the Klein stores tessellate into the zero-dimensional space, each
+  intact or not; the binding energy of the intact ones releases into three dimensions, which simulate the copies
+  of all that could play out if they were not intact. The drift of the halves (above) therefore has a shape: a
+  spiral toward the axis, each hand turning its own way (hers, 5 November; nothing measured).
+- **Not rings: one continuous line spiralling in** from all sides of a sphere to the center of the rod (her
+  correction of 5 November). **Three regions, defined by movement** (hers): spacetime has cubes, so matter and
+  photons move; the curled slab is a sphere of squares only, where only dark matter and gravity move, twist and
+  curl fixed, and all photon energy converts to dark matter and gravity (that conversion is what makes it the
+  slab); the zero-dimensional tessellation of Klein stores at the center, where nothing moves, each intact or
+  not, ones and zeros. Like-handed twists repel wherever there is movement. Step 1's "nothing can move; matter
+  cannot get through it" is hers to reword: dark matter and gravity move through the slab; matter and photons do
+  not. *Exact, in the toy:* on a sheet of squares there is no room for a photon, so no pair cancels there; with
+  room switched off about two stores form per three pairs and the rest of the halves wait for the drift (the look of
+  5 November).
+- **Twist and curl are laws, not things** (hers, 5 November). Everything emerges from them; they are ideas, laws,
+  known only through measurements of their effects; this spacetime loop, the one an observer can evolve in, is one
+  of their shadows. The curled slab, squares moved across by sweeps and not by time, can represent the two degrees
+  of freedom, as a point moving across a plane represents them; a representation, not the thing (the withdrawn
+  reading of the 2D phase as a flat sheet stays withdrawn). A statement of the claim's status, not a definition.
 
 ---
 
@@ -270,7 +317,7 @@ twist and spin under the rules, and the simulation plays out all the options in 
   other); a cancelling pair leaves as two photons; with nowhere to go the energy joins two same-twist one-sided
   half-twist curls into one two-sided full twist in a √2 **Klein store**, which cannot move, collects photons of
   matching spin, and pays the barrier plus the λ cost; λ sets the number of pairs and the freeze sets the
-  surplus. **Written as moves on 4 November** (`graphity.curl_pair_moves`; her decisions that day: twist is not a second number, a store is a flag of two halves joined; the store's price comes from gravity, one-way, never spent; room is judged for every pair at the same instant). Measured (T105): on a sheet, stores form once the release packs it and their number rises with λ, her prediction. Measured so far (T97):
+  surplus. **Written as moves on 4 November** (`graphity.curl_pair_moves`; her decisions that day: twist is not a second number, a store is a flag of two halves joined; the store's price comes from gravity, one-way, never spent; room is judged for every pair at the same instant). Measured (T105): on a sheet, stores form once the release packs it and their number rises with λ, her prediction. The stores sitting together are her knot (decided 4 November), two-dimensional on the sheet. Measured so far (T97):
   under her first pair rules on a sheet a surplus grows with λ up to a full curl and then stays, and its share of
   the gross is the boundary row's, 1/R, so the Klein store needs a region with no room. Exact (T102): the toy's
   Klein relative of the tube is a strict dip behind a wall of about 21, carrying one double column's energy,
