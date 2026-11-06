@@ -1398,3 +1398,34 @@ What already fits without change: the centre as the set of stores (4 November); 
 (5 November: cubes outside, squares in the slab, stores where nothing moves); the tight rod as sheet-like
 (6 November, morning); one daughter is one foot; the kind rule at the boundary; the loose-band tube as the
 doughnut unrolled.
+
+## 6 November 2026, late night: does curve-first gravity still align? (hers, verbatim, chat)
+
+"gravity as space's own drive to curve, with matter supplying the energy that starts it. does this still align w
+theory?"
+
+Ours, the same night (rule 21). The sentence is the guide's summary of her "curve-first gravity" (HYPOTHESIS, Part
+2, Gravity: space has its own drive to curve; matter supplies the energy that starts the curve rather than causing
+it; wherever Einstein's account has been measured, hers must give the same numbers). Checked against her decisions
+of this week:
+
+**Aligned.** (1) In the toy the drive is built in: the published square reward is space's own pull toward closing
+its squares, and the lengths relax from the curl at no cost (4 November, the carrier); matter's curl is what the
+lengths answer to. (2) The collar (6 November): gravity carries dark matter in and pays the bond energy of a
+store. The energy it pays is the falling matter's own, potential turned kinetic on the way in, then locked into
+the store's extra mass with zero degrees of freedom. That is "matter supplying the energy" in her sentence, with
+gravity as the converter, and it keeps step 7 (the books balance) provided "gravity keeps adding" means it keeps
+locking matter's energy into stores, not making energy. Her 4 November stand-in, the gravity counter "never
+spent", is then the locked bond energy, which is what her words of this morning made it. Aligned, on that
+reading; hers to confirm the reading.
+
+**One tension, theory's structure, hers to resolve.** Step 8 and the Gravity definition say gravity is carried on
+the cube edges, "three-dimensional only", and the toy's lengths live only on the six-link wiring (exact; the
+module has no four-link form). Her words of 5 and 6 November have gravity moving dark matter "along the plane
+carried by gravity on the square edges" inside the two-dimensional slab. Either gravity also lives on the square
+edges in the slab (then the lengths need a four-link form, buildable), or what carries dark matter in the slab is
+something other than the lengths (her drift, decided 5 November, whose form is still open). Not a measurement,
+not a reason to resist; one of the two is needed before the drift is built.
+
+**Unchanged by the week:** the measured side (T84: attraction half, light delayed past a knot; T100: one alpha not
+yet shown; T101: the toy's own clock runs the wrong way near a knot). The time half is still missing.
