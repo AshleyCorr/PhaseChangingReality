@@ -1500,3 +1500,10 @@ nonzero twist); "the outside foot larger than the inside at a fixed 500 sweeps" 
 words "the outside foot grows and the inside foot stops" are better scored on growth, which reads 0.80, 0.90, 0.85,
 0.70; that is T109 when she gives her words. The size ratio falls with length, 0.021 to 0.0088; its trend is T108.
 Owed from her: her words for T108 and T109.
+
+## 6 November 2026, night: "pleas create plain english walkthroug and draft email to ashley" (hers, verbatim, chat)
+
+Ours, the same night. Written: the plain-English walkthrough, a Claude document with the three drawings and a copy
+of its text at `docs/WALKTHROUGH.md`, for a reader with no physics background; it says which parts held on the toy,
+which failed, and that no physicist has reviewed any of it. The email is a draft in chat for her to send; nothing
+was sent, and nothing of his correspondence is quoted or paraphrased in any tracked file.
