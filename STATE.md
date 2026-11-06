@@ -16,7 +16,7 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
 | **7. The scrap** | Measured: three kinds of knot of fixed energy, their number set at the opening; the loop rules fixed and the four test particles pass; a one-sided dark loop exact at half the neutrino's cost; curl and anti-curl built as a state on the squares; the knots' share of the release is λ-free; the Klein relative is a knot of fixed energy behind a wall of 21 (T102); her two kinds built as moves (4 Nov): on a flat torus the ledger is spent on pairs before any store can be paid, so no store forms, while the same-sign curls left with no room rise with λ (T103); the same with the price from gravity (T104); the cause is the sweep's order, ours; under her clock (room judged all at once) stores form once the release packs the sheet and rise with λ, held-out size held (T105); the stores sit as singles and short chains, no ring (a look, 6 Nov); the bond that holds a store has 't Hooft's form, energy linear in separation, its constant to calibrate (6 Nov). | 2, 3, 7, 18, 19 |
 | **8. Curve-first gravity** | Carrier decided 4 Nov: the edge lengths; 6 Nov: gravity acts in two and three dimensions (cube edges are square edges), light only in three, so the lengths need a four-link form (exact derivation, ours, before the drift). Exact: the curvature's stiffness in the lengths is gapless; measured: two knots' joint energy falls as they approach and light's path lengthens (T84); α drifts between knots (T100); the move count as a clock runs faster near knots (T101). The time half is open: the longer path is the space half of the delay only. | 9, 10, 11 |
 | **9. Quantum** | Counting alone cannot beat Bell; the published amplitude rule is adopted and checked in an exact toy; "the options" are copies; Carroll's reader reads geometry only, and a window with her matter reads differently (T94, T98). | 13, 19 |
-| **10. Time and the speed limit** | The toy has no time; its move count ticks only near knots and stands still in open space (T101); soft space's waves have one speed. T101 Amendment 1 (λ = 1, planted knot) ran overnight and is **unread**. | 14 |
+| **10. Time and the speed limit** | The toy has no time; its move count ticks only near knots and stands still in open space (T101); at λ = 1 with one planted knot the same, FASTER NEAR KNOT in every cell, open space never moving where the knot healed (T101 Amendment 1, read 6 Nov): the setting was not the cause, and the move count is a clock of activity, not of proper time. Soft space's waves have one speed. | 14 |
 | **11. Black holes** | Her picture (5 to 6 Nov, confirmed): the curled slab is a doughnut of squares (exact: a four-linked closed surface of squares is a torus), its inner rim of Klein stores the collar, its hole's axis the rod, three-dimensional, dark matter moving in it; three regions by movement; the loose remnant of the last burp sits at the rim and the next seed starts there (T107). Nothing folds from energy alone (T34, T57); the stores do form from energy where there is no room (T105), but not yet under gravity's squeeze, which is not built on the sheet. Open, hers: the two slabs against one doughnut; the taper. | 12, 1 |
 | **12. The strange loop** | The measure fully specified and computed; under her unit every stellar class is typical; the loop as a fractal. | 16 |
 | **14. Observers inside the loop** | "When we are" depends on who is counted; the observation window is the load-bearing term; not scored on our age. | none |
@@ -24,13 +24,8 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
 
 ## Running, and to read first
 
-- **T101 Amendment 1** (archive: `configs/t101a_clock_knot_lam100.json`, `scripts/run_clock_knot.py`): the clock
-  at λ = 1 with one planted knot in a 32 × 32 sheet, g = 1.0, 1.5, 2.0, three replicas each. Finished on the
-  laptop the morning of 4 November; all nine replicas ended at least 98.9 % flat, so every cell qualifies. The
-  result file is untracked in the archive worktree (`results/t101a_clock_knot_lam100.csv` and `_adj/`). Read by the
-  registered words (SLOWER / FASTER / MIXED / STILL), record the reading under the amendment and as O186 in the
-  archive, and bring piece 10 here up to date.
-- Nothing on the cloud.
+- Nothing running; nothing unread. T101 Amendment 1 was read on 6 November and recorded in the archive
+  (PREREGISTRATION T101 Amendment 1, O186) and in RESULTS here.
 
 ## Decided this week (4 to 6 November), now in HYPOTHESIS steps 1, 2, 3 and 8
 
@@ -70,12 +65,11 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
    build (`docs/design/drift_2026-11-05.md`) with its stopping rule, and a look at whether stores line up into a
    doughnut under gravity's squeeze.
 2. T108 and T109 on her words (above).
-3. Read T101 Amendment 1 (archive; ran 3 to 4 Nov; unread by its registered words).
-4. T106, the moves on the opened tube six around, once her prediction is in.
-5. The design brief for a twist-curl state as the computation Carroll's reader would read (paper 19).
-6. Gravity's time half: option B or none; a six-link knot that is a dip is still unfound.
-7. The target sheets of piece 15, the dark-matter sheet and the birth table first.
-8. Keep the λ question in mind: 1.25 is the toy's convenience setting; her picture puts open space at λ ≤ 1.
+3. T106, the moves on the opened tube six around, once her prediction is in.
+4. The design brief for a twist-curl state as the computation Carroll's reader would read (paper 19).
+5. Gravity's time half: option B or none; a six-link knot that is a dip is still unfound.
+6. The target sheets of piece 15, the dark-matter sheet and the birth table first.
+7. Keep the λ question in mind: 1.25 is the toy's convenience setting; her picture puts open space at λ ≤ 1.
 
 ## Waiting on others
 

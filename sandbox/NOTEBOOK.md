@@ -1564,3 +1564,14 @@ what is next" is three short lists that mirror STATE.md, which was simplified th
 owed item 1 replaced by "Decided this week" and nine owed items; the next list reordered with the four-link
 lengths first). Her corrected sentence ("three-dimensional only") is gone from every section. The page's header
 now says it mirrors STATE.md and HYPOTHESIS.md and is brought up to date when they change.
+
+## 6 November 2026, night: "can we read these and learn something?" (hers, verbatim, chat; T101 Amendment 1)
+
+Ours, the same night. Read, two days after the run, by the registered words, unchanged: FASTER NEAR KNOT in every
+cell at λ = 1 (nine of nine replicas); STILL in no cell, so our STILL at g = 1 fails by the letter; her inferred
+SLOWER fails, as at 1.25. What was learned: the setting was not the cause of T101's sign; the count of moves is a
+clock of activity, running only where the arrangement is imperfect (in six of nine replicas the knot healed and
+open space never moved at all; in the three where it did not heal the moves followed the wandering leftover);
+open space at λ = 1 is still, which is her "open space at λ ≤ 1" said in moves. The time half of gravity still has
+no carrier in the toy; option B is hers. Recorded in the archive (PREREGISTRATION T101 Amendment 1, O186; the
+result files committed there) and here (RESULTS, STATE piece 10, the status page).
