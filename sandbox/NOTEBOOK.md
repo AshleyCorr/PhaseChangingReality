@@ -1521,3 +1521,16 @@ measured delay. Nearest published model, the mirror image of where the toy stand
 clocks and no curved space and predicted half the bending of light; 1915 added the space half. Option B (a tick
 tied to the link lengths) would put the time half in by hand; its form is hers. The walkthrough's sentence stands
 as written (the attraction half shown, the time half open).
+
+## 6 November 2026, night: is the winding not the two dark-matter Mobius strips under gravity? (hers, verbatim, chat)
+
+"Nothing in the model has yet been made to wind itself up from energy alone; the winding is put in by hand. -> not
+the 2 dark matter mobious strips? when under pressure of extream gravity?"
+
+Ours, the same night (rule 21). Partly right; the walkthrough's bullet was too blunt and is corrected in both
+copies. In her picture the winding is dark matter, one-sided half-twist loops stacking under gravity, two of one
+hand joining into a Klein store; the toy does show that joining from energy alone (T105: on a packed sheet two
+same-hand halves lock into a store wherever there is no room, more of them as lambda rises). What stands: the toy's
+wiring has never curled from energy (T34, T57; the tube is built by hand), and T105's stores lock for want of room,
+not under gravity's squeeze, which is not built on the sheet (the lengths have only the six-link form; her decision
+of 6 November puts gravity on square edges too, so the four-link form is the build). Theory's structure.

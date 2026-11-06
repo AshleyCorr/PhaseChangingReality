@@ -121,7 +121,9 @@ What has failed or is missing:
   largest size, because the inner foot's size is set by the patch and the patch grows with the model. It is being
   rewritten in terms of growth.
 - The time half of gravity: the model's own clock runs the wrong way near mass.
-- Nothing in the model has yet been made to wind itself up from energy alone; the winding is put in by hand.
+- The locked stores do form from energy alone, two same-hand pieces joining wherever there is no room (T105),
+  but the network itself has never curled from energy: the wound-up X is built by hand, and the squeeze of gravity
+  that would do the winding in her picture is not built on the sheet yet.
 - Nothing quantum has come out of the model; that part is adopted.
 
 No physicist has reviewed any of this yet.
