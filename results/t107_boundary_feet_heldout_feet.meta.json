@@ -1,0 +1,47 @@
+{
+  "config": {
+    "name": "t107_boundary_feet_heldout",
+    "_purpose": "T107's held-out length (PREREGISTRATION.md T107, rule 14): L = 128, run only after the numbers for it have been written into the registration from the fitting lengths 32, 48 and 64 (configs/t107_boundary_feet.json). Same cell, same k, fresh seed.",
+    "lengths": [
+      128
+    ],
+    "replicas": 20,
+    "k": 4,
+    "lambda": 1.25,
+    "g": 1.5,
+    "block": 10,
+    "min_size": 8,
+    "max_sweeps": 20000,
+    "after": [
+      0,
+      50,
+      200,
+      500
+    ],
+    "barrier": 12,
+    "max_pair_sweeps": 10000,
+    "seed": 20261108
+  },
+  "config_path": "configs/t107_boundary_feet_heldout.json",
+  "graphity_version": "0.1.0",
+  "numpy": "2.0.0",
+  "python": "3.12.10",
+  "git_commit": "e2686a0d5a88042f53c18a46ee17e29f3de55944",
+  "git_dirty": true,
+  "git_untracked_count": 13,
+  "git_untracked": [
+    "configs/t107_boundary_feet.json",
+    "configs/t107_boundary_feet_heldout.json",
+    "results/t107_boundary_feet.log",
+    "results/t107_boundary_feet_feet.csv",
+    "results/t107_boundary_feet_feet.meta.json",
+    "results/t107_boundary_feet_heldout.log",
+    "results/t107_boundary_feet_kind.csv",
+    "results/t107_boundary_feet_kind.meta.json",
+    "scripts/analyse_t107.py",
+    "scripts/run_t107_boundary_feet.py",
+    "src/graphity/loose_band.py",
+    "tests/test_kind_rule.py",
+    "tests/test_loose_band.py"
+  ]
+}

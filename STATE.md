@@ -76,8 +76,12 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
    Confirmed late on 6 Nov: the slab is the doughnut, the collar its inner rim of stores, the rod the hole's axis
    with dark matter moving. Consistent with the toy's curvature (the loose band is its negative-curvature region,
    the embedded doughnut's inner rim likewise; notebook). Three tensions with the claim are hers to resolve: two
-   slabs against one doughnut (the two halves?), the taper, and "the burp in the rod" read as at the rim. T107 is
-   registrable now; the preregistration waits on her "register". Her correction the same night: gravity acts in
+   slabs against one doughnut (the two halves?), the taper, and "the burp in the rod" read as at the rim. T107 was
+   registered on her "register" (night of 6 Nov) and run at 32, 48 and 64: predictions 1, 2 and 4 HOLD at the fitting
+   lengths, the outside-larger share falling with length (a criterion that scales with the band; said before 128 ran);
+   128 held out, read: MIXED, predictions 1, 2b and 4 HOLD at every length, 2a (outside larger at a fixed time)
+   failed at 128 as said before the run; T108 (the size's trend) and T109 (growth, not size) wait on her words. Build: `graphity.loose_band`, `kind_rule` in the pair moves,
+   the runner and reader, all tested. Her correction the same night: gravity acts in
    two and three dimensions (cube edges are square edges), light only in three; the lengths need a four-link form
    (exact derivation, ours, before the drift build).
    Morning of 6 Nov, three decisions of hers: one daughter is one foot; the kind rule (the first pair across the

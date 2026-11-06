@@ -73,7 +73,7 @@ each with the cheapest exact look that was run on the toy:
 | The two kinds, curl and anti-curl, are a state on the squares; a failed pair makes two Klein stores of opposite sign; a store cannot move; room is judged for every pair at the same instant (4 Nov) | T105, registered: on a sheet, stores form once the release packs it and their number rises with the curling knob, as she predicted; both signs equal, net twist zero |
 | The center of a black hole is the loose remnant of the last burp, lower in density than the layers round it (5 to 6 Nov) | On a tube packed everywhere but one loose band, the escape starts at the band in 58 of 60 replicas, twenty to sixty times sooner than on a packed tube |
 | One seed straddles the boundary with a foot on each side; one daughter is one foot (5 to 6 Nov) | The seed has a foot on each side in 75 to 100 percent of replicas; the inside foot stops at the band's edge and the outside foot grows |
-| The kind rule: the first pair made across the boundary sets the outside foot's kind, and every pair after follows it (6 Nov) | With the rule, the two feet come out mirror images in 13 of 19 replicas (chance: 3 of 20). It sets the sign of the surplus, not yet its size: a few twists out of 128 pairs |
+| The kind rule: the first pair made across the boundary sets the outside foot's kind, and every pair after follows it (6 Nov) | T107, registered and read 6 Nov at 32, 48, 64 and 128 held out: a foot on each side and the feet as mirror images under the rule held at every length (the sign matched the outward kind in 54 of 57 replicas with a nonzero twist); the outside foot larger at a fixed time failed at 128, a criterion that scales with the remnant. The rule sets the sign of the surplus, not yet its size |
 | Her prediction for the size: about one in a billion of the daughter's squares (6 Nov) | Not yet testable in full; the toy can test the trend with size, held-out size written before the run |
 | The collar: dark matter pressed on the torus round the rod binds into Klein stores heavier than their parts, paid by gravity; the bond's form borrowed from 't Hooft's two-dimensional model of 1974 (6 Nov) | T105's stores sit as singles and short chains, no ring; a ring needs a store-to-store join that is not built |
 
@@ -82,6 +82,10 @@ CPT-symmetric universe of Boyle, Finn and Turok (2018), where the two sides of a
 the pair together carries nothing; and Poplawski's torsion baryogenesis inside a black-hole bounce (2011). A
 plain-language note on that family is at `docs/reading/notes/2026-11-06_cpt_symmetric_family.md`. Everything in
 it is from abstracts and press, to verify at the source.
+
+Drawings of this picture, the same ones the Claude document carries: the inside of a black hole as a doughnut of
+squares with the rod, the collar and the seed (`sandbox/drawings/2026-11-06_rod_arrangements.html`), and the
+loose-band tube in three frames after the escape (the look of 5 November, `sandbox/boundary_feet_look.py`).
 
 What she is owed answers to, and what she owes the record, is kept current in `STATE.md`.
 
@@ -163,8 +167,8 @@ spelling is her joke, kept on purpose.
 The open questions she is working on now, each with the exact test that would bear on it:
 
 - **What sets the size of the surplus.** Her rule sets its sign; the size is a few twists out of 128 pairs in
-  the toy against one in a billion in the sky. The next look is the share against the daughter's size, with the
-  held-out size written before the run.
+  the toy against one in a billion in the sky. T107 reads her ratio at each length without scoring it (0.021,
+  0.013, 0.010 and 0.009 at 32, 48, 64 and 128, falling with length); the registered test of the trend is next.
 - **The drift of the halves before they join.** Decided 5 November, not built. Her answer of 6 November gives it
   a stopping rule: the halves stop where room runs out, the start of the Klein store layer. The design brief is
   `docs/design/drift_2026-11-05.md`.

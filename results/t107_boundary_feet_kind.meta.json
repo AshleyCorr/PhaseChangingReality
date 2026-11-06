@@ -1,0 +1,43 @@
+{
+  "config": {
+    "name": "t107_boundary_feet",
+    "_purpose": "T107 (PREREGISTRATION.md, registered 6 November 2026): the seed on the boundary of the loose remnant and the kind on each side, her five predictions, on the loose-band tube at the fitting lengths 32, 48 and 64. The held-out length 128 runs from configs/t107_boundary_feet_heldout.json only after the numbers for it are written from these three (rule 14).",
+    "lengths": [
+      32,
+      48,
+      64
+    ],
+    "replicas": 20,
+    "k": 4,
+    "lambda": 1.25,
+    "g": 1.5,
+    "block": 10,
+    "min_size": 8,
+    "max_sweeps": 20000,
+    "after": [
+      0,
+      50,
+      200,
+      500
+    ],
+    "barrier": 12,
+    "max_pair_sweeps": 10000,
+    "seed": 20261107
+  },
+  "config_path": "configs/t107_boundary_feet.json",
+  "graphity_version": "0.1.0",
+  "numpy": "2.0.0",
+  "python": "3.12.10",
+  "git_commit": "e2686a0d5a88042f53c18a46ee17e29f3de55944",
+  "git_dirty": true,
+  "git_untracked_count": 7,
+  "git_untracked": [
+    "configs/t107_boundary_feet.json",
+    "configs/t107_boundary_feet_heldout.json",
+    "results/t107_boundary_feet.log",
+    "scripts/run_t107_boundary_feet.py",
+    "src/graphity/loose_band.py",
+    "tests/test_kind_rule.py",
+    "tests/test_loose_band.py"
+  ]
+}

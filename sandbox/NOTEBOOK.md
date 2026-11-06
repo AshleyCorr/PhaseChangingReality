@@ -1449,3 +1449,54 @@ no cube). So "light only in three dimensions" is exact in the toy's own terms, a
 published curvature on the six-link wiring (exact). A four-link form, the same derivation on the sheet, is
 needed before her drift can be carried by the lengths on the slab. Exact derivation, ours to do, before the drift
 build; no run before it.
+
+## 6 November 2026, night: "register"; the two documents updated with diagrams; what to share with Ashley (hers, verbatim, chat)
+
+"register.
+
+update https://claude.ai/artifact/EZRxjjpnpai2VPf7ydGNdr and https://claude.ai/artifact/JLtR2aqHmL2FghWmNZU8xW -
+including the new diagrams in the document to help explain our current best theory.
+https://claude.ai/artifact/JLtR2aqHmL2FghWmNZU8xW should contain relevant diagrams in each section. should I shre
+this with ashley, or make more a high level read through of the hypothesis with easy english explainations and
+diagrams, then also the A phase changing reality how to read doc, or what do u recommend?"
+
+Ours, the same night (rule 21). **T107 registered** (PREREGISTRATION T107; RESULTS one line) with her five
+predictions in the wording she adopted, options 1, 2 and 4 scored, 3 read, 5 its own later test. The build it
+needed: the loosening moved from the sandbox into the package (`graphity.loose_band`, with validity, locality and
+same-seed tests), her kind rule added to the pair moves (`kind_rule="boundary"`, with tests that the coin is
+unchanged, that the first straddling pair sets the outward kind once, that the books balance and the seed
+reproduces), the runner `scripts/run_t107_boundary_feet.py` and the reader `scripts/analyse_t107.py`. One exact
+slip corrected on the way: the band is the columns strictly within L/16 of the centre, 7 columns at 64 (28 points),
+not the "8 columns, 32 points" the look printed. Run at 32, 48 and 64 the same night (twenty replicas each, fresh
+seeds); the held-out numbers for 128 written into the registration from the three before 128 ran; 128 running.
+
+**The fitting lengths, by the registered words** (full reading in PREREGISTRATION T107 once 128 is read; one home):
+a foot on each side at +200 in 0.75, 1.00, 1.00 (HOLDS); the outside foot larger at +500 in 0.95, 0.80, 0.60 and the
+inside foot bounded by the band everywhere (HOLDS, with the share falling with length); joined in 0.85, 1.00, 0.90;
+mirror images under her rule in 0.79, 0.76, 0.68 (HOLDS); the sign matching the outward kind, among nonzero, in 41 of
+44 against one half by chance; the size ratio 0.021, 0.013, 0.010, falling with length. Said before 128 runs: the
+outside-larger share falls because the criterion scales with the band (12, 20, 28 points) while the outside foot
+grows per sweep; by a straight line the share at 128 would be near 0.1, outside the registered range, so that part
+may fail at the held-out length, and if it does the failure is scored as written and a criterion that does not scale
+with N goes into a new test. Our registered coin control was ill-posed (the two feet's twists always sum to zero);
+the proper control is stated in the registration before the held-out run.
+
+**The documents.** The reader's guide (`docs/A_PHASE_CHANGING_REALITY.md`, the Claude document) now carries three
+drawings: the loop in four stages; the doughnut cross-section with the rod, the collar and the seed; the loose-band
+tube in three frames. The status page of 4 November (the second link) is the programme's status sheet, "draft for
+the author's review, not for publication": its update to 6 November with a drawing in each section is the next
+piece of work (below). **Recommendation (ours):** share two things with Ashley, not the status sheet. First a short
+plain-English walk through the hypothesis with the drawings, one page, written for him as a reader; second the
+reader's guide, written for him and for an assistant reading the repositories with him. The status sheet is for her
+and the sessions: dense, dated by test number, and it says "not for publication" in its own header; a reader new to
+the work would drown in it. If she wants him to see the status sheet anyway, it goes after the other two.
+
+## 6 November 2026, night: T107 read at its held-out length (ours; one home in PREREGISTRATION T107)
+
+MIXED: a foot on each side, the inside foot bounded, and the feet as mirror images under her kind rule all HOLD at
+every length, 128 included (0.85, bounded, 0.81; the sign matching the outward kind in 54 of 57 replicas with a
+nonzero twist); "the outside foot larger than the inside at a fixed 500 sweeps" held at 32, 48 and 64 and failed at
+128 (0.35 against 0.63 to 0.93), as the registration said before the run: the criterion scales with the band. Her
+words "the outside foot grows and the inside foot stops" are better scored on growth, which reads 0.80, 0.90, 0.85,
+0.70; that is T109 when she gives her words. The size ratio falls with length, 0.021 to 0.0088; its trend is T108.
+Owed from her: her words for T108 and T109.

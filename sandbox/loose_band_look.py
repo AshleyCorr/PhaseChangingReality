@@ -16,28 +16,9 @@ import sys
 
 import numpy as np
 
-from graphity.cqg import NO_CAP, _new_edge_ok, _switch, has_edge, run_chain, torus, total_squares
+from graphity.cqg import NO_CAP, run_chain, torus, total_squares
 from graphity.dimension import local_dimension
-
-
-def loosen(adj, part, rng, in_band, k, cap=NO_CAP):
-    """k random valid switches among edges with all four points in the band. Returns the number made."""
-    side_u = np.flatnonzero((part == 0) & in_band)
-    made, tries = 0, 0
-    while made < k and tries < 100000:
-        tries += 1
-        u1, u2 = side_u[rng.integers(len(side_u))], side_u[rng.integers(len(side_u))]
-        v1, v2 = adj[u1, rng.integers(4)], adj[u2, rng.integers(4)]
-        if u1 == u2 or v1 == v2 or not (in_band[v1] and in_band[v2]):
-            continue
-        if has_edge(adj, u1, v2) or has_edge(adj, u2, v1):
-            continue
-        _switch(adj, u1, v1, u2, v2)
-        if _new_edge_ok(adj, u1, v2, cap) and _new_edge_ok(adj, u2, v1, cap):
-            made += 1
-        else:
-            _switch(adj, u1, v2, u2, v1)
-    return made
+from graphity.loose_band import loosen  # moved to the package on 7 November 2026 for T107; same code  # noqa: F401
 
 
 def circ_mean_x(xs, L):

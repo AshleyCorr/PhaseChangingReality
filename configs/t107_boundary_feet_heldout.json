@@ -1,0 +1,16 @@
+{
+  "name": "t107_boundary_feet_heldout",
+  "_purpose": "T107's held-out length (PREREGISTRATION.md T107, rule 14): L = 128, run only after the numbers for it have been written into the registration from the fitting lengths 32, 48 and 64 (configs/t107_boundary_feet.json). Same cell, same k, fresh seed.",
+  "lengths": [128],
+  "replicas": 20,
+  "k": 4,
+  "lambda": 1.25,
+  "g": 1.5,
+  "block": 10,
+  "min_size": 8,
+  "max_sweeps": 20000,
+  "after": [0, 50, 200, 500],
+  "barrier": 12,
+  "max_pair_sweeps": 10000,
+  "seed": 20261108
+}

@@ -116,3 +116,107 @@ claim held. The largest connected set of stores (her knot question, a look): 2.5
 shows: under her rules and her clock, on a sheet, Klein stores form only once the release packs the sheet, and their
 number rises with λ. What it does not show: the billionth, the dark particle's mass, the store-to-dark-particle
 ratio, or anything about the sky (λ units only).
+
+## T107. The seed on the boundary of the loose remnant, and the kind on each side (registered 6 November 2026, before the run)
+
+**Question.** Her picture of 5 and 6 November: the burp's cycle leaves a loose remnant at the centre of the black
+hole, lower in density than the layers round it; the next seed starts at the remnant's edge with a foot on each
+side; one daughter is one foot; and the first pair made across the boundary sets the outside foot's kind, every pair
+after following it. Decided 6 November (late): the curled slab is a doughnut of squares, the toy's 4 x L tube is that
+doughnut unrolled, and the loose band is its inner rim. Does the seed straddle the boundary, does the outside foot
+grow while the inside foot stops, are the feet joined, and does her kind rule make the two feet mirror images? The
+sandbox looks of 5 and 6 November (`sandbox/LOG.md`: loose band, boundary feet, feet kind) saw all four at L = 64 and
+cannot score anything (rule 16); T107 runs on fresh seeds at three lengths with the fourth held out.
+
+**Design.** `configs/t107_boundary_feet.json` through `scripts/run_t107_boundary_feet.py`
+(`graphity.loose_band`, `graphity.curl_pair_moves` with `kind_rule`). Lengths **32, 48, 64**, twenty replicas each;
+**128 held out** (`configs/t107_boundary_feet_heldout.json`, run only after the numbers below are filled in from the
+three). The cell is T37's (lambda 1.25, g 1.5, no cap). The band: the columns whose circular distance from the centre
+column is strictly less than L/16 (3, 5, 7 and 15 columns at 32, 48, 64 and 128; the look of 5 November called the
+band at 64 "8 columns" and printed "of 32 band points" for what are 28, a labelling slip, now exact), loosened by
+k = 4 valid switches whose four points all lie in the band. The chain runs in blocks of ten sweeps; the escape is
+the first block at which at least eight points not made to read sheet (d = 2) by the loosening do so; the feet are
+read at 0, 50, 200 and 500 sweeps after the escape, the pieces counted over all sheet points. At 500 sweeps after
+the escape her curl state is put on the wiring's squares and her clock run (price from gravity, B = 12, room judged
+once on the made state) under her kind rule and, as the control, under the coin of T103 to T105. A square's side is
+read from the circular mean of its corners' columns against the band's half width.
+
+**Her predictions (hers by adoption, 6 November, late; the wording of the night before pasted back with "this all
+seems right").** Scored at every length, each a share of the twenty replicas, and at the held-out length against the
+number written below before it runs (rule 14):
+
+1. **A foot on each side.** At 200 sweeps after the escape the seed has new sheet points on both sides of the band's
+   edge in more than half of the replicas: **HOLDS** if above 0.5 at every length, **FAILS** if at or below 0.5 at any.
+2. **The outside foot grows and the inside foot stops.** At 500 sweeps after the escape the outside foot is larger
+   than the inside foot in more than half of the replicas, and the inside foot never exceeds the band's point count:
+   **HOLDS** / **FAILS** by the same rule, the two parts scored separately.
+3. **The feet are joined** (read, not scored): the share of replicas whose two feet share one connected piece of
+   sheet at 500 sweeps after the escape, reported at every length.
+4. **The feet are mirror images under her kind rule.** Among the replicas that made a straddling pair, the outside
+   foot's net twist carries the outward kind's sign and the inside foot's the reverse in more than half: **HOLDS** /
+   **FAILS**; the coin control is reported beside it and expected at chance.
+5. **The size falls with length** (its own test, T108 when registered; not scored here): her formula
+   (red - blue)/(red + blue + all stored energy), about one in a billion, is read at each length as
+   net_twist_out / (stored_on_squares + held_in_stores) and reported, no verdict.
+
+**Ours, said so they can fail.** From the looks at 64: a foot on each side in 0.85 to 1.00 at 200 sweeps; the
+outside larger than the inside in 0.8 or more at 500 sweeps, the inside at most the band's count; joined in about
+0.9 at 500 sweeps; mirror images in 0.6 to 0.75 under the rule, 0.1 to 0.25 under the coin; the size ratio about
+one in fifty, falling slowly with length if at all. **Held-out length 128**, to be written here from the three
+fitting lengths before it runs: the shares for 1, 2 and 4 with a range of plus or minus 0.15 round the mean of the
+three, and the escape sweep's median within a factor of two of the trend.
+
+**The held-out numbers, written 6 November 2026 from the three fitting lengths, before L = 128 ran** (by the
+procedure above: the mean of the three, plus or minus 0.15, capped at 1; the escape median within a factor of two of
+the trend). Fitting lengths read (`scripts/analyse_t107.py`, `results/t107_boundary_feet_*.csv`): a foot on each
+side at +200: 0.75, 1.00, 1.00; the outside foot larger at +500: 0.95, 0.80, 0.60; the inside foot bounded by the
+band at every length; joined at +500: 0.85, 1.00, 0.90; mirror images under her rule: 0.79, 0.76, 0.68 (of 19, 17
+and 19 replicas with a straddling pair); median escape sweep 40, 20, 20; the size ratio 0.021, 0.013, 0.010. So, for
+**L = 128**: a foot on each side **0.92 (0.77 to 1.00)**; the outside foot larger **0.78 (0.63 to 0.93)**; mirror
+images **0.74 (0.59 to 0.89)**; the escape's median sweep **20 (10 to 40)**. *Ours, said before the run so that it
+can fail:* the outside-larger share falls with length across the three (0.95, 0.80, 0.60), and the reason is in the
+criterion, not the picture: the inside foot's size is bounded by the band, which grows with L (12, 20, 28 points),
+while the outside foot grows at a rate per sweep, so at a fixed 500 sweeps the comparison tilts toward the inside as L
+grows (a criterion that scales with N; CLAUDE.md's warning). A straight line through the three puts the share at 128
+near 0.1, below the registered range; if it fails there, the failure is scored as written and the replacement
+criterion (the outside foot's growth rate, or the comparison at a time that scales with L) is registered as a new
+test, never read into this one. Two more notes before the run: (a) the registered control for prediction 4, "the coin
+at chance", was ill-posed as written (ours): under the books the two feet's twists always sum to zero, so "opposite
+signs" holds whenever either is nonzero under any rule; the proper control, stated now, is the share of replicas whose
+outside foot's sign matches the outward kind among those with nonzero twist, against one half by chance; at the
+fitting lengths that share is 15 of 15, 13 of 14 and 13 of 15 (41 of 44), the coin having no outward kind at all.
+(b) The band is 15 columns at 128 (60 points).
+
+**Reading** (6 November 2026, night; `results/t107_boundary_feet_feet.csv`, `_kind.csv`, and `_heldout_*.csv`,
+read by `scripts/analyse_t107.py`; 80 replicas, every one escaped, the books balanced to the digit in every cell).
+Verdict: **MIXED: three of the four scored predictions HOLD at every length, the held-out length included; one
+failed at the held-out length as the registration said it might.**
+
+1. *A foot on each side* at +200: 0.75, 1.00, 1.00 at 32, 48, 64; **0.85 at 128**, inside the 0.77 to 1.00 written
+   before the run. **HOLDS.**
+2. *The outside foot larger at +500:* 0.95, 0.80, 0.60; **0.35 at 128**, below the 0.63 to 0.93 written before the
+   run. **FAILS at the held-out length.** *The inside foot bounded by the band:* at every length (its +500 median
+   4, 10, 13, 22 against bands of 12, 20, 28, 60). **HOLDS.** Rule 11, the failure's form: the claim "the outside
+   foot is larger than the inside at a fixed 500 sweeps" → failed because the inside foot's size is set by the
+   band, which grows with L, while the outside foot grows per sweep (at 128 its median is 3 at +200 and 9 at +500,
+   the inside 20 and 22), so the comparison at a fixed time tilts toward the inside as L grows, a criterion that
+   scales with N, said before the run → replacement: her words "the outside foot grows and the inside foot stops"
+   scored on growth, not size: the outside foot's gain from +200 to +500 against the inside's (read here, not
+   scored: the outside gained more than the inside in 0.80, 0.90, 0.85, 0.70 of replicas; the inside's median gain
+   0, 0, 0, +4; the outside's +42, +10, +8, +3) → new test, T109 when she gives her words, with a time that
+   scales with L or the gain scored directly.
+3. *Joined* at +500 (read): 0.85, 1.00, 0.90, 0.75.
+4. *Mirror images under her rule* among replicas with a straddling pair: 0.79, 0.76, 0.68; **0.81 at 128** (13 of
+   16), inside the 0.59 to 0.89 written before the run. **HOLDS.** The proper control, stated before the held-out
+   run: the outside foot's sign matched the outward kind in 15 of 15, 13 of 14, 13 of 15 and 13 of 13 replicas
+   with a nonzero twist, 54 of 57 against one half by chance; the registered "coin at chance" was ill-posed (above)
+   and is not scored.
+5. *The size ratio* (read): 0.021, 0.013, 0.010, 0.0088, falling with length; the escape's median sweep 40, 20, 20,
+   20 (128 inside the 10 to 40 written before the run).
+
+What this shows: on the toy's tube, the doughnut unrolled, the next escape starts at the loose remnant and its seed
+straddles the remnant's edge at every length; under her kind rule the two feet come out as mirror images with the
+sign set by the first pair across the boundary, at every length; the outside foot grows while the inside stays
+within the remnant. What it does not show: that the outside foot is *larger* than the inside at any fixed time (it
+is not, once the remnant is big), the size of the surplus (one in fifty to one in a hundred here, falling with
+length, against her one in a billion), or anything about the sky.

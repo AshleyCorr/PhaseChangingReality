@@ -26,6 +26,13 @@ pair at the same instant; the pairs with room cancel into light and the same-sig
 stores, each square used once, cancellations first. clock="sequential" is T103's and T104's sweep (cancel link after link,
 then join), kept so that they reproduce; its order was ours and is what left no square without room (the T104 reading).
 
+HER KIND RULE OF 6 NOVEMBER (kind_rule="boundary"; T107): "the first pair made across the boundary sets the outside
+foot's kind, and everything after follows it". With `dist` (each square's distance from the band's centre) and `edge`
+(the band's half width) given: the first pair whose two squares straddle the edge draws the outward kind once (a
+coin, so that twins of opposite sign appear across replicas); every pair made after it puts that kind on its square
+farther from the centre (a tie keeps the coin). kind_rule="coin" is T103 to T105's rule, kept so that they reproduce.
+Stand-in (ours): the straddling test and the farther-square placing; her words name neither a coin nor a tie.
+
 EXACT: ledger + light + (curl held on squares) + (held in stores) = the release, to the last digit, after every move,
 under both forms (under "gravity" the store holds only its partner's curl) and both clocks.
 """
@@ -64,6 +71,9 @@ class PairMoves:
     ledger: float = None
     price_from: str = "ledger"
     clock: str = "sequential"
+    kind_rule: str = "coin"
+    dist: np.ndarray = None
+    edge: float = None
     links: list = field(init=False)
     nb: list = field(init=False)
     store: np.ndarray = field(init=False)
@@ -79,6 +89,11 @@ class PairMoves:
             raise ValueError(self.price_from)
         if self.clock not in ("sequential", "simultaneous"):
             raise ValueError(self.clock)
+        if self.kind_rule not in ("coin", "boundary"):
+            raise ValueError(self.kind_rule)
+        if self.kind_rule == "boundary" and (self.dist is None or self.edge is None):
+            raise ValueError("the boundary rule needs dist and edge")
+        self.outward_kind = 0
         self.light = 0.0
         self.held = 0.0
         self.gravity = 0.0
@@ -107,7 +122,8 @@ class PairMoves:
                     net_curl=float(c[free].sum() + 2.0 * s.sum()),
                     net_twist=float(0.5 * np.sign(c[free]).sum() + s.sum()),
                     stored_on_squares=self.energy_on_squares(), held_in_stores=self.held, gravity=self.gravity,
-                    store_cluster=self.largest_store_cluster(), books=self.books(), release=self.release)
+                    store_cluster=self.largest_store_cluster(), books=self.books(), release=self.release,
+                    outward_kind=self.outward_kind)
 
     def largest_store_cluster(self):
         """The largest connected set of store squares (connected through shared links). A look for her question of
@@ -136,13 +152,23 @@ class PairMoves:
                 break
             i, j = self.links[k]
             if c[i] == 0.0 and c[j] == 0.0:
-                if self.rng.integers(2):
-                    i, j = j, i
+                i, j = self._place(i, j)
                 c[i], c[j] = 1.0, -1.0
                 self.ledger -= 2.0 * self.unit
                 made += 1
         self.pairs_made += made
         return made
+
+    def _place(self, i, j):
+        """Which square of the pair takes the matter (+1): the coin, or her boundary rule."""
+        if self.kind_rule == "coin" or self.dist[i] == self.dist[j]:
+            return (j, i) if self.rng.integers(2) else (i, j)
+        outer, inner = (i, j) if self.dist[i] > self.dist[j] else (j, i)
+        if self.outward_kind == 0 and self.dist[inner] < self.edge <= self.dist[outer]:
+            self.outward_kind = 1 if self.rng.integers(2) else -1
+        if self.outward_kind == 0:
+            return (j, i) if self.rng.integers(2) else (i, j)
+        return (outer, inner) if self.outward_kind > 0 else (inner, outer)
 
     def cancel_pairs(self):
         c, s, done = self.state.c, self.store, 0
