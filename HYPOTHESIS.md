@@ -262,6 +262,14 @@ twist and spin under the rules, and the simulation plays out all the options in 
 - **The tip of the curled slab** is where dark matter, carried by gravity on the square edges, can no longer move:
   the start of the Klein store layer, curl and twist set, zero degrees of freedom, much bond energy. The drift of
   the halves stops there.
+- **The curled slab is a doughnut of squares** (late 6 November, from the exact fact that a four-linked closed
+  surface of squares is a torus, never a sphere); its inner rim of stores is the collar; the rod is the hole's axis,
+  three-dimensional, dark matter moving in it. Step 1's "a rod between two curled slabs" and the taper of 5 November
+  are hers to reconcile with one doughnut (the two halves of the doughnut as the two slabs is our reading).
+- **Gravity acts in two and three dimensions; light only in three** (late 6 November): cube edges are square edges,
+  so gravity is carried on the edges of the slab as of open space; light travels the body diagonals, which need a
+  cube. Step 8's and the Gravity definition's "three-dimensional only" are corrected by this. *Exact:* the toy's
+  lengths have only a six-link form; the four-link form is to be derived before the drift is built.
 
 ---
 

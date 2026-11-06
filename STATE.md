@@ -77,7 +77,9 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
    with dark matter moving. Consistent with the toy's curvature (the loose band is its negative-curvature region,
    the embedded doughnut's inner rim likewise; notebook). Three tensions with the claim are hers to resolve: two
    slabs against one doughnut (the two halves?), the taper, and "the burp in the rod" read as at the rim. T107 is
-   registrable now; the preregistration waits on her "register".
+   registrable now; the preregistration waits on her "register". Her correction the same night: gravity acts in
+   two and three dimensions (cube edges are square edges), light only in three; the lengths need a four-link form
+   (exact derivation, ours, before the drift build).
    Morning of 6 Nov, three decisions of hers: one daughter is one foot; the kind rule (the first pair across the
    boundary sets the outside foot's kind, all after follow it); the collar's stores are heavier than their parts,
    paid by gravity (the gravity counter becomes an energy; not built); her pushback the same morning withdrew our

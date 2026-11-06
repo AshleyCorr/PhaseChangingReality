@@ -1429,3 +1429,23 @@ not a reason to resist; one of the two is needed before the drift is built.
 
 **Unchanged by the week:** the measured side (T84: attraction half, light delayed past a knot; T100: one alpha not
 yet shown; T101: the toy's own clock runs the wrong way near a knot). The time half is still missing.
+
+## 6 November 2026, late night: gravity acts in two and three dimensions; light only in three (hers, verbatim, chat)
+
+"step 8 says gravity is carried on cube edges and is three-dimensional only -> cube edges are square edges, gravity
+acts in 2d and 3d (light only 3d)"
+
+Ours, the same night (rule 21). **Decided by her:** gravity is carried on the edges, which are the same links
+whether they bound squares on a sheet or cubes in open space, so gravity acts in the two-dimensional slab as in
+three-dimensional space; light, which travels the body diagonals, needs a cube and so exists only in three
+dimensions. The tension of the entry above is resolved in favour of gravity on the square edges. Step 8's
+"three-dimensional only" and the Gravity definition's "three-dimensional only" are corrected by this decision.
+
+**Exact, in the toy:** a cube's twelve edges are the edges of its six faces, one edge set; a sheet of squares has
+edges and face diagonals but no body diagonal (a body diagonal joins opposite corners of a cube, and a sheet has
+no cube). So "light only in three dimensions" is exact in the toy's own terms, and it is her three-regions rule of
+5 November (in the slab only dark matter and gravity move) said as geometry. **What it requires:** the lengths
+(`graphity.lengths`) have only a six-link form; the stiffness K = 4(6I - A) per axis family was derived from the
+published curvature on the six-link wiring (exact). A four-link form, the same derivation on the sheet, is
+needed before her drift can be carried by the lengths on the slab. Exact derivation, ours to do, before the drift
+build; no run before it.
