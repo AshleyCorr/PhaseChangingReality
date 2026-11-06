@@ -1243,3 +1243,71 @@ its stopping rule: it stops where room runs out, and that boundary is the start 
 **The guide for Ashley:** written the same evening as a Claude document (shareable, exportable to Word, PDF or
 Markdown) and saved in this repository as `docs/A_PHASE_CHANGING_REALITY.md`, linking both repositories. Written
 for him and for an AI assistant reading with him; nothing in it is new; it says which kind every statement is.
+
+## 6 November 2026, night: the rod is the shape the points make; the tip confirmed; her surplus formula; the boundary prediction's options (hers, verbatim, chat)
+
+"a curled slab that tapers toward one end, with a rod at its center. -> no it's more like the rod is the shape the
+points make. or the rod is the center of the sphere. can you draw what you are thining I mean and what is the most
+likely arrangement?
+
+yes this is what I meant: The tip answers the open question. It is where dark matter, carried by gravity on the
+square edges, can no longer move: the start of the Klein store layer. That gives the drift its stopping rule, where
+room runs out.
+
+(red-blue)/(red-blue+all stored energy) https://claude.ai/artifact/URzNMkJ3JacHett3woRLxy
+
+explain my options for boandary prediction and what you infor from this conversation"
+
+Ours, the same night (rule 21).
+
+**The rod, corrected.** The guide's sentence "a curled slab that tapers toward one end, with a rod at its center"
+was our wording, taken from step 1 of the claim and her taper decision of 5 November, and she withdraws it: the rod
+is not a thing at the centre of a slab. Her two readings, which we read as one picture: the rod is the shape the
+stopping points make, and it is the centre of the sphere. Put together (ours, inferred, hers to confirm): the
+curled slab is a sphere of squares; dark matter spirals in from all sides, carried by gravity on the square edges;
+each spiral stops where room runs out (the tip, confirmed tonight); the stopping points are Klein stores, zero
+degrees of freedom; stacked, they make a line through the centre of the sphere, and that line is the rod. So "the
+rod is the shape the points make" and "the rod is the centre of the sphere" are the same statement. The collar is
+the torus of stores round that line; the whirlpools are the three-dimensional region outside the sphere of squares.
+Drawn tonight as three cross-sections (what we wrote; her reading; the most likely arrangement with the seed and
+its feet placed) at https://claude.ai/artifact/6LXCedLpT1xtUuaX32PhtN, and saved as `sandbox/drawings/2026-11-06_rod_arrangements.html`.
+Step 1 of the claim ("At the center of the slab is the rod") and the guide's sentence are hers to reword; the
+guide's sentence is corrected tonight to "with the rod the line its stopping points make through the centre".
+
+**Her surplus formula, in her words:** (red − blue) / (red − blue + all stored energy), with red and blue the two
+feet's colours in the artifact of 5 November (`A Foot on Each Side`). Read as (ours, inferred): the numerator is
+the net of the two kinds, the denominator the total of both kinds plus every store's held energy; we read the
+denominator's "red-blue" as red plus blue, the pair, since a net over a net would be 1 (to confirm). In the toy's
+census that is net_twist over (stored_on_squares + held_in_stores), with the gravity counter added to the held
+energy once her rule of this morning (the counter as the store's extra mass) is built. Her number for it: about
+one in a billion. In the look of this morning the toy gives about one in fifty (a net of about one twist over
+about 56 units left after the light leaves).
+
+**The boundary prediction: her options.** What the boundary look saw is a look, so it cannot be promoted (rule
+16); a registered test runs on fresh data (new lengths and seeds) with her prediction written first. The things
+she can predict, each scored at every length with the held-out length's number written before it runs (rule 14):
+
+1. *A foot on each side.* The share of replicas whose seed has new sheet points on both sides of the band's edge, at
+   a fixed time after the escape, is above one half at every length. (The look: 0.75 to 1.00.)
+2. *The outside foot grows, the inside foot stops.* At a fixed time after the escape the outside foot is larger than
+   the inside one in most replicas, and the inside foot never exceeds the band's size. (The look: the inside foot
+   sits at 9 to 13 of 32 band points; the outside grows from 2 to 17 and keeps going.)
+3. *The feet are joined.* The two feet share one connected piece of sheet in most replicas. (The look: 0.25 at the
+   escape, 0.95 at 500 sweeps after.)
+4. *The feet are mirror images* under her kind rule: the outside foot's net twist carries the outward kind's sign
+   and the inside foot the reverse in more than half of replicas at every length. (The look: 13 of 19.)
+5. *The size falls with length.* Her formula, (red − blue)/(red + blue + stored), falls as the daughter's size
+   grows, with a number and a range for the held-out length written first, and her one in a billion as its limit.
+   (Not looked at; the look gave one in fifty at one length.)
+
+Her alternation claim (the inside foot carries the previous burp's outside kind) has no test until a second burp
+exists on one wiring, which the toy has no move for.
+
+**What we infer from this conversation** (ours): her picture as it stands tonight is one object, the sphere of
+squares with the rod as the line of stores through its centre; the next burp's seed starts at the loose remnant,
+straddles its edge, and the outside foot is the daughter; the kind is set at the boundary by the first pair
+across it; the size is her formula, about one in a billion, set by something not yet named (the room on each side
+is our candidate). The test that fits that picture is one registration, T107, carrying options 1, 2 and 4 as three
+scored predictions on the loose-band tube at lengths 32, 48 and 64 with 128 held out; option 3 as a reading, not
+scored; option 5 as its own later test once the size's mechanism has had a look. Her wording for the three, or
+her choice among the five, is what is owed; until she gives it, T107 stays unregistered.

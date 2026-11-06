@@ -1,0 +1,114 @@
+<title>Where the Rod Is</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+:root { --bg: #f7f5f0; --fg: #26231f; --muted: #6b6560; --rule: #c9c2b8; --red: #c4432b; --blue: #2b5fb3; --store: #8a6d1f; --loose: #e8dfc9; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg: #1d1b18; --fg: #ece7df; --muted: #a39c92; --rule: #4a443d; --red: #e8694f; --blue: #6f9ae6; --store: #d6b24c; --loose: #3a3426; color-scheme: dark } }
+:root[data-theme="dark"] { --bg: #1d1b18; --fg: #ece7df; --muted: #a39c92; --rule: #4a443d; --red: #e8694f; --blue: #6f9ae6; --store: #d6b24c; --loose: #3a3426; color-scheme: dark }
+body { background: var(--bg); color: var(--fg); font: 15px/1.5 Georgia, "Times New Roman", serif; margin: 0; padding-block: 28px; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+main { max-width: 1040px; margin: 0 auto; }
+h1 { font-size: 1.5rem; margin: 0 0 4px; text-wrap: balance; }
+p.lead { color: var(--muted); margin: 0 0 20px; max-width: 70ch; }
+figure { margin: 0 0 22px; }
+figure svg { width: 100%; height: auto; display: block; }
+figcaption { font-size: 0.92rem; color: var(--muted); max-width: 90ch; margin-top: 6px; }
+.panels { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+.panel { border: 1px solid var(--rule); padding: 10px 12px; min-width: 0; }
+.panel h2 { font-size: 1rem; margin: 0 0 6px; }
+.panel p { margin: 6px 0 0; font-size: 0.9rem; }
+@media (max-width: 760px) { .panels { grid-template-columns: 1fr; } }
+.k { display: inline-block; width: 11px; height: 11px; vertical-align: -1px; margin-right: 4px; border-radius: 2px; }
+</style>
+<main>
+<h1>Where the Rod Is</h1>
+<p class="lead">Three cross-sections of the inside of a black hole, drawn from her words of 5 and 6 November 2026. Ours, a reading; nothing measured. Red and blue are the two hands.</p>
+
+<div class="panels">
+<div class="panel">
+<h2>1. What the guide said (withdrawn)</h2>
+<figure>
+<svg viewBox="0 0 300 300" role="img" aria-label="A tapered stack of rings with a straight rod drawn down its centre">
+  <g fill="none" stroke="currentColor" stroke-width="1.4">
+    <ellipse cx="150" cy="250" rx="110" ry="22"/>
+    <ellipse cx="150" cy="210" rx="96" ry="19"/>
+    <ellipse cx="150" cy="172" rx="80" ry="16"/>
+    <ellipse cx="150" cy="138" rx="62" ry="13"/>
+    <ellipse cx="150" cy="108" rx="44" ry="10"/>
+    <ellipse cx="150" cy="84" rx="26" ry="7"/>
+    <ellipse cx="150" cy="66" rx="10" ry="4"/>
+  </g>
+  <line x1="150" y1="40" x2="150" y2="278" stroke="var(--store)" stroke-width="4"/>
+  <text x="160" y="46" font-size="12" fill="var(--store)">rod, a thing at the centre</text>
+  <text x="20" y="292" font-size="12" fill="currentColor">slab tapering toward one end</text>
+</svg>
+<figcaption>A slab of stacked rings, narrowing to one end, with the rod as a separate object down its middle. Her correction: no.</figcaption>
+</figure>
+</div>
+
+<div class="panel">
+<h2>2. Her words: the rod is the shape the points make</h2>
+<figure>
+<svg viewBox="0 0 300 300" role="img" aria-label="A sphere of squares with spirals coming in from all sides; each spiral ends at a dot where room runs out; the dots line up through the centre and that line is the rod">
+  <defs>
+    <marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="context-stroke"/></marker>
+    <pattern id="sq" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M12 0 H0 V12" fill="none" stroke="currentColor" stroke-width="0.5" opacity="0.35"/></pattern>
+  </defs>
+  <circle cx="150" cy="150" r="118" fill="url(#sq)" stroke="currentColor" stroke-width="1.4"/>
+  <g fill="none" stroke-width="2" marker-end="url(#ar)">
+    <path d="M62 80 C 95 70, 125 95, 142 118" stroke="var(--red)"/>
+    <path d="M240 70 C 205 75, 175 95, 158 118" stroke="var(--blue)"/>
+    <path d="M40 170 C 70 165, 110 160, 138 150" stroke="var(--blue)"/>
+    <path d="M262 160 C 230 165, 190 160, 162 150" stroke="var(--red)"/>
+    <path d="M70 240 C 100 230, 125 205, 142 182" stroke="var(--red)"/>
+    <path d="M232 238 C 205 230, 175 205, 158 182" stroke="var(--blue)"/>
+  </g>
+  <g fill="var(--store)">
+    <circle cx="150" cy="118" r="4.5"/><circle cx="150" cy="134" r="4.5"/><circle cx="150" cy="150" r="4.5"/><circle cx="150" cy="166" r="4.5"/><circle cx="150" cy="182" r="4.5"/>
+  </g>
+  <text x="150" y="30" font-size="12" fill="currentColor" text-anchor="middle">sphere of squares (the curled slab)</text>
+  <text x="150" y="286" font-size="12" fill="var(--store)" text-anchor="middle">stopping points, stacked: the rod</text>
+  <text x="178" y="154" font-size="11" fill="var(--muted)">tip: no room, 0 freedom</text>
+</svg>
+<figcaption>Dark matter spirals in from all sides on the square edges, carried by gravity. Each spiral stops where room runs out (the tip). The stopping points are Klein stores; stacked, they make a line through the centre of the sphere. The rod is that line, and so it is also the centre of the sphere: her two readings are one picture.</figcaption>
+</figure>
+</div>
+
+<div class="panel">
+<h2>3. Most likely arrangement, with the seed</h2>
+<figure>
+<svg viewBox="0 0 300 300" role="img" aria-label="Three regions: whirlpools outside, the sphere of squares, and the rod of stores at the centre with a torus collar round it; the loose remnant of the last burp hugs the rod and the next seed straddles its edge with a foot on each side">
+  <g fill="none" stroke-width="1.6" marker-end="url(#ar)">
+    <path d="M28 60 A 130 130 0 0 1 90 22" stroke="var(--red)"/>
+    <path d="M272 60 A 130 130 0 0 0 210 22" stroke="var(--blue)"/>
+    <path d="M28 240 A 130 130 0 0 0 90 278" stroke="var(--red)"/>
+    <path d="M272 240 A 130 130 0 0 1 210 278" stroke="var(--blue)"/>
+  </g>
+  <circle cx="150" cy="150" r="104" fill="url(#sq)" stroke="currentColor" stroke-width="1.4"/>
+  <ellipse cx="150" cy="150" rx="40" ry="62" fill="var(--loose)" stroke="var(--rule)" stroke-width="1"/>
+  <g fill="none" stroke="var(--store)" stroke-width="2.2">
+    <ellipse cx="118" cy="150" rx="9" ry="20"/>
+    <ellipse cx="182" cy="150" rx="9" ry="20"/>
+  </g>
+  <g fill="var(--store)">
+    <circle cx="150" cy="104" r="4"/><circle cx="150" cy="119" r="4"/><circle cx="150" cy="134" r="4"/><circle cx="150" cy="150" r="4"/><circle cx="150" cy="166" r="4"/><circle cx="150" cy="181" r="4"/><circle cx="150" cy="196" r="4"/>
+  </g>
+  <g stroke-width="2.2" fill="none">
+    <path d="M150 100 C 160 92, 172 90, 186 94" stroke="var(--blue)"/>
+    <path d="M150 100 C 142 108, 144 118, 150 124" stroke="var(--red)"/>
+  </g>
+  <circle cx="150" cy="100" r="3.5" fill="currentColor"/>
+  <text x="150" y="16" font-size="11" fill="currentColor" text-anchor="middle">whirlpools: three-dimensional, dark matter moving</text>
+  <text x="150" y="294" font-size="11" fill="currentColor" text-anchor="middle">sphere of squares: two-dimensional, twist and curl fixed</text>
+  <text x="196" y="88" font-size="10" fill="var(--blue)">outside foot: grows</text>
+  <text x="96" y="130" font-size="10" fill="var(--red)" text-anchor="end">inside foot: stops</text>
+  <text x="150" y="222" font-size="10" fill="var(--muted)" text-anchor="middle">loose remnant of the last burp</text>
+  <text x="118" y="186" font-size="10" fill="var(--store)" text-anchor="middle">collar</text>
+  <text x="182" y="186" font-size="10" fill="var(--store)" text-anchor="middle">collar</text>
+</svg>
+<figcaption>Ours, inferred from her words of this week. From outside in: the whirlpools (three-dimensional; photon energy flowing in, one hand clockwise and one counterclockwise), the sphere of squares (two-dimensional; only dark matter and gravity move), the torus collar of stores round the rod, the rod itself as the line of stores, and the loose remnant the last burp left round it. The next seed starts at the remnant's edge with a foot on each side: the inside foot stops at the remnant, the outside foot grows into the layer and becomes the daughter. The seed is drawn at the top of the rod for legibility only; her 5 November correction puts the burp in the rod, not at a pole.</figcaption>
+</figure>
+</div>
+</div>
+
+<p><span class="k" style="background: var(--red)"></span>one hand &nbsp; <span class="k" style="background: var(--blue)"></span>the other hand &nbsp; <span class="k" style="background: var(--store)"></span>Klein stores (no movement) &nbsp; <span class="k" style="background: var(--loose); border: 1px solid var(--rule)"></span>loose remnant &nbsp; The gridded disc is the sphere of squares in section.</p>
+<p>What is not drawn, because her words do not yet say: how far the collar sits from the rod; whether the loose remnant fills the sphere or only hugs the rod; where along the rod the next seed starts. Step 1 of the claim still says "at the center of the slab is the rod" and is hers to reword.</p>
+</main>

@@ -31,7 +31,8 @@ In one paragraph each:
 
 1. **X is stable for now.** Our spacetime is one settled arrangement of something deeper, X, with its own
    dimensions, curled where ours are open. X is made of tightly lined-up dark matter: many one-sided loops of one
-   handedness stacked into a curled slab that tapers toward one end, with a rod at its center. Underneath, the
+   handedness spiralling in from all sides of a sphere of squares, with the rod the line their stopping points
+   make through the centre (her correction of 6 November). Underneath, the
    base has two degrees of freedom, curl and twist; points and links are a way of describing the
    three-dimensional space that emerges from them.
 2. **Energy arrives, and the curl gives way: the burp.** A black hole's infall raises X's excitation. When the

@@ -66,7 +66,11 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
    calibrate; exact on a line, numerical on a plane); her prediction for the surplus, about one in a billion of
    the daughter's squares, testable as a trend with size; the tip is where the drift stops and the store layer
    starts. HYPOTHESIS carries the 6 Nov decisions. A reader's guide for her friend is at
-   `docs/A_PHASE_CHANGING_REALITY.md`.
+   `docs/A_PHASE_CHANGING_REALITY.md`. Night of 6 Nov: the rod is the line the stopping points make through the
+   centre of the sphere of squares (her correction; step 1 of the claim is hers to reword; drawn,
+   `sandbox/drawings/2026-11-06_rod_arrangements.html`); the tip confirmed as the drift's stopping rule; her surplus
+   formula (red - blue)/(red + blue + stored), about one in a billion; the five options for the boundary prediction
+   are in the notebook, T107 waiting on her words.
    Morning of 6 Nov, three decisions of hers: one daughter is one foot; the kind rule (the first pair across the
    boundary sets the outside foot's kind, all after follow it); the collar's stores are heavier than their parts,
    paid by gravity (the gravity counter becomes an energy; not built); her pushback the same morning withdrew our
