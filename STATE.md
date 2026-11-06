@@ -73,6 +73,11 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
    are in the notebook; late on 6 Nov she confirmed all five and the surplus formula, so T107 can be registered
    (options 1, 2 and 4 scored, 3 read, 5 its own test) once she confirms the shapes: exact, a four-linked closed
    surface of squares is a torus, so the slab is a doughnut, which we read as her collar (panel 4 of the drawing).
+   Confirmed late on 6 Nov: the slab is the doughnut, the collar its inner rim of stores, the rod the hole's axis
+   with dark matter moving. Consistent with the toy's curvature (the loose band is its negative-curvature region,
+   the embedded doughnut's inner rim likewise; notebook). Three tensions with the claim are hers to resolve: two
+   slabs against one doughnut (the two halves?), the taper, and "the burp in the rod" read as at the rim. T107 is
+   registrable now; the preregistration waits on her "register".
    Morning of 6 Nov, three decisions of hers: one daughter is one foot; the kind rule (the first pair across the
    boundary sets the outside foot's kind, all after follow it); the collar's stores are heavier than their parts,
    paid by gravity (the gravity counter becomes an energy; not built); her pushback the same morning withdrew our

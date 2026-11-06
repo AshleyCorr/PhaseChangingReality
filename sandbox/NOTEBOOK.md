@@ -1349,3 +1349,52 @@ The toy's loose-band tube is this doughnut unrolled, 4 around and L along, the l
 which is why the look already has the right topology. Panel 4 of the drawing (republished tonight at the same
 link) shows it. If she wants a sphere with eight corners instead, that is a different wiring, buildable, and the
 corners would be the places where the local reading changes; say so.
+
+## 6 November 2026, late night: the doughnut confirmed; is it consistent with known math and the rest of the theory? (hers, verbatim, chat)
+
+"[panel 4's caption, pasted back] this shape looks good. is it also consistent w known math and the rest of the
+theory"
+
+Ours, the same night (rule 21). **Decided by her:** the curled slab is a doughnut of squares, the collar is that
+doughnut's inner rim of stores, the whirlpools lie outside. One correction to the drawing, from her own words of
+6 November ("the rod and the outer whirlpools I think are 3d, there is movement of dark matter"): the rod is the
+hole's axis, three-dimensional, with dark matter moving in it and pressed on the collar; the stores sit on the rim,
+not on the axis. Panel 4 redrawn and republished at the same link. Her "zero-dimensional" centre is the set of
+stores (decided 4 November), which is now the rim.
+
+**Against known math (exact unless marked).**
+
+- A doughnut's hole is open to the outside: a torus does not enclose its axis. So the rod, in the hole, is reached
+  from the three-dimensional region, which fits dark matter flowing in it; and nothing on the surface itself
+  touches the axis. Exact (topology).
+- A doughnut of equal squares cannot sit in three-dimensional space without stretching: a flat torus has no
+  curvature anywhere, a doughnut in space has negative curvature on its inner half and positive on its outer
+  (Gauss; the toy's "equal squares" fact of 5 November). So if the slab is embedded in the three-dimensional
+  whirlpool region, its squares are not all alike; the inner rim is where they are most pinched. Exact (textbook).
+- In the published model's own curvature, a link with fewer than its two squares carries negative curvature
+  (T25 Eq. (8): with no triangles and pentagons, kappa = -2[1 - (2 + S)/4]_+, zero at S = 2 and negative below).
+  So the toy's loose band, links with squares missing, is the toy's negative-curvature region, and the embedded
+  doughnut's negative-curvature region is its inner rim. The look's loose band and her loose rim land in the same
+  place by two routes. Exact in the toy; the matching of the two is ours.
+- The alternative closed surface with the same count, the Klein bottle, is one-sided and needs four dimensions to
+  sit without crossing itself; the toy has its Klein relative of the tube (T102) and her stores are Klein bottles.
+  Whether the slab as a whole is a torus or a Klein bottle is open and would matter for the two hands (a Klein
+  bottle joins its two sides into one). Exact; the choice hers.
+
+**Against the rest of the claim (ours; three tensions, each hers to resolve).**
+
+1. *Two slabs or one doughnut.* Step 1 says X is "a rod between two curled slabs, one curled right-handed and one
+   left-handed". A doughnut has a natural mirror plane through its hole; the two slabs could be the two halves of
+   one doughnut, one hand each, which would also give the twin daughters a home (one foot per half, opposite
+   hands) and keep the hole neutral. Inferred, not her words.
+2. *The taper.* Decided 5 November from the whiteboard coil: the stacked rings get smaller toward one end. A
+   doughnut has no taper. Either the taper is withdrawn, or the coil is the doughnut seen along its axis (a
+   spiral wound tighter toward the rim), or the doughnut is thicker at one side. Hers to say.
+3. *The burp in the rod.* Her correction of 5 November puts the burp in the rod, not at a pole. With the rod the
+   hole's axis and the seed on the inner rim, the burp is at the boundary between the rod and the doughnut, which
+   is the rim. Consistent if "in the rod" means at the rod's edge; hers to confirm.
+
+What already fits without change: the centre as the set of stores (4 November); the three regions by movement
+(5 November: cubes outside, squares in the slab, stores where nothing moves); the tight rod as sheet-like
+(6 November, morning); one daughter is one foot; the kind rule at the boundary; the loose-band tube as the
+doughnut unrolled.
