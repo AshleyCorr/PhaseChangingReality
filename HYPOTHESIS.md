@@ -1,4 +1,4 @@
-# The hypothesis as it stands (4 November 2026)
+# The hypothesis as it stands (6 November 2026)
 
 This page is the claim and the current definitions, nothing else. It changes only for a decision of the author's,
 and the commit that changes it says why. Every statement says whose it is: **hers** (the author's claim about
@@ -232,6 +232,36 @@ twist and spin under the rules, and the simulation plays out all the options in 
   of their shadows. The curled slab, squares moved across by sweeps and not by time, can represent the two degrees
   of freedom, as a point moving across a plane represents them; a representation, not the thing (the withdrawn
   reading of the 2D phase as a flat sheet stays withdrawn). A statement of the claim's status, not a definition.
+
+### Her decisions of 6 November 2026 (hers; verbatim in the notebook; not yet in the wording above)
+
+- **The centre of a black hole is the loose remnant of the last burp**, lower in density than the layers round it;
+  "tighter" at the rod means sheet-like curl, two-dimensional stores per volume, not more closed squares. *Measured
+  as a look (5 November):* on a tube packed everywhere but one loose band the escape starts at the band in 58 of
+  60 replicas, twenty to sixty times sooner, and the seed straddles the band's edge with a foot on each side, the
+  inside foot stopping and the outside foot growing.
+- **One daughter is one foot.** The outside foot is the daughter and carries her surplus; the inside foot carries
+  the opposite kind, which the previous burp's outside foot carried, so successive burps alternate the surplus.
+  (This keeps her clear of the measured absence of annihilation seams in the sky.)
+- **The kind rule:** the first pair made across the boundary sets the outside foot's kind, and every pair after
+  follows it. *Measured as a look (6 November):* with that rule the two feet come out mirror images in 13 of 19
+  replicas (chance: 3 of 20); it sets the sign of the surplus and not yet its size (a few twists of 128 pairs).
+  The published shape is the CPT-symmetric universe (Boyle, Finn and Turok 2018): the boundary is a mirror,
+  whatever the outside foot carries the inside foot carries the reverse, and the pair together carries nothing.
+- **Her prediction for the size:** the surplus is about one in a billion of the squares in the daughter, the
+  stores' barrier energy counted in. Testable in the toy only as a trend with size (rule 14).
+- **The collar of stores.** The rod and the outer whirlpools are three-dimensional; dark matter moves there,
+  pressed on the torus that collars the rod, and layers into stores by binding two like-handed particles into one
+  Klein store heavier than its parts, the extra mass paid by gravity, which is one-directional and keeps adding.
+  Inside the horizon no outside cap on that energy applies (our cap withdrawn at her pushback); gravity pays for
+  the store, the bond holds it. *Exact:* T105's stores sit as singles and short chains, no ring; a ring needs a
+  store-to-store join, not built.
+- **The bond's form, borrowed from 't Hooft (1974):** the bond's energy grows in a straight line with the
+  separation of the store's two halves, B = sigma times the separation, one constant sigma to calibrate. *Caveat,
+  ours:* 't Hooft's result is exact for a line, not a plane; on a plane it is numerical.
+- **The tip of the curled slab** is where dark matter, carried by gravity on the square edges, can no longer move:
+  the start of the Klein store layer, curl and twist set, zero degrees of freedom, much bond energy. The drift of
+  the halves stops there.
 
 ---
 

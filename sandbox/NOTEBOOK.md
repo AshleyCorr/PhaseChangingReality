@@ -1155,3 +1155,91 @@ own point that outside bookkeeping fails inside.
 
 Recorded in the reading note of the same morning (`docs/reading/notes/2026-11-06_cpt_symmetric_family.md`), the
 cap now marked as outside bookkeeping.
+
+## 6 November 2026, afternoon: the bond is paid with gravity; bonds differ in 2D (hers, verbatim, chat)
+
+"Binding two like-handed particles into one Klein store still needs an interaction between them, which is why the
+inelastic dark matter family was named. -> but the interaction is paid with gravity? gravity is converted to a
+chemical - whatever bond keeps the quarks together in an atom. also, bonds and energy behave differently in 2d -
+moving along the plane an 0d metastable klein bottle."
+
+Ours, the same afternoon (rule 21). **What checks out.** The chain "gravity's energy is spent into a bond and sits
+there as mass" is ordinary bookkeeping: energy from one account paid into another; nothing in it is wrong. And
+bonds do behave differently in two dimensions, in published physics: in a plane any attraction, however weak, binds
+(a theorem; in three dimensions a well must be deep enough before it holds anything; Simon 1976, and Landau and
+Lifshitz's quantum mechanics, the section on bound states in two dimensions, general knowledge, to verify); and the
+quark bond in two dimensions never lets go at all ('t Hooft's two-dimensional model of 1974 confines exactly). So
+"a bond in 2D holds where a bond in 3D would not" has a source, and her store as a point-like, metastable, movable
+object on the plane is the shape of a point defect in a two-dimensional medium, also published (vortices, anyons).
+In the toy the store is already two-dimensional (T105: a state on the sheet's squares) and cannot move (her rule);
+"moving along the plane" is her drift decision of 5 November for the halves before they join, not for the store.
+
+**What does not hold, a correction of words only.** The bond that keeps quarks together is the strong force, not a
+chemical bond; a chemical bond is the electric force between atoms, and what holds a nucleus together is the strong
+force's leftover between protons and neutrons. None of these is the bond between two dark-matter particles, for
+which no force is measured; her picture needs one and names gravity as its payer, not as the bond itself. The
+distinction stands and is only this: the account the energy comes from (gravity) and the force that holds the
+store shut (the bond) are two things, and the second has no published form for dark matter. Objection kind:
+theory's structure, hers to give a form; not a reason to resist.
+
+**Exact, from T105.** The toy's bond is the barrier B. Under her gravity rule a join costs the ledger nothing and B
+enters only the gravity counter (the T105 config, `configs/t105_curl_pair_moves_her_clock.json`), so stores form at
+every B scanned, B = 0 included, and the bond's strength changes nothing in whether a store forms, only the number
+on the counter. Her words of this morning and afternoon make that counter the energy spent into the bond and held
+as the store's mass. To build that, B needs a form (what sets the bond's strength: her choice), and the counter
+becomes an energy the books must balance. Recorded; not built; her form before any run.
+
+## 6 November 2026, evening: the bond's form from 't Hooft; her prediction for the surplus; the tip; a guide for Ashley (hers, verbatim, chat)
+
+"a form for the bond's strength  -> can we use this? The quark bond in two dimensions never lets go at all, which
+is 't Hooft's two-dimensional model of 1974.
+
+surplus about 1/1000000000. for the squares that are in the daugther (red-blue/red-blue + all barrier energy in
+the image)
+
+in the curld slab, dark matter can move along the plane carried by gravity on the quare edges. at the point, the
+dark matter can nolonger move, that is the start of the klein bottle layer. it cannot move, the curl and twist
+values are set. 0 degrees of freedom, lots of bond energy.
+
+please update the a phase changing reality docuemnent. create a downloadable version that links to the
+Recreational and PhaseChangingReality repos. I want to share this with Ashley who is interested in using ai to
+better understand my hypothesis and ytoy model"
+
+Ours, the same evening (rule 21).
+
+**The bond's form: yes, with one caveat.** 't Hooft's model (Nucl. Phys. B 75, 461, 1974, "A two-dimensional
+model for mesons"; Callan, Coote and Gross 1976 read it as a model of quark confinement; general knowledge, the
+paper not yet read in full) has the energy between a quark and its partner grow in a straight line with their
+separation, so that parting them costs more the farther they go and they never come free; Bars and Hanson showed
+the same spectrum follows from a plain straight-line pull. The form to borrow is that line: the bond's energy is
+one constant times the separation, B = sigma times d, with d the distance between the store's two halves in links
+(d = 1 for a store on two squares sharing a link) and sigma the one constant, the string tension. Status: the form
+Sourced ('t Hooft 1974, to verify at the paper); sigma Calibrated, no value from her. The caveat, theory's
+structure: 't Hooft's result is exact for a line with time, one space dimension, in the limit of many colours;
+on a plane with time, confinement is believed and seen numerically (lattice), not proved. Her sheet is a plane.
+So the form is borrowed from the line and must be marked as such. What it does in the toy: under her gravity
+rule B enters only the gravity counter, so with B = sigma d the counter grows by sigma per store; and it gives the
+drift a shape, since a half pulled from its partner feels a pull that does not weaken with distance, which is
+"carried by gravity on the square edges" in her words of the same evening. Not yet built: the counter as an
+energy, and sigma's value.
+
+**Her prediction for the surplus, in her words:** "about 1/1000000000, for the squares that are in the daughter".
+Read as (ours, inferred, hers to confirm): the net twist of the outside foot divided by the number of pairs made in
+it, about one in a billion, counted on the squares of the daughter, with the barrier energy of its stores counted
+in the daughter's energy. "red-blue/red-blue + all barrier energy in the image": which image she means is to
+confirm (the artifact of 5 November shows the feet in two colours; her whiteboard drawing has red and blue
+whirlpools). What a test can do with it: the toy cannot make a billion pairs, so the testable form is the
+*trend*: the surplus share falling with the size of the daughter, fit on the smaller sizes, the held-out size
+written before the run (rule 14), and the extrapolation compared with her number. The look of this morning gave
+about one in a hundred at 128 pairs; the next look is the share against size.
+
+**The tip (her answer to the open question).** In the curled slab dark matter moves along the plane, carried by
+gravity on the square edges; at the point it can no longer move; that is where the Klein layer starts; there the
+curl and twist are set, zero degrees of freedom, much bond energy. So "the point tip of the curled slab" is where
+the drift ends, the start of the store layer. In the toy (exact): a store is made where there is no room (her
+clock), and cannot move; the drift of the halves is not built (STATE, the drift brief). Her words give the drift
+its stopping rule: it stops where room runs out, and that boundary is the start of the store layer.
+
+**The guide for Ashley:** written the same evening as a Claude document (shareable, exportable to Word, PDF or
+Markdown) and saved in this repository as `docs/A_PHASE_CHANGING_REALITY.md`, linking both repositories. Written
+for him and for an AI assistant reading with him; nothing in it is new; it says which kind every statement is.

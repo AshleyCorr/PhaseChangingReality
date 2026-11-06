@@ -62,6 +62,11 @@ something changes; keep it to where we are and what is next, no play-by-play. Da
    stands; new rule of hers, the two feet carry opposite kinds and the surplus alternates burp to burp (notebook, with
    the published side and the measurement it must meet, eta = 6.1 x 10^-10); her collar of stores in rings of one hand:
    a look (LOG) finds T105's stores as singles and short chains, no ring; a store-to-store join is not built.
+   Evening of 6 Nov: the bond's form borrowed from 't Hooft 1974 (B = sigma times separation; sigma to
+   calibrate; exact on a line, numerical on a plane); her prediction for the surplus, about one in a billion of
+   the daughter's squares, testable as a trend with size; the tip is where the drift stops and the store layer
+   starts. HYPOTHESIS carries the 6 Nov decisions. A reader's guide for her friend is at
+   `docs/A_PHASE_CHANGING_REALITY.md`.
    Morning of 6 Nov, three decisions of hers: one daughter is one foot; the kind rule (the first pair across the
    boundary sets the outside foot's kind, all after follow it); the collar's stores are heavier than their parts,
    paid by gravity (the gravity counter becomes an energy; not built); her pushback the same morning withdrew our
