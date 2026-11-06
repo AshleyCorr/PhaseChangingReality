@@ -282,6 +282,15 @@ twist and spin under the rules, and the simulation plays out all the options in 
 - **The bond's form, borrowed from 't Hooft (1974):** the bond's energy grows in a straight line with the
   separation of the store's two halves, B = sigma times the separation, one constant sigma to calibrate. *Caveat,
   ours:* 't Hooft's result is exact for a line, not a plane; on a plane it is numerical.
+- **Twist is its own number again** (6 November, night; reverses the 4 November decision): on a square, curl and
+  twist are two numbers, so two opposite half twists can cancel into light and leave the curl behind as a dark
+  gluon, a neutral dark object with mass and no twist, the published shape of the neutral pion. A design brief
+  comes before the build (rule 20).
+- **A Klein store weighs about a proton** (6 November, night): the store holds the proton's 5,508 diagonals' worth
+  of energy, 5,508 count units, in its bond; with a store one loop over two diagonals that puts the bond's constant
+  at about 332 MeV per link (exact arithmetic from the count unit and the proton's mass; the proton is the
+  calibration, so a store's mass is not a prediction; what is predicted is everything downstream: dark particles
+  near a GeV after the burp, and about 5.4 stores per baryon for Planck's 5.36 by mass).
 - **The tip of the curled slab** is where dark matter, carried by gravity on the square edges, can no longer move:
   the start of the Klein store layer, curl and twist set, zero degrees of freedom, much bond energy. The drift of
   the halves stops there.
@@ -378,7 +387,7 @@ twist and spin under the rules, and the simulation plays out all the options in 
   other); a cancelling pair leaves as two photons; with nowhere to go the energy joins two same-twist one-sided
   half-twist curls into one two-sided full twist in a √2 **Klein store**, which cannot move, collects photons of
   matching spin, and pays the barrier plus the λ cost; λ sets the number of pairs and the freeze sets the
-  surplus. **Written as moves on 4 November** (`graphity.curl_pair_moves`; her decisions that day: twist is not a second number, a store is a flag of two halves joined; the store's price comes from gravity, one-way, never spent; room is judged for every pair at the same instant). Measured (T105): on a sheet, stores form once the release packs it and their number rises with λ, her prediction. The stores sitting together are her knot (decided 4 November), two-dimensional on the sheet. Measured so far (T97):
+  surplus. **Written as moves on 4 November** (`graphity.curl_pair_moves`; her decisions that day: twist is not a second number [reversed 6 November, night: twist is its own number again, so that two opposite half twists can cancel into light and leave the curl as a dark gluon; the build is owed a design brief first], a store is a flag of two halves joined [6 November: a store is one loop over two diagonals, n = 2, L = 2√2]; the store's price comes from gravity, one-way, never spent; room is judged for every pair at the same instant). Measured (T105): on a sheet, stores form once the release packs it and their number rises with λ, her prediction. The stores sitting together are her knot (decided 4 November), two-dimensional on the sheet. Measured so far (T97):
   under her first pair rules on a sheet a surplus grows with λ up to a full curl and then stays, and its share of
   the gross is the boundary row's, 1/R, so the Klein store needs a region with no room. Exact (T102): the toy's
   Klein relative of the tube is a strict dip behind a wall of about 21, carrying one double column's energy,

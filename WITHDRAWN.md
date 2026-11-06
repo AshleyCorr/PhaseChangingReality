@@ -82,6 +82,7 @@ Format: **withdrawn idea** → what replaced it (or "open / hers to propose") �
 - **The particle as a braid of three face-diagonal twists** (U87) → twist as signed thirds (matter) and halves (dark) — U97.
 - **Her strand as a face diagonal** → the body diagonal — U96; **thirds on the cube body diagonals** (U97, U99) → thirds on the 1 × 1 × 2 box diagonals; the body diagonals carry light — U142, U145, sheet.
 - **The two kinds of point separate matter from antimatter for strands** → the diagonal's colour marks it (black-to-black matter, white-to-white antimatter) — U156, sheet.
+- **Twist is not a second number; a full curl carries a half twist of its sign** (4 November) → twist its own number again, so that opposite halves can cancel into light and leave the curl as a dark gluon — her reversal of 6 November, night (notebook).
 - **Three 60° grid steps make spin ½ through a kind swap** (U107) → withdrawn — U112.
 - **Charge = −(signed thirds)/3; "a full twist is neutral"; the electron's −1 as a bound photon half-curl** (U97, U100, U104) → charge = net signed thirds (U101) → spin angle = ½ × net twist, spin a function of charge → **killed** by the neutron, the charged pion and the photon (O166) → charge = twist + photons held → **charge is twist carried by spin; spins cancel while twists add** (U145) → narrowed: a charge needs two sides and is applied on thirds only — sheet.
 - **"Anything free carries a whole number of twists"** → for matter strands only — U102.

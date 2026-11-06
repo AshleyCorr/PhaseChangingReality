@@ -79,11 +79,12 @@ light maps to MeV as energy (it has energy, not mass, in accepted physics); the 
 caution stands, the crossing from three dimensions to two needs its own term, since the sheet and the cube have
 different flat baselines (two squares per link against four).
 
-**Still open** (`docs/design/twist_energies_2026-11-04.md`, "Her answers of 6 November"): sigma's source, five
-options listed there with what each uses up (the proton, our default; Planck's 5.36, only after T106; the toy's
-wall of 21, a stand-in; the strong force's string tension, a scale to compare, never her constant; free until the
-drift gives a second relation); the form of the crossing term; whether the gravity counter becomes the store's
-mass now or after the drift.
+**Sigma decided 6 November, night:** a store weighs about a proton, the 5,508 diagonals' worth of bond; with two
+diagonals that is about 332 MeV per link. The proton is the calibration; the predictions are downstream (dark
+particles near a GeV after the burp; about 5.4 stores per baryon for Planck's 5.36 by mass).
+
+**Still open:** the form of the crossing term from three dimensions to two; whether the gravity counter becomes
+the store's mass now or after the drift.
 
 **Unblocks.** T106's registration; the store's mass in MeV; the drift build's energy bookkeeping.
 
@@ -109,7 +110,13 @@ out. Option B would put the sign in by hand, which is why it has waited on your 
 **Record.** `HYPOTHESIS.md`, Gravity and Time; the notebook, 6 November, night (the longer path against slow
 clocks); the archive's PREREGISTRATION T101 and its amendment.
 
-## 5. The "face gluon": is +½ and −½ on one face diagonal a particle?
+## 5. The "face gluon": decided 6 November, night
+
+Twist is its own number again, reversing the 4 November decision, so that two opposite half twists can cancel
+into light and leave the curl behind as a dark gluon (the neutral pion's shape). Nothing is owed by her here; the
+design brief and the build are ours. The original question is kept below for the record.
+
+### The question as it was asked
 
 **The question.** In your particle rules, dark twist comes in signed halves on the face diagonals. Can a single
 face diagonal carry both a +½ and a −½, and if so is that a particle (a neutral dark object), or nothing? The

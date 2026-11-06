@@ -162,6 +162,15 @@ target is not a result).
 
 The decision is hers; the reasoning favours 1 for a number now and 5 until the drift gives a second relation.
 
+**Decided 6 November, night (hers: "the proton's 5,508 diagonals"):** option 1 in a specific form. A Klein store
+holds the proton's worth of energy, 5,508 count units, in its bond: with e_loop = 0.511/3 = 0.1703 MeV the parts are
+0.341 MeV and the bond 937.93 MeV, so over L = 2√2 links sigma is about 331.6 MeV per link (exact arithmetic; the
+proton's 938.27 MeV is the calibration, so the store's mass is not a prediction). Downstream, with nothing more
+fitted: a store is about 2,750 times its parts; after the burp the dark particles made of stores sit near a GeV,
+above the 10 MeV thermal floor; and Planck's 5.36 by mass asks for about 5.4 stores per baryon, a population
+target for T106 and its successors. The string tension at the toy's link (about 0.27 MeV per link) is the scale
+to compare against: her bond is about a thousand times it.
+
 ## Amendment of 5 November 2026: the factors, from the reading she asked for
 
 Her instruction (5 November, verbatim in the notebook): "Don't worry about the billion at this point, we are just

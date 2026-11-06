@@ -47,12 +47,15 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
    (the outside foot's growth against the inside's, replacing T107's criterion that scaled with the band).
 3. **The twist energies: the last choices.** Choice 3 decided 6 Nov (a store is one loop over two diagonals, n = 2,
    L = 2√2; exact: under the rod form the store is exactly two dark particles and all its extra is the bond).
-   Owed: which of the five sources for sigma (the brief lists them; our default the proton, or free until the drift
-   gives a second relation); the term for the crossing from three dimensions to two (her caution of 6 Nov); whether
-   the gravity counter becomes the store's mass now; then her T106 prediction. Build owed on our side: the store
-   keeps both diagonals in the moves (held rises by two per join).
+   Sigma decided 6 Nov, night: a store weighs about a proton (the proton's 5,508 diagonals' worth of bond), so
+   sigma is about 332 MeV per link, exact arithmetic from the count unit and the proton's mass; the proton is the
+   calibration, not a prediction. Still owed: the term for the crossing from three dimensions to two; whether the
+   gravity counter becomes the store's mass now; then her T106 prediction. Build owed on our side: the store keeps
+   both diagonals in the moves (held rises by two per join).
 4. **Option B for the clock, or none**: a point's tick tied to its link lengths would put the time half in by hand.
-5. **The "face gluon"**: is +½ and −½ on one face diagonal a particle in her rules?
+5. ~~The "face gluon"~~ Decided 6 Nov, night: twist is its own number again (reversing 4 Nov), so opposite halves
+   cancel into light and leave the curl as a dark gluon, the shape of the neutral pion. Owed on our side: the design
+   brief for the two-number state (`docs/design/twist_second_number_2026-11-06.md`), then the build with tests.
 6. **Which carries the dark matter at birth**, the seam's rings or the later knots.
 7. **Paper 19's number**, and whether the 3 November wording (the projection, the three layers, the computer)
    stands in the claim.
@@ -64,7 +67,8 @@ read (MIXED, three of four held everywhere). Steps 1, 2, 3 and 8 reworded to her
 
 ## Next, each pre-registered before it runs
 
-1. The four-link form of the lengths (exact derivation, ours), so that gravity acts on the sheet; then the drift
+1. The design brief for twist as its own number on the squares (her reversal of 6 Nov), with the dark gluon and
+   the two-diagonal store, before any build. Then the four-link form of the lengths (exact derivation, ours), so that gravity acts on the sheet; then the drift
    build (`docs/design/drift_2026-11-05.md`) with its stopping rule, and a look at whether stores line up into a
    doughnut under gravity's squeeze.
 2. T108 and T109 on her words (above).

@@ -1662,3 +1662,23 @@ its count in bond energy" it is consistent. With nothing fitted: 5000 x 0.34 MeV
 mass (a coincidence to count, rule 13), the bond's slope about 600 MeV per link, two thousand times the string
 tension at the toy's link; nothing measured forbids it inside a horizon; after the burp such dark particles, around a
 GeV, sit above the 10 MeV thermal floor. Asked: where the 5000 comes from (the proton's 5,508 diagonals?).
+
+## 6 November 2026, night: twist its own number again; the 5000 is the proton's 5,508 (hers, verbatim, chat)
+
+"b) make twist its own number again, which reverses the 4 November decision and costs a second number per square.
+I raise the reversal once, as a question, because it is your rule.
+
+he proton's 5,508 diagonals"
+
+Ours, the same night. Two decisions of hers, recorded in HYPOTHESIS (the 6 November list and the curl-pair
+dynamics sentence), WITHDRAWN (the 4 November rule, set aside), STATE and OWED. (1) Twist is its own number again:
+on a square curl and twist are two numbers, so two opposite half twists can cancel into light and leave the curl as
+a dark gluon (the neutral pion's shape). A design brief comes first (`docs/design/twist_second_number_2026-11-06.md`,
+to write): what the second number is (halves, signed), how a pair is made (+1 curl with +1/2 twist and -1 with -1/2,
+as before), what cancels (twists with room, into light), what remains (curl with twist 0, a dark gluon, its kind to
+decide: neutral), how a store is read (two halves of one sign joined: curl 2 over two diagonals, twist 1), and what
+T105 and T107 become under it (their counts unchanged; the gluons a new column). (2) The 5000 is the proton's 5,508
+diagonals: a store holds the proton's worth of bond, so sigma is about 332 MeV per link (exact arithmetic from the
+count unit and the proton's mass; the brief has the numbers). The proton is the calibration, so a store's mass is
+not a prediction; downstream, dark particles near a GeV after the burp and about 5.4 stores per baryon for Planck's
+5.36 by mass are targets. The brief's sigma choice is closed.
