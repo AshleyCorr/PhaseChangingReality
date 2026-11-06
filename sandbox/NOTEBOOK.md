@@ -1507,3 +1507,17 @@ Ours, the same night. Written: the plain-English walkthrough, a Claude document 
 of its text at `docs/WALKTHROUGH.md`, for a reader with no physics background; it says which parts held on the toy,
 which failed, and that no physicist has reviewed any of it. The email is a draft in chat for her to send; nothing
 was sent, and nothing of his correspondence is quoted or paraphrased in any tracked file.
+
+## 6 November 2026, night: does the longer path of light past a knot explain why time runs slower near mass? (hers, verbatim, chat)
+
+"light's path past a knot is longer, as her gravity needs. -> does this explain why time moves slower near mass?"
+
+Ours, the same night (rule 21). No: it is the space half, and the time half is still missing. In Einstein's account
+the delay of light past a mass has two equal sources, a longer path through curved space and clocks running slow
+near the mass; the toy shows the first (T84: light's path past a knot lengthens). The second is measured on its own,
+with no light path (Pound and Rebka 1959; the daily GPS correction; general knowledge, to verify), and the toy has
+no clock: its move count as a clock (T101) runs faster near a knot, the wrong way. A longer path alone gives half the
+measured delay. Nearest published model, the mirror image of where the toy stands: Einstein's 1911 theory had slow
+clocks and no curved space and predicted half the bending of light; 1915 added the space half. Option B (a tick
+tied to the link lengths) would put the time half in by hand; its form is hers. The walkthrough's sentence stands
+as written (the attraction half shown, the time half open).
