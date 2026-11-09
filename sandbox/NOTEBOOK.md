@@ -1775,3 +1775,87 @@ not when. The layers' innermost ring is the loose remnant of T107, where the nex
 
 Questions for Emily: does X hum, or is it still until it gives way? If it hums, what inside it keeps time? Is the
 inner horizon the place in her picture where the stores fill?
+
+## 9 November 2026: superposition as why nothing happens and then something does; frozen time keeps the pairs apart; the snap as X observing itself (Ashley, verbatim, by voice with Claude)
+
+"I think superposition explains why Nothing happens and then something happens. It's because it's always happening
+and not happening at the same time."
+
+On the doughnut, as she understood Emily that day: "stored on it, lined up in some sort of matter, antimatter
+system. Always canceling each other out."
+
+"superposition is the reason we don't see a true beginning because there's always a beginning and always not a
+beginning depending on the observation which doesn't happen until a certain level of energy is stored and reached"
+
+"Frozen time keeps things from meeting, until it breaks down due to. Whatever, and then it is self-observable and
+superposition collapses, causing the crystalline snap."
+
+"And this also explains why we have a bit more matter than antimatter."
+
+Read as (ours, inferred, hers to confirm): X holds its curl and anti-curl side by side; frozen time is why they do
+not meet and cancel; X as a whole is in superposition, burping and not burping; when the stored energy reaches a
+threshold X becomes able to record itself and one outcome becomes definite, which is the burp (her "snap"); the
+flaws of the crystal (NOTEBOOK, 6 November) make the cancellation inexact, and the remainder is the surplus. Written
+up the same day as a Claude document, "Superposition and the Big Unfolding", in her account.
+
+Ours, the same day (rule 21). Three things first.
+
+**What checks out, and is already Emily's.**
+- *The threshold.* Her gate g1 (WITHDRAWN, "Nucleation as a rising chance with no threshold" → U69, U72): the split
+  fires when the stores beside the cut hold the slab's whole curling cost. Ashley's "a certain level of energy is
+  stored and reached" is that gate.
+- *Frozen time keeps the pairs apart.* Two of Emily's decisions say the same: X has order but not time (WITHDRAWN
+  section 6, U41, U65), and on a sheet of squares there is no room for a photon, so no pair cancels there (exact in
+  the toy; the no-room look of 5 November: photons 0 in every run). Frozen time in Ashley's words is "no room" in
+  Emily's.
+- *Paired and cancelling.* The wiring holds one curl and one anti-curl on every square; matter to antimatter is one
+  to one by rule (HYPOTHESIS, step 3).
+- *Looks like nothing, holds everything.* Nearest published model: the zero-energy universe, positive matter energy
+  balanced by negative gravitational energy (Tryon 1973, Nature 246, 396; general knowledge, to verify).
+- *No true beginning.* Nearest published model: the Wheeler-DeWitt equation, in which the state of the whole has
+  no time variable and change appears only from inside, relative to a part used as a clock (DeWitt 1967, Phys. Rev.
+  160, 1113; Page and Wootters 1983, Phys. Rev. D 27, 2885; general knowledge, to verify).
+
+**What does not, as written.**
+- *X as a whole in superposition.* Raised once, as a question (CLAUDE.md, item 3): WITHDRAWN section 7,
+  "Superposition as the set of undetectably different versions of the whole world (U17) → survives only at the
+  object level — U19." Is "X burping and not burping at once" an object-level superposition (X is one object inside
+  the black hole) or the whole-world form she set aside? Hers to say.
+- *"Collapses".* Theory's structure: her step 10 uses the published rule with no collapse; versions stay as
+  branches and a record in the surroundings keeps them apart (decoherence; Zurek 2003, Rev. Mod. Phys. 75, 715;
+  general knowledge, to verify). "Self-observable" fits that rule if it means X comes to hold a record of its own
+  state; a physical collapse is a different structure. Nearest published model of a collapse set by stored energy:
+  gravity-induced reduction (Diosi 1989, Phys. Rev. A 40, 1165; Penrose 1996, Gen. Rel. Grav. 28, 581; general
+  knowledge, to verify). Measurement that bears on it: the parameter-free Diosi-Penrose form is ruled out by an
+  underground radiation test (Donadi et al., Nature Physics 17, 74, 2021; general knowledge, to verify); forms with
+  a free size parameter survive. So the threshold can borrow its *idea* from Penrose but not his number for free.
+- *"Explains why we have a bit more matter".* Convention, per her step 3: each burp makes twin daughters with
+  opposite surpluses and every daughter calls her own surplus matter, so no reality-wide preference for one hand is
+  needed. What a mechanism does need is a single kind across one daughter (no annihilation seams in the sky; Cohen,
+  De Rujula and Glashow 1998, ApJ 495, 539; general knowledge, to verify), which the look below bears on.
+
+**The look** (`sandbox/frozen_pairs_look.py`; LOG, 9 November). A stand-in, not the toy: an L x L sheet, one pair per
+square, frozen; a flaw at 5 % of squares removes one member, the anti-curl with chance q; then time starts, the
+leftovers wander and cancel on meeting. Predictions written before running (in the script). 12 seeds per cell.
+
+| Flaws | Side | Matter-heavy crystals | Mean surplus share (predicted) | Minority kind among survivors |
+| --- | --- | --- | --- | --- |
+| Random (q = 0.5) | 32 | 8 of 12 | 0.0069 (0.0056) | 0.08 |
+| Random | 64 | 7 of 12 | 0.0034 (0.0028) | 0.19 |
+| Random | 128 | 3 of 12 | 0.0017 (0.0014) | 0.20 |
+| Handed (q = 0.6) | 32 | 12 of 12 | 0.0130 (0.0100) | 0.03 |
+| Handed | 64 | 12 of 12 | 0.0090 (0.0100) | 0.00 |
+| Handed | 128 | 12 of 12 | 0.0102 (0.0100) | 0.00 |
+
+Read: random flaws give either kind by chance (18 of 36), a surplus share that falls as one over the side (at this flaw rate one in a
+billion needs a side of about 2 x 10^8, some 3 x 10^16 squares, by the same counting), and leave both kinds alive in
+separate patches, which is the seamed sky the measurement rules out. A crystal that itself prefers one hand gives the
+same kind every time, a share set by the flaw rate and not by the size, and one kind only. So the flaws alone do
+not give the tilt; the crystal's handedness does. Emily's X already has it: two curled slabs, one of each hand, and
+the kind rule of 6 November (the first pair across the boundary sets the outside foot's kind). Exact, not measured:
+the surplus is fixed the moment the flaws are made, since cancelling keeps the books (asserted in every run). A
+look; it kills "random flaws alone" and crowns nothing.
+
+**Questions for Emily.** Is X's "burping and not burping" an object-level superposition, or the whole-world form of
+U17? Is the burp a record forming (her step 10, no collapse), or a collapse? Could her gate's threshold be the point
+at which X holds a record of its own state?
