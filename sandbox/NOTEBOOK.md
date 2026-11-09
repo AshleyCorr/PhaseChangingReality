@@ -1859,3 +1859,57 @@ look; it kills "random flaws alone" and crowns nothing.
 **Questions for Emily.** Is X's "burping and not burping" an object-level superposition, or the whole-world form of
 U17? Is the burp a record forming (her step 10, no collapse), or a collapse? Could her gate's threshold be the point
 at which X holds a record of its own state?
+
+## 9 November 2026, later: the size of black holes; Hawking pairs as the nudge at the snap (Ashley, verbatim, chat with Claude)
+
+"how could we measure when the black hole reaches the correct size? is there a pattern in our universe in the size
+of the black holes and there age or spacing/"
+
+"mayne there hawking radition"
+
+"so the hawking radition pairs could be a key to when a snap is about to occur or X is being energized?"
+
+"has hawking radition been observed to the degree that we know which of the pairs of twin particales fal in?"
+
+"what is the hawking particle that does fall in determins if a crystal vibration starts or not?"
+
+Ours, the same day (rule 21; every physics statement here general knowledge, to verify).
+
+**Her question on size, age and spacing.** Measured: black holes come in two families, stellar (about 5 to 100
+solar masses, with a disputed gap near 50 to 130 from pair instability, entered by a few gravitational-wave events)
+and supermassive (about 10^6 to a few 10^10 solar masses, one in nearly every large galaxy), with few in between.
+A supermassive black hole's mass tracks its host's bulge (about 0.1 to 0.5 % of it) and the bulge's velocity
+dispersion (the M-sigma relation). JWST finds black holes already massive a few hundred million years after the
+start, heavy for their hosts. Spacing follows the galaxies (the cosmic web); no spacing of their own is known.
+The observed masses top out near a few 10^10 solar masses; the standard reading is that past that size the
+black hole's own light stops gas falling in (nearest published model: King 2016, MNRAS Letters 456, L109). Bears on
+Emily's picture only if a burp takes mass from the parent (her U66: the burp's energy goes one way into a
+daughter's ledger): then black holes would stop below a ceiling, and the testable form is a ceiling value or
+"burped" black holes lighter than their hosts predict, which the standard reading does not give.
+
+**Hawking radiation as the mass loss.** Measurement, which stops it in that role: a black hole's Hawking temperature
+is about 6 x 10^-8 K times (one solar mass / M), colder than the cosmic background for every black hole heavier
+than about the Moon's mass, and a solar-mass black hole takes about 10^67 years to evaporate (Hawking 1974, Nature
+248, 30; 1975, Commun. Math. Phys. 43, 199). It cannot set a ceiling. It has never been observed from a real black
+hole; analogue experiments in a flowing condensate have seen correlated partner pairs (Steinhauer 2016, Nature
+Physics 12, 959; 2019, Nature 569, 688). It does give a floor: below about a Moon's mass a black hole loses more
+than it takes from the background, so it could never fill X to the gate.
+
+**Which partner falls in.** In the calculation either can; for an uncharged black hole without spin the emission
+is thermal and even, matter and antimatter alike, and the "pair at the horizon" is a picture, not the calculation.
+A charged black hole prefers to emit its own charge; a spinning one prefers emission co-rotating with it, and for
+neutrinos the two kinds leave toward opposite poles (Vilenkin 1979, Phys. Rev. D 20, 1807; to verify at the paper).
+
+**Her proposal: the infalling partner decides whether the vibration starts.** Theory's structure, as a power
+source: the infalling partner carries negative energy and is negligible beside ordinary infall, so it cannot be
+what energizes X. As a tie-breaker it holds together: Emily's kind rule (6 November: the first pair made across the
+boundary sets the outside foot's kind) has nothing yet that decides the first pair. A small bias at a tipping point
+picks the outcome (nearest published model: symmetry breaking in a small explicit bias field). Without spin the bias
+is even, which is the random-flaws row of the look above (either kind by chance, patches of both); with spin it is
+one-sided, the handed-crystal row (one kind every time). So the reading that survives is: the parent's spin, through
+its Hawking partners, gives X its hand and settles the first pair at the burp. Ours, unverified; no look exists in
+the toy, which has neither horizon nor spin.
+
+**Questions for Emily.** Does a burp take mass from the parent black hole? Does Hawking leakage set the smallest
+black hole that can burp? Could the parent's spin be what gives X its hand and settles the first pair across the
+boundary?
