@@ -1913,3 +1913,23 @@ the toy, which has neither horizon nor spin.
 **Questions for Emily.** Does a burp take mass from the parent black hole? Does Hawking leakage set the smallest
 black hole that can burp? Could the parent's spin be what gives X its hand and settles the first pair across the
 boundary?
+
+## 9 November 2026, later still: a crystal of twisted pairs (Ashley, verbatim, chat with Claude)
+
+"if our crystal is also made up of twisted pairs would that account for whats missing"
+
+Ours, the same day. "What's missing" is the step from the parent to the bias q of the look above (surplus share
+= flaw rate x (2q - 1)). Read in Emily's terms (ours, inferred, hers to confirm): the two members of a pair already
+carry opposite twist, which is why they cancel; "twisted pairs" means the pair as a whole coils one way, as the
+two opposite strands of DNA still make a handed helix, and every pair in a slab coils the same way, the other slab
+the opposite way. What checks out: that makes X handed from the inside, with no spin needed, and gives the twins
+opposite surpluses at once (her step 3); quartz is handed for the same reason, its units linked in spirals of one
+sense (general knowledge, to verify). What does not yet: it gives the hand, not the size of q. Nearest published
+model: the parity-violating energy difference between mirror-image molecules, tiny and from the weak force (general
+knowledge, to verify). Test that tells, once twist is its own number again (6 November, design brief owed): in a
+slab whose pairs all coil one way, the energy to remove the member twisted with the coil against the member
+twisted against it. Zero kills the idea; a nonzero difference gives q, and q gives a surplus to set beside the
+measured baryon-to-photon ratio (about 6 x 10^-10; Planck 2018, to verify), written before it is computed.
+
+**Question for Emily.** If all the pairs in a slab coil one way, is one member of a pair easier to remove than the
+other, and by how much?
