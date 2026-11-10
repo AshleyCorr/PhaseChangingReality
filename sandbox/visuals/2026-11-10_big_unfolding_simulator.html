@@ -608,7 +608,7 @@ resize();requestAnimationFrame(frame);
 
 <script>
 (function(){if(window.self===window.top)return;
-  var send=function(){try{parent.postMessage({type:'bu-height',h:document.documentElement.scrollHeight},'*');}catch(e){}};
+  var send=function(){try{parent.postMessage({type:'bu-height',h:Math.ceil(document.body.getBoundingClientRect().height)+4},'*');}catch(e){}};
   new ResizeObserver(send).observe(document.body);window.addEventListener('load',send);send();})();
 </script>
 </body>
