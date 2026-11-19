@@ -1682,3 +1682,60 @@ diagonals: a store holds the proton's worth of bond, so sigma is about 332 MeV p
 count unit and the proton's mass; the brief has the numbers). The proton is the calibration, so a store's mass is
 not a prediction; downstream, dark particles near a GeV after the burp and about 5.4 stores per baryon for Planck's
 5.36 by mass are targets. The brief's sigma choice is closed.
+
+## 18 November 2026, evening: antihydrogen's magnetism, spin, the flux-pinned puck and a flaw-grid snap (Ashley's, verbatim, chat)
+
+Ashley's, not hers: his questions in a chat with Claude, recorded in his fork. His words, in order:
+
+"I was just watching a video on anti magnesium and how it acts in a loop"
+
+"No. This was a new experiment in cern with antimatter hydrogen and how anti magnesium was observed and that
+effects. Could this be something that effects Emily's donut loop ? What keeps it spinning or the black holes
+spinning onset around the donut as the create new universes"
+
+"Does the push pull of gravity and anti magnetism cause any force meaningful to the idea?"
+
+"I also just heard that when they want to create a flux pinning thing they do it by making a puck with tiny
+flaws. That sounds a bit familiar"
+
+"How can we test it?"
+
+Ours, the same evening (rule 21; published facts are general knowledge, to verify, except where a source is named).
+
+- **The experiment.** No "anti-magnesium" has been made; the result is ALPHA's antihydrogen ground-state hyperfine
+  splitting at 4 parts per million, about 100 times sharper than 2017 (Nature, 2026; reported by SFU and Purdue
+  physics news and CERN Courier, 23 July 2026), equal to hydrogen's. The splitting is the magnetic pull between the
+  antiproton's and the positron's magnetic moments. Measurement: antimatter's magnetism mirrors matter's at this
+  level. ALPHA-g (2023) saw antihydrogen fall down, not up.
+- **Bearing on her doughnut.** What checks out: the slab is a doughnut (HYPOTHESIS, exact), and matter and
+  antimatter come as equal opposite pairs that the energy cannot tell apart (CLAUDE.md); a 4 ppm match agrees with
+  that. What it does not give: any matter-antimatter difference, so it does not bear on the surplus. Measurement
+  to face: a matter-antimatter pair cancels charge but not gravity; stored pairs weigh.
+- **What keeps things spinning.** Measurement: angular momentum is conserved; a black hole spins because what fell
+  in was swirling; nothing in space drains it except the hole's own fields. Nearest published model: Popławski's
+  torsion cosmology, in which a rotating black hole hands a preferred axis to the space it makes; in her picture a
+  preferred direction, if any, is the rod's (5 November entry). Claims of a preferred galaxy-spin direction are
+  disputed.
+- **Gravity and "anti-magnetism".** Correction, measurement: there is no anti-magnetism; antimatter's magnetism is
+  ordinary magnetism with the moments reversed, and gravity only pulls. Matter and antimatter attract by gravity,
+  by charge and magnetically. Atom-scale magnetism is far weaker than the electric force; it matters at large
+  scales (plasma, jets). Published: ALPHA holds antihydrogen in a magnetic minimum; a tokamak holds plasma in a
+  doughnut-shaped field; Blandford-Znajek takes a spinning hole's energy out through twisted field lines. In chat
+  Claude suggested a doughnut-wrapped field holding the two kinds in separate lanes. That is close to a withdrawn
+  idea, so it is raised once, as a question, not proposed: WITHDRAWN line 74, "The sorter of matter from antimatter
+  is electromagnetism (U104) → a handed charge; then the spin sorting a dipole's direction, each twin neutral —
+  U123." Does Ashley's lane picture differ from U104 in any way he wants kept?
+- **The flux-pinned puck.** Checks out, measurement: a perfect type-II superconductor expels the field and slides
+  off; pinning needs defects, which trap flux tubes; warmed past its critical temperature it lets go at once. His
+  match: the flaws hold the stored state and set where the release starts. Nearest published model: Kibble-Zurek,
+  defects left by a cooling transition (confirmed in superconductors and liquid crystals); the cosmic searches
+  (cosmic strings) have found none and set limits. Word: GLOSSARY does not use "topological defect" for the relic.
+- **How to test.** (1) A tabletop puck as a demonstration, not evidence. (2) The look below. (3) Limits it must fit
+  inside: cosmic-string limits (Planck, pulsar timing); and, for his handed twisted pairs, the cosmic birefringence
+  hint (about 0.3 degrees in Planck polarization, Minami and Komatsu 2020, unconfirmed; Simons Observatory to test).
+
+The look: `sandbox/flaw_grid_snap_look.py`, LOG line of this date. Seen: a crystal whose first flaws set off a fast
+release front puts almost all its unevenness in the largest patterns (share 0.95 against about 0.39 for a
+scale-invariant sky); a perfect crystal puts too little (0.18); a slow front, where many flaws go off on their own,
+lands near it (0.33). The same slow front is too lopsided (A about 0.27 against Planck's about 0.07, to verify).
+A standalone grid, not the toy; nothing registered.
