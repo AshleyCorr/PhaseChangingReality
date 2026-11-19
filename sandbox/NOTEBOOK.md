@@ -1739,3 +1739,9 @@ release front puts almost all its unevenness in the largest patterns (share 0.95
 scale-invariant sky); a perfect crystal puts too little (0.18); a slow front, where many flaws go off on their own,
 lands near it (0.33). The same slow front is too lopsided (A about 0.27 against Planck's about 0.07, to verify).
 A standalone grid, not the toy; nothing registered.
+
+Ashley's answer, the same evening (verbatim): "I don't think so. We don't need that right"
+
+Ours: right. The lane picture is not kept; WITHDRAWN line 74 stands and nothing comes back. In his chain the two
+kinds are held apart by frozen time, not by a field (his idea from earlier chats, not yet in this notebook), so the
+lanes were not needed. Question closed.
